@@ -1,0 +1,4063 @@
+personId,personName,best
+2014WENW01,Wong Chong Wen (黄崇文),2000
+2015FUSH01,Firstian Fushada (符逢城),2067
+2012MCNE01,Jayden McNeill,2100
+2014SCHO02,Cale Schoon,2100
+2017CHOI07,Kyeongmin Choi,2100
+2019RATT02,Louis-Marie Ratto,2133
+2020BARA02,Radomił Baran,2133
+2017LOUY01,Yunhao Lou (娄云皓),2133
+2014KARN02,Daniel Karnaukh,2167
+2018LOVE03,Jack Love,2167
+2015SHAH09,Krish Shah-Nathwani,2167
+2012LIUY03,Yiwei Liu (刘伊玮),2167
+2016LOPE44,Mauro Moises López,2167
+2016KAMA04,AJ Kamal,2200
+2016NORD02,Theodor Nordstrand,2200
+2016SINY01,Alexei Sinyavin,2200
+2013DIPI01,Guido Dipietro,2200
+2011TRON02,Sebastiano Tronto,2200
+2015WIDD01,Owen Widdis,2200
+2019ROGO04,Wojciech Rogoziński,2200
+2019TAMU01,Takumi Tamura (田村匠),2200
+2015KUCA01,Carter Kucala,2200
+2019MERR02,Alexis Le Merrer,2200
+2013NELS01,Tom Nelson,2233
+2014BOYA01,Mark Boyanowski,2233
+2013GERT01,Nicolas Gertner Kilian,2233
+2012SART01,Louis Sarthou,2233
+2010BENT01,Jan Bentlage,2233
+2014CHIC01,Christopher Chi,2267
+2016OCHS01,Zachary Ochs,2267
+2016KALB01,Cyprian Kalbarczyk,2267
+2014KIPR01,Tommy Kiprillis,2267
+2017PODZ01,Modest Podzolkin,2300
+2018CREE01,Kerry Creech,2300
+2013SAVA01,Harry Savage,2300
+2022SLOA01,Jaye Sloan,2300
+2016QUIN01,James Quinn,2300
+2014SCHW02,Fabio Schwandt,2300
+2012BUBE01,Reto Bubendorf,2300
+2018FANG03,Lichi Fang (方力驰),2300
+2018ISOM02,Lewis Isom,2300
+2018RIAB01,Yurii Riabov (Юрій Рябов),2333
+2019RIED01,Jan Riedl,2333
+2016BAIR01,Samuel Baird,2333
+2018XIAO03,Dunhui Xiao (肖敦慧),2333
+2016EPST02,David Epstein,2333
+2016BARO04,Ben Baron,2333
+2009SHEP01,Daniel Sheppard,2333
+2016KELL12,Simon Kellum,2333
+2019KARP03,Bartosz Karpiński,2333
+2014RAPO01,Tommaso Raposio,2333
+2011WELC01,Walker Welch,2333
+2018GIBS04,Levi Gibson,2367
+2015ONOF01,Anuar Miguel Abib Onofre,2367
+2019SHEN10,Jeremy Sheng,2367
+2013BROW04,Evan Brown,2367
+2008DONG06,Baiqiang Dong (董百强),2367
+2009BALO03,Dávid Balog,2367
+2018MOSH01,Zecharya Moshavi,2400
+2008UENO01,Shuto Ueno (上野柊斗),2400
+2016IHLE01,Malte Ihlefeld,2400
+2011FOOT01,Teh Keng Foo (郑庆富),2400
+2016ZHEN09,Ang Chin Zhen (洪靖程),2400
+2008AURO01,Sébastien Auroux,2400
+2014LALI01,Ishaan Lal,2400
+2011FRES01,Linus Frész,2400
+2011NATH02,Andrew Nathenson,2400
+2014ZYCH01,Jan Zych,2400
+2013JOHN10,Brian Johnson,2400
+2012SANT12,Rafael Rodriguez Santana,2400
+2012PETE03,Marcel Peters,2433
+2016KRAF01,Noah Kraft,2433
+2017ANON13,Anonymous,2433
+2013KIMD01,Dohyun Kim (김도현),2433
+2023SAKO02,Yuki Sako,2467
+2017TENU01,Enrico Tenuti,2467
+2017SWOR01,Noah Swor,2467
+2013EGDA02,Martin Vædele Egdal,2467
+2012DELI01,Ryan DeLine,2467
+2008VASC01,Vasco Vasconcelos,2467
+2017HUAN63,Ruei-Ying Huang (黃睿穎),2467
+2008WARL01,Jackson Warley,2467
+2014TAMI01,Roy Tamir,2500
+2014WANG48,Dylan Wang,2500
+2015GROH02,Matěj Grohmann,2500
+2006SHEU01,Vincent Sheu,2500
+2017INKA01,Korakot Inkaew (กรกฎ อิ่นแก้ว),2500
+2018NEVE02,Adrien Neveu,2500
+2017WANY29,Yifan Wang (王逸帆),2500
+2009YAUR01,Robert Yau,2500
+2023YILU01,Luis Tan Hong Yi (陈宏溢),2500
+2008BARA01,Bence Barát,2533
+2008CLEM01,Kit Clement,2533
+2019MRZY01,Jeremy Mrzyglocki,2533
+2014ROCH07,David Roche,2533
+2017BRYA06,Aedan Bryant,2533
+2016JEON02,Jaehyun Jeong (정재현),2533
+2023LOPE09,Jordi Lleixà López,2533
+2010UTOM01,Vincent Hartanto Utomo,2533
+2011RHEI01,Emanuel Rheinert,2533
+2013COST02,João Pedro Batista Ribeiro Costa,2533
+2016KELL10,Adam Marcellus Kelly,2533
+2017BEZN01,Aleksandr Beznogov,2567
+2016SZAN01,Szabolcs Szántai,2567
+2016DEXT01,Riley Dexter,2567
+2019YANG94,Cian-Jyun Yang (楊謙君),2567
+2009OHRN01,Laura Ohrndorf,2567
+2019ISHI07,Kazuya Ishii (石井一也),2567
+2016HOLM04,Laurids Abelsen Holm,2567
+2017EXNE01,Carl Emil Exner,2567
+2015CAMP17,Alexandre Henrique Afonso Campos,2567
+2014CSUT01,Bence János Csuti,2567
+2016PILA03,Ryan Pilat,2567
+2015PARK13,Danny SungIn Park,2567
+2023KADO01,Shota Wakabayashi (若林翔太),2567
+2017TURM01,Itamar Turm,2567
+2013KOSK01,Jonatan Kłosko,2567
+2016WOJC04,Dawid Wójcik,2567
+2009DIEC01,Cornelius Dieckmann,2600
+2022PARR10,Max Parris,2600
+2016LIAN02,Chang Hong Liang,2600
+2017PARK05,DongSoo Park (박동수),2600
+2015PABR01,Ujjawal Pabreja,2600
+2019PIET01,Krzysztof Pietrusiak,2600
+2019POUC01,Alaric Pouchain,2600
+2009HARN01,Brandon Harnish,2600
+2013OPOK01,Radosław Opoka,2600
+2019TRAN10,Vincent Trang,2600
+2016CHAP04,Stanley Chapel,2600
+2016HOUN01,Joshua Hounslow,2600
+2016FANX01,Xinyuan Fan (范歆远),2633
+2018BOND03,Pavlo Bondar (Павло Бондар),2633
+2010THOM03,Blake Thompson,2633
+2008YOUN02,Michael Young,2633
+2010ZHAO11,Jibo Zhao (赵吉波),2633
+2005REYN01,Tim Reynolds,2633
+2016SORI04,Luigi Soriano,2633
+2011MAHT02,Natthaphat Mahtani (ณัฐภัทร จี มาทานี),2633
+2010DUJI01,Jiejie Du (杜杰杰),2633
+2013HUAN16,Bo Huang (黄镈),2633
+2017FOKI01,Alexandros Fokianos,2633
+2016AQUI02,Jose Polorhenzo Aquino,2633
+2009FUSH01,Arifumi Fushimi (伏見有史),2667
+2014BAIR01,Ray Bai,2667
+2012MAZI01,Ziheng Ma (马子恒),2667
+2023SHAK01,Shahul H. Shakila,2667
+2007MINH01,Minhyun Kim (김민현),2667
+2018YIKL01,Lim Chun Yik (林峻毅),2667
+2015CHER07,Tommy Cherry,2667
+2016ELAN01,Nitheesh Kumar Elangovan,2667
+2010AMBR01,Jacob Ambrose,2667
+2015SANT44,Advay Sant,2667
+2011ALVI01,Wilson Alvis (陈智胜),2667
+2016VIAN01,Kim Vianna,2667
+2012LEEC01,ChoongMyoung Lee (이충명),2667
+2013JEZI01,Szymon Jeziorski,2700
+2014ZAKR01,Karol Zakrzewski,2700
+2016SILV02,Luiz Fellipe Oliuza Leal Silva,2700
+2011SBAH01,Rami Sbahi,2700
+2016ALRO01,Karam Al-Robaie,2700
+2021WALK02,Mats Walker,2700
+2013ROGA02,Przemysław Rogalski,2700
+2010JERN01,Erik Jernqvist,2700
+2017PERE33,Romina Peretti,2700
+2013YUSH01,Pavel Yushkevich,2700
+2007SANC01,Javier Cabezuelo Sánchez,2700
+2010GARC02,Carlos Méndez García-Barroso,2700
+2014SEBA01,Juliette Sébastien,2700
+2015CHEA01,Andrey Che,2700
+2014GOSL01,Raymond Goslow,2700
+2017WARR04,Benjamin Warry,2700
+2008LAUR01,Mario Laurent,2700
+2010KILD02,Wilhelm Kilders,2700
+2014MAUR06,Lorenzo Mauro,2700
+2014OHLE01,Simone Bentlage,2700
+2016THOR08,Elvin Thorsen,2700
+2011STAC01,Marcin Stachura,2733
+2016PRAB03,Pranav Prabhu,2733
+2009ZEMD01,Feliks Zemdegs,2733
+2016GARC34,Carlos Rill Garcia,2733
+2022ROBI05,Eden Robinson-Rechavi,2733
+2015SIAN01,Dylan Seah Tze Siang,2733
+2022ISLA08,Rayan Islam,2733
+2013KOBA01,Tomohiro Kobayashi (小林知広),2733
+2015QUAN03,Ng Jia Quan (黄佳铨),2733
+2009OKAY01,Tomoaki Okayama (岡山友昭),2733
+2015MACK06,Zeke Mackay,2733
+2007VALK01,Mats Valk,2733
+2010DAVI06,Julian David,2733
+2016HART02,Sean Hartman,2733
+2008SAMP01,Bradley Sampson,2733
+2011NARA02,Bhargav Narasimhan,2733
+2011ZHUK01,Kun Zhu (朱坤),2733
+2010HUNT02,Aneurin Hunt,2733
+2014LOKW01,Wong Kin Lok (黃健樂),2733
+2016WUJI01,Jiashun Wu (吴嘉顺),2733
+2015GUNN01,Jakob Gunnarsson,2767
+2016BOUC01,Shawn Boucke,2767
+2015SOAR01,Nikhil Soares,2767
+2015WITM01,Mattheo de Wit,2767
+2014MARQ02,Marlon de V. Marques,2767
+2018BRUU01,Jacob Oliver Bruun,2767
+2016RUCI01,Marcel Ručigaj,2767
+2013GOOD01,Daniel Goodman,2767
+2007JOHN02,Erik Johnson,2767
+2014HERN12,Jesús Julián De Niz Hernandez,2767
+2019BENG02,Liav Bengayev,2767
+2014NOVO01,Tomáš Novotný,2767
+2012HIRA01,Tomoyuki Hiraide (平出智之),2767
+2016DURA09,Paweł Duraj,2767
+2009BATT01,Chad Batten,2767
+2016CHOI01,Chris Choi,2800
+2016TARA04,Igor Tarasov,2800
+2013LIPE01,Peiyan Li (利沛焰),2800
+2014ARGA01,Hector David Martinez Argaez,2800
+2011SALA04,Ali Salavati (علی صلواتی),2800
+2007YOUN04,Ko Youngjin (고영진),2800
+2017NAJA02,Oscar Sánchez Najarro,2800
+2019CUIK03,Kai Cui,2800
+2010RONK01,Niko Ronkainen,2800
+2019BOGU01,Krzysztof Boguszewski,2800
+2019YEUN01,Alvin Cheng Hiu Yeung (鄭曉洋),2800
+2017GARR05,Luke Garrett,2800
+2013STAH02,Joey Stahl,2800
+2018YERK02,Yerkin Assylbek,2800
+2014ZHAN11,Yunke Zhang (张云柯),2800
+2013BOTZ01,Alexander Botz,2800
+2009XUAN03,Yan Xuan (宣炎),2800
+2018ZHAZ08,Zhiyuan Zhang (张质源),2800
+2016CUEV04,Theo Daniel Gallegos Cuevas,2800
+2012CAPP01,Gabriele Cappelletti,2800
+2015ANTO04,Manuel Prieto de Antón,2800
+2017LAWR04,Timothy Lawrance,2800
+2015WANG46,Shih-Hao Wang (王士豪),2800
+2013EGDA01,Daniel Vædele Egdal,2833
+2005LUCZ01,Grzegorz Łuczyna,2833
+2013ERTA01,Muhammed Enes Ertaş,2833
+2012SEVE01,Ainesh Sevellaraja,2833
+2017NORR01,Timo Norrkniivilä,2833
+2016SANT03,Andrey Conceição,2833
+2013BEES01,Dominik Beese,2833
+2012PATE01,Antonie Paterakis,2833
+2017ZHUL01,Maxim Zhulin,2833
+2017CHAM09,Jacob Chambers,2833
+2015BERG10,Ben Bergen,2833
+2007NAKA03,Yu Nakajima (中島悠),2833
+2008WEST02,Simon Westlund,2833
+2016GOTT01,Benjamin Gottschalk,2833
+2014PAVI02,Anderson Alessandro Pavia,2833
+2018STOK01,Ben Stokes,2833
+2015LAHN01,Sergey Lahno,2833
+2014NIEL03,Calvin Nielson,2833
+2015CECC01,Vicenzo Guerino Cecchini,2833
+2017RIVA09,Quentin Rivault,2833
+2011SZAT01,Wojciech Szatanowski,2833
+2015EWER01,Helmer Ewert,2833
+2014FRIT02,Oliver Fritz,2833
+2007YUNQ01,Yunqi Ouyang (欧阳韵奇),2833
+2012LEHT01,Janne Lehtimäki,2833
+2007PERG01,Olivér Perge,2833
+2011LAYE01,Saeed Mostafavi Layegh (سعید مصطفوی لایق),2833
+2011DWYE02,Nathan Dwyer,2833
+2017AGGA01,Sameer Aggarwal,2867
+2012ZAKE02,Dušan Zakelšek,2867
+2011ANON06,Anonymous,2867
+2011BANS02,Shivam Bansal,2867
+2010MATT02,Kevin Matthews,2867
+1982RAZO01,Guus Razoux Schultz,2867
+2014GLYR01,Victor Glyrskov,2867
+2011STUA01,Rob Stuart,2867
+2013KOKS01,Serhii Koksharov (Сергій Кокшаров),2867
+2011NIKI01,Michał Nikiel,2867
+2015JAEH01,Konstantin Jaehne,2867
+2009KITM01,Mok Man Kit (莫文傑),2867
+2013KODA01,Satoshi Kodama (児玉聡),2867
+2021YEPU01,Putian Ye (叶溥天),2867
+2007SUNT01,Timothy Sun,2867
+2006GARR01,Lucas Garron,2867
+2014RENW01,William Gan Wei Ren (颜伟仁),2867
+2008PIAU01,Antoine Piau,2867
+2015MACD03,James Macdiarmid,2867
+2017MEYS02,Cedric Meysing,2867
+2014HOLU01,Lev Golub (Лев Голуб),2867
+2023ARRA01,Crimson Arradaza,2867
+2014JAYE01,Eli Jay,2867
+2014KARL01,Alexander Karlov,2867
+2014BORG02,Federico Borgogni,2867
+2013COPP01,Ben Coppin,2867
+2018YOUN09,James Matthew Young,2867
+2013KRAS02,Michał Krasowski,2867
+2009PLES01,Michał Pleskowicz,2867
+2012CHEN44,Maosheng Chen (陈茂盛),2867
+2014STAR05,Charlie Stark,2900
+2007XUST01,Steven Xu,2900
+2013LOYK01,Nikita Loika,2900
+2012KUCH01,Piotr Kuchta,2900
+2018LAPE01,Gael Augusto Lapeyre,2900
+2007HUGH01,Mike Hughey,2900
+2013OLSZ02,Piotr Olszewski,2900
+2008PEPK01,Marek Pepke,2900
+2008OLLE01,Alexander Olleta del Molino,2900
+2016PRZY01,Kamil Przybylski,2900
+2016ELOV01,Viljo Elo,2900
+2018CONN04,Edward Connell,2900
+2014GUPT09,Prakhar Gupta,2900
+2009LIUE01,Evan Liu,2900
+2022GHEN01,Matei-Alexandru Ghencea,2900
+2017SHEN31,Yixiao Shen (沈逸霄),2900
+2013GRIG01,Bogdan Grigoruţă,2900
+2013FRAI01,Diego Fraile,2900
+2010UBAL01,John Edison Ubaldo (ᜇ᜔ᜌᜓ︀ᜈ᜔ ᜁᜇᜒᜐᜓ︀ᜈ᜔ ᜂᜊᜎ᜔ᜇᜓ︀),2900
+2017CHUB02,Spencer Chubb,2900
+2017LUOY05,Yan Luo (骆彦),2900
+2016RING01,Timothé Ringeard,2900
+2015SALO01,Álvaro Aguilar Salobreña,2900
+2017OWEN01,Harry Owen,2900
+2015TALL01,Levi André Tallaksen,2900
+2012JALO01,Grzegorz Jałocha,2933
+2013BURL01,Łukasz Burliga,2933
+2019NOMU01,Yuki Nomura (野村優希),2933
+2005AKKE01,Erik Akkersdijk,2933
+2013WALL03,Daniel Wallin,2933
+2022SUND04,Sundararajan,2933
+2021LEMP01,Luukas Lempinen,2933
+2015ZHAR01,Alexey Zharikov,2933
+2016ZHAN18,Feihong Zhang (张费鸿),2933
+2009WHIT01,Ben Whitmore,2933
+2017MAND13,Francisco Moraes Mandalozzo,2933
+2015ROSE01,Daniel Rose-Levine,2933
+2011FERA01,Joshua Feran,2933
+2011LIMA02,Bruno Fonsêca Coelho Lima,2933
+2017RICH02,Braden Richards,2933
+2017HERM01,Daniel Anker Hermansen,2933
+2017SIAU02,Max Siauw,2933
+2015GROB02,Ruben Grobler,2933
+2015DORN02,Paris Dorn,2933
+2009BLAI01,AJ Blair,2933
+2016HARA02,Knut Skaug Haraldsen,2933
+2018KHAN28,Zayn Khanani,2933
+2016GAMM01,Vincenzo Maria Gammino,2933
+2015XION03,Max Xiong (熊锐明),2933
+2012CALL01,Will Callan,2933
+2018KHAN26,Hassan Khanani,2933
+2014CHER05,Clément Cherblanc,2967
+2012ELLI01,Keaton Ellis,2967
+2016AUBE01,Matthieu Aubert,2967
+2016HARL01,Jason Harley,2967
+2014BART06,Jakub Bartos,2967
+2015MATT05,Enzo Mattos,2967
+2013FRON01,Martin Fronescu,2967
+2013GERH01,Kevin Gerhardt,2967
+2014TANA01,Takayuki Tanaka (田中隆喜),2967
+2015LINC03,Cheng-Wei Lin (林澄蔚),2967
+2012HUAN12,Ping-Yueh Huang (黃品越),2967
+2014ZHAN43,Xuyang Zhang (张煦阳),2967
+2012MENE01,Diego Meneghetti,2967
+2016CAST48,Timothy Castle,2967
+2015LAII01,Isaac Lai Yin Chung,2967
+2016MULL04,Daniel Mullen,2967
+2016WHIT16,Jason White,2967
+2007POLI01,Lorenzo Vigani Poli,2967
+2019RAMO05,Dwyane Ramos,2967
+2010ADHI01,Stephen Adhisaputra,2967
+2017WATS07,Oscar Watson,2967
+2018KAST02,Ihor Kastranets (Ігор Кастранець),2967
+2021YANG27,Jihun Yang (양지훈),2967
+2018LOPE22,Leandro Martín López,2967
+2016WHEA01,Oliver Wheat,2967
+2017LIUC11,Chunhao Liu (柳春浩),2967
+2018WEYE01,Peter Weyers,2967
+2014LAFO01,Anthony Lafourcade,3000
+2018DULL01,Twan Dullemond,3000
+2016DAVI02,Ethan Davis,3000
+2014MIAO02,Qijun Miao (缪其隽),3000
+2012LEEJ05,Jack Lee,3000
+2019PRES02,Daniel G. Preston,3000
+2012KROK01,Anton Krokhmal (Антон Крохмаль),3000
+2008TAKA01,Yuhei Takagi (高木佑平),3000
+2018JERN01,Jakob Jernsletten,3000
+2019KEDZ01,Adam Kędziorski,3000
+2018OLII01,Maksym Oliynyk,3000
+2014OLAR02,James Olarte,3000
+2010INHA01,Inha Woo (우인하),3000
+2019GUNT04,Timo Günthardt,3000
+2011BERG02,Anders Berggren,3000
+2014WALK05,Alex Walker,3000
+2010BREC01,John Brechon,3000
+2018KINN05,Urho Kinnunen,3000
+2013HUBH01,Hanns Hub,3000
+2017PIHE01,Remo Pihel,3000
+2017RAMI08,Angel Alexis Carrillo Ramirez,3000
+2015YANG23,Cheng-Ru Yang,3000
+2017VASQ11,Juan David Carmona Vásquez,3000
+2016AMBE02,Dieter Amberger,3000
+2013WIND01,Johan Sokrates Wind,3000
+2022BLAC01,Adam Black,3000
+2013KATO01,Eva Kato,3000
+2012POHL01,Andreas Pohl,3000
+2014PATT02,Thomas Patterson,3000
+2010AGUI04,Pablo Aguilar Dominguez,3000
+2013MATS02,Fumiya Matsui (松井郁也),3000
+2018CAMP15,Cole Campbell,3000
+2016SIMK01,Samuel Simko,3000
+2016CHAN25,Theodore Chan,3033
+2009ROTA01,Marco Rota,3033
+2011IMAI01,Minato Imai (今井港),3033
+2014QUYN02,Tomáš Nguyen,3033
+2017KLOS01,Willem Klose,3033
+2012ARTH01,Noah Arthurs,3033
+2016BITZ01,Carter Bitz,3033
+2017LIND01,Leo Lindqvist,3033
+2015KANY01,Yikuan Kan (阚亦宽),3033
+2016PYWI01,Wilfrid Py,3033
+2011MOLL01,James Molloy,3033
+2015HIGH01,Liam Highducheck,3033
+2015CALD02,Kymberlyn Calderon,3033
+2018ABLA01,Ahmet Çınar Ablak,3033
+2016BOUR01,Noé Bourdon,3033
+2017MAZH04,Zhiyuan Ma (马之元),3033
+2014MEND02,Alexis Rodrigo Cazu Mendoza,3033
+2006GOTT01,Michael Gottlieb,3033
+2016LIND01,Daniel Lin,3033
+2013MARC03,Gabriel Marczak,3033
+2012MORM01,Serhii Mormul (Сергій Мормуль),3033
+2020DECI01,Remo Decio,3033
+2013VEDE01,Andrii Vedenov (Андрій Веденьов),3033
+2012LUOS01,Shu-Yii Luo (駱書翊),3033
+2013HENA01,Pi Sevilla Hernández,3033
+2019MORG10,Danny Morgan,3033
+2016JANO01,Jēkabs Janovs,3033
+2014DETL01,Rasmus Stub Detlefsen,3033
+2014LEHW01,Daniel Lehwing,3033
+2013DISA01,Edoardo Disarò,3033
+2014HAGM01,Marcus Hagman,3033
+2012HALE01,Callum Hales-Jepp,3033
+2019KLEV01,Patrick Kleverlaan,3033
+2005FLEI01,Jeremy Fleischman,3033
+2011MAAS01,Alex Maass,3067
+2005KOZK01,Piotr Kózka,3067
+2022SOHR01,Ryan Soh,3067
+2022PART02,Daniel Partridge,3067
+2012WESC01,Lucas Wesche,3067
+2011MELI01,Artem Melikian (Артем Мелікян),3067
+2013GALA04,Pavel Galaktionov,3067
+2015MLOS01,Michał Mlostek,3067
+2011KUNG01,GyeongTae Park (박경태),3067
+2006CORR01,Devin Corr-Robinett,3067
+2020HONI01,Aryeh Honig,3067
+2020TAOR01,Richard Yiheng Tao,3067
+2015HSIE02,Ho Hsieh (謝合),3067
+2008MAND01,Nikhil Mande,3067
+2019SPEI01,Cyrill Speiser,3067
+2018DIAZ09,Paolo Duvan Gallegos Diaz,3067
+2007WONG02,Tim Wong,3067
+2015BROW03,Elijah Brown,3067
+2019HANS03,SeungO Han (한승오),3067
+2014HARN01,Micki Kanaiya Harning,3067
+2015STEV03,Ethan Stevens,3067
+2014LUXI05,Xinyu Lu (卢鑫宇),3067
+2022MAOA01,Andrew Mao,3067
+2018ZHEN45,Frederick Zheng,3067
+2012YANA01,Taku Yanai (矢内拓),3067
+2011DOBR01,Dmitry Dobrjakov,3067
+2010HULL01,Katie Hull,3067
+2011GRIT01,Oleg Gritsenko,3067
+2017DUMM01,Matteo Dummar,3067
+2016CHAR01,Jonathan Charlesworth,3067
+2016CHEU04,Andy Mok Man Cheuk (莫文卓),3067
+2016KANH02,Hsiang-Cheng Kan (闞祥誠),3067
+2019BONE03,Antonio Bonessi,3100
+2016PFEI01,Jack Pfeifer,3100
+2017CHAM02,Anael Champion,3100
+2017CHAN44,Vincent Chan,3100
+2017DEBS01,Adrian Dębski,3100
+2008MORE02,Hippolyte Moreau,3100
+2018STEP07,Lachlan Stephens,3100
+2016OCON02,Lucas O'Connell,3100
+2015MEHT08,Yash Mehta,3100
+2018RAKH02,Adil Rakhimzhanov (Адиль Рахимжанов),3100
+2012SLUC01,Valeriy Sluchek,3100
+2016SANT66,João Vinícius de A. Santos,3100
+2016CETR01,Joel Cetra,3100
+2007ADSU01,Justin Adsuara,3100
+2011FATE01,Seyyed Mohammad Hossein Fatemi (سید محمد حسین فاطمی),3100
+2022COST03,Christofor Gabriel Costea,3100
+2016MATE04,Arnau Tous Mateu,3100
+2012BRED01,Ulrik Bredland,3100
+2015MIKH04,Farid Mikhailov,3100
+2021SUHA01,Han Su (苏涵),3100
+2016JIAN13,David Jiang (蒋濬哲),3100
+2019BORO03,Šimon Borovský,3100
+2015SAHU02,Abhijat Sahu,3100
+2013ZHYH01,Vladyslav Zhyhailo (Владислав Жигайло),3100
+2013SCHM02,Thomas Mæhle Schmidt,3100
+2017BLAC06,Ash Black,3100
+2016GEEN01,Nathaniel Gee,3100
+2013WANG69,Bo Wang (王擘),3100
+2017CHAK07,Debartha Chakraborty,3100
+2019KYUN01,Kyuwon Kyung (경규원),3100
+2016GONG02,Andy Gong,3100
+2014BHAT09,Alaik Bhatia,3100
+2012HORV01,Attila Horváth,3100
+2019ROBE01,Alistair Robequin,3133
+2013ZOLL01,Ben Zoller,3133
+2019BORC01,Andrew Borchetta,3133
+2014CLAR03,Caleb Clark,3133
+2018HAMK01,Jakub Hamkało,3133
+2018GRAH05,Kate Grahame,3133
+2012RAUT01,Sakari Rautalin,3133
+2021SMIG01,Adam Śmigaj,3133
+2016YORK01,CJ York,3133
+2010WHIT05,Zachary White,3133
+2014ANIS01,Ilya Anishchanka,3133
+2008SMIT04,Maarten Smit,3133
+2013MUAT01,Matěj Mužátko,3133
+2012ESPI02,Jorge Martín Espinosa,3133
+2020MADD02,Jack Maddigan,3133
+2010DESJ01,Jules Desjardin,3133
+2012NICO02,Alessandro Nicolì,3133
+2012CHAJ01,Joon Cha (차준혁),3133
+2016VEDM01,Glib Vedmid,3133
+2012HAML01,Francisco Hamlin,3133
+2015DEGL01,Lucas Déglise,3133
+2019CHIN08,Camerone Chin,3133
+2014JANE02,Ethan Jan,3133
+2013SAVI01,Henry Savich,3133
+2016KRUE01,Ivan Krueger,3133
+2014LAFO02,Clara Lafourcade,3133
+2017MERA01,Diego Alonso Tapia Mera,3133
+2015WANG09,Kai-Wen Wang (王楷文),3133
+2005FERN01,Ravi Fernando,3133
+2022SCHM01,Felix Christian Schmidt,3133
+2009OSTA01,Roman Ostapenko (Роман Остапенко),3133
+2009PARE02,Luis J. Iáñez,3133
+2017SUNY01,Owen Yepeng Sun (孙叶芃),3133
+2011IRIF01,Asato Irifune (入船朝斗),3133
+2015ROBI04,Tyler Robinson,3133
+2015FEDE01,Alexis Fedeler,3133
+2016ROLZ01,Alwin Rölz,3133
+2010ROSE03,Dennis Rosero,3133
+2015RUSS03,Will Russo,3133
+2017PABI01,Magdalena Pabisz,3133
+2018ALAM08,Leon Marcell Alamanda,3133
+2016QUAN03,Tam Quan,3133
+2015SETT01,Fabian Settelen,3133
+2009SIEW01,Darren Siew Ee Yaang (蕭奕暘),3133
+2022CHVO01,Marek Chvojka,3133
+2005ZOLN01,Tomasz Żołnowski,3133
+2013FENG02,Zijia Feng (冯子甲),3167
+2010EDWA02,David Edwards,3167
+2011CAST02,Michael Andres Castillo Lemus,3167
+2016OSTL02,Stian Nystad Østli,3167
+2013OZCE01,Mutlu Özçelebi,3167
+2012CHON03,Chao-Che Chung (鍾肇哲),3167
+2014MILL04,Chris Mills,3167
+2017ECHE04,Alejandro Restrepo Echeverri,3167
+2014KOUL01,Sukant Koul,3167
+2014LONG06,Bertie Longden,3167
+2022SLAB01,David Slabý,3167
+2017KOLI01,Mohammed Aiman Koli,3167
+2012FROS01,Oliver Frost,3167
+2017MILL02,Carson Miller,3167
+2015SCHO05,George Scholey,3167
+2016YANG84,Yap Jia Yang,3167
+2019LENS01,Magnus Lensch,3167
+2014DAMI01,Mingzhi Da (达明志),3167
+2009SATR01,Ardianto Satriawan,3167
+2008HASH02,Wataru Hashimura (端村航),3167
+2017CATA04,Ricardo Olea Catalán,3167
+2013SKEL01,Mark Skelton,3167
+2007KOLL01,Mats Kollbrink,3167
+2019CSEN01,Bálint Csengő,3167
+2014PETE03,Tobias Peter,3167
+2017QUEN01,Eben Quenneville,3167
+2015NAZA02,Ilya Nazarov,3167
+2013VERM02,Kornél Vermes,3167
+2013OWCZ01,Bartłomiej Owczarek,3167
+2019PILH01,Jonas Pilhöfer,3167
+2018LOHT01,Timothy Loh,3167
+2015AGNE02,Benjamin Agnew,3167
+2011WANG33,Yi Wang (王旖),3167
+2018NGHA02,Hayden Ng (吳宇晞),3167
+2013HAHN02,Max Hahnbück,3167
+2011NIAP01,Parham Saeed Nia (پرهام سعیدنیا),3167
+2012PANJ02,Jack Pan (潘杰康),3167
+2017ILIN01,Maxim Ilin,3167
+2014XUZI01,Zibo Xu (徐子博),3167
+2011SAKO01,Corey Sakowski,3167
+2012QIUR01,Ruohan Qiu (邱若寒),3167
+2016NILS03,Filip Nilsen,3167
+2016SIGG01,Graham Siggins,3167
+2020MCDO01,Jack McDougall,3167
+2014RIEM01,Marius Rombout Ferreira van Riemsdijk,3167
+2015CHIA03,Vitor Varjão Chiang,3167
+2006BUUS01,Henrik Buus Aagaard,3167
+2017WALK02,Alex Walker,3167
+2018GOME06,Jaime Calzado Gomez,3200
+2016SMUL01,Mika Smulders,3200
+2018KODA01,Muhammad Faeyza Koda,3200
+2008ZERU01,Krzysztof Żerucha,3200
+2010CANT02,Antoine Cantin,3200
+2021SREC01,Jakov Srečković,3200
+2013COLI02,Victor Colin,3200
+2017LARS03,Michael Larsen,3200
+2016YENC01,Christopher Yen,3200
+2015UGAR01,Rodrigo Ugarte,3200
+2016MART29,Artyom Martirosov,3200
+2012IVAN03,Fyodor Ivanov,3200
+2013LITV02,Kirill Litvinov,3200
+2018FANG10,Weijie Fang (方伟杰),3200
+2023NIKO07,Ilias Nikolaou,3200
+2017CAST41,Raymos Castillo,3200
+2016JENS09,William Jensen,3200
+2013BOBE01,Krzysztof Bober,3200
+2022AGUI03,Mateo Aguirre,3200
+2012GOOD02,Callum James Goodyear,3200
+2015KAME02,Marcus Kamen,3200
+2015LEON02,Ivan Li Ka Leong (李嘉亮),3200
+2018SHEN07,Mengfei Shen (沈梦非),3200
+2015ZHAO07,Xun Zhao (赵洵),3200
+2016SUZU03,Andrés Hisashi Suzuki Cabrera,3200
+2017SZUL01,Mateusz Szulik,3200
+2018PONT03,Matías Ponte,3200
+2017GOLU01,Theo Goluboff,3200
+2011CHAP01,José Leonardo Chaparro Prieto,3200
+2011COLL02,Shonathon Collins,3200
+2018TUUL01,Kaur Tuule,3200
+2015ZHUX01,Xingye Zhu (朱星晔),3200
+2013GONZ05,Eki Gartzia González,3200
+2008LEEF01,Felix Lee,3200
+2010ESTU01,Rémi Esturoune,3200
+2014LEZA02,Bruno Lezama,3200
+2008WONE01,David Woner,3200
+2015HUDO01,Hafizh Dary Faridhan Hudoyo,3200
+2018YUAN02,Anqi Yu,3200
+2009METH01,Brady Metherall,3200
+2009ISHI01,Akihiro Ishida (石田朗大),3200
+2013DENN01,Andy Denney,3200
+2022REID01,Christopher Reid,3200
+2015TRAC01,Catherine Trace,3200
+2020REJD01,Gabriel Rejdych,3233
+2020DWOR01,Kacper Paweł Dworak,3233
+2016ROSM01,Muhammad Ammar Aufa B. Rosman,3233
+2010OMUL02,Matic Omulec,3233
+2021SCHW01,Jacob Schwartz,3233
+2013ZWER01,Zach Zwerling,3233
+2010TANA02,Yuki Tanaka (田中悠樹),3233
+2006PIRZ01,Markus Pirzer,3233
+2010MORO01,Toru Morooka (諸岡徹),3233
+2019SIER04,Matthew Sieredzinski,3233
+2022MIYA01,Hajime Miyazaki (宮崎朔),3233
+2013CABR01,Christopher Cabrera,3233
+2010LANE02,Mitchell Lane,3233
+2016FUTA01,Ryota Futagami (二神亮太),3233
+2010KADD01,Abdelhak Kaddour,3233
+2014PACE01,Grzegorz Pacewicz,3233
+2018SCHW02,Philippe Schwartz,3233
+2014PONG01,Tsang Hon Pong (曾漢邦),3233
+2008SEPP01,Ville Seppänen,3233
+2014RONG01,Jonas Rongé,3233
+2014SZWU01,Mateusz Szwugier,3233
+2008VARG01,Dániel Varga,3233
+2018MACH13,Niclas Mach,3233
+2018LAFF01,Arsène Laffarre,3233
+2015BAKK01,Brendan Bakker,3233
+2017JARN01,Thomas Sonnenberg Jarner,3233
+2018DUBI01,Łukasz Dubicki,3233
+2018BERR01,Fletcher Berry,3233
+2017WONG13,Andy Wong,3233
+2017SOUZ10,Gabriel Lincon Souza,3233
+2017SANK04,Vishwa Sankar,3233
+2017RONA02,Alon Ron,3233
+2015MUZO01,Zongwen Mu (牟宗文),3233
+2011LAUA01,Alexander Lau,3233
+2018STOC03,Michael Stocker,3233
+2018TENG01,Ng Yong Teng,3233
+2010SUGA01,Sei Sugama (洲鎌星),3233
+2019MCGI01,Gerard McGinley,3233
+2014CHHA01,Paarth Chhabra,3233
+2010JIMO01,Mo Ji (季默),3233
+2014GERB01,Henri Gerber,3233
+2019NOGA01,Ao Nogami (野上碧),3233
+2012GRAY01,Enoch Gray,3233
+2014CHAN23,Sophie Chan,3233
+2011POUR01,Mehdi Pourmotalleb (مهدی پورمطلب),3267
+2015YOSH01,Yuji Yoshida,3267
+2007WOOR01,Riley Woo,3267
+2015CLEM03,Nox Clémenceau,3267
+2011SCHI01,Christian Schiøtt,3267
+2017SWAI01,Adam Swaine,3267
+2013JOKI01,Kim Jokinen,3267
+2019PAOL02,Federico De Paoli,3267
+2015CHEN87,Pengwei Chen (陈芃威),3267
+2009HILD01,James Hildreth,3267
+2008BAOY01,Ting Sheng Bao Yang,3267
+2016SATO01,Caio Hideaki Sato,3267
+2015LARS04,Kim Roger Haraldsen,3267
+2017LAMB06,Andreas Lambropoulos,3267
+2009ZHAN53,Weixing Zhang (张炜星),3267
+2015JOIN01,Kyra Joiner,3267
+2011TORG01,Ivan Torgashov (Иван Торгашов),3267
+2015SANC11,Nicolás Sánchez,3267
+2016GONZ52,Gabriel Santiago Velez Gonzalez,3267
+2014ARGA02,Jefferson Durango,3267
+2019STEL01,Serban Stelian,3267
+2014STIN01,Jared Stinson,3267
+2013UVES01,Mattias Uvesten,3267
+2016GARC47,Miguel Ángel González-Herrero García,3267
+2014GARC27,Arthur Garcin,3267
+2013PRZY02,Ryan Przybocki,3267
+2011KNOT01,Wojciech Knott,3267
+2015BECK02,Jack Beckett,3267
+2018TURR01,Jacob Turrubiartes,3267
+2016BUCK01,Linus Buck,3267
+2012MATS02,Yoshio Matsumoto (松本嘉夫),3267
+2017NIEL03,Michael Nielsen,3300
+2015SANC18,Josete Sánchez,3300
+2014ABRA01,Arkadiusz Abramowski,3300
+2017LUND06,Joel Lundström,3300
+2022TURN10,Dan Turner,3300
+2017MARR02,Margot Audero,3300
+2022STRA10,Thomas Strasser,3300
+2015REYN07,Laurent Reynaud,3300
+2017LUCE03,Sebastián Yuste Lucero,3300
+2019TRAN04,Stanley Tran,3300
+2016SILV08,Nick Silvestri,3300
+2015HUKP01,Pavlo Huk (Павло Гук),3300
+2019GRIE05,Jens Grieme,3300
+2019KALL02,Herman Westerlund Kalland,3300
+2018QURA01,Ibrahim Quraishi,3300
+2020PALL01,Oliver Pällo,3300
+2014DING02,Xingyan Ding (丁醒炎),3300
+2014DENG05,Yuhao Deng (邓宇豪),3300
+2018KANT01,Tolga Kaan Kantarcı,3300
+2017LIMJ02,Jaden Lim,3300
+2016BROD01,Bernhard Brodowsky,3300
+2019BAUM02,Dylan Baumbach,3300
+2017YINX01,Xingkai Yin (尹星凯),3300
+2017YANR02,Ruimin Yan (颜瑞民),3300
+2017XUAN03,Shawn Lee Zhi Xuan (李致轩),3300
+2017WURY01,Ryan Wu,3300
+2015HERN17,Artur Miralles Hernàndez,3300
+2015HUAN48,Cary Huang,3300
+2016MEUN02,Pierre Meunier,3300
+2021KULA02,Maksymilian Kulas,3300
+2016KORD01,Witold Kordos,3300
+2011FIOL01,Alberto Pérez de Rada Fiol,3300
+2011GROG02,Shane Grogan,3300
+2011LIUR02,Rui-Jun Liu (劉睿鈞),3300
+2008NIEL01,Lars Vennike Nielsson,3300
+2006NISH01,Kentaro Nishi (西賢太郎),3300
+2011STAN02,Nick Stanton,3300
+2010WUIF01,Yi-Fan Wu (吳亦凡),3300
+2014CHEN02,Zijian Chen (陈梓键),3333
+2013RAMI02,Adrián Ramírez,3333
+2014HALE02,Lee Seung Ha (이승하),3333
+2022SEGA01,Inbar Segal,3333
+2010AZAR01,Nathan Azaria,3333
+2023PURB01,Alois Purbojo,3333
+2014GRIS03,Vladislav Grishchenkov,3333
+2016WADA01,Shunsuke Wada (和田俊輔),3333
+2015BASA02,Ethan Basanov,3333
+2015RABE02,Daniel Raber,3333
+2014MUTC01,Alexander Mutch,3333
+2021FORE01,Daniel Forejtek,3333
+2018BIDW02,Matthew Bidwell,3333
+2018VLIE02,Sam van Vliet,3333
+2021DIMP01,Simon Dimpker,3333
+2018MILL08,Cameron Miller,3333
+2017LIZI05,Ziyuan Li (李梓元),3333
+2017OORA01,Charlie van Ooran,3333
+2018AUBR01,Étienne Aubry,3333
+2013ESPA01,Jonathan Esparaz,3333
+2020BROW01,Jake Brown,3333
+2015WOJC02,Michał Wojcieszek,3333
+2007BERN01,Balázs Bernát,3333
+2016ANSA02,Pessi Ansaranta,3333
+2022BROO02,CJ Brooke,3333
+2022KIKU01,Sadafumi Kikuchi (菊地貞文),3333
+2022WIJE02,Kalindu Sachintha Wijesundara,3333
+2012MARA03,Róbert Maróti,3333
+2015ARYA03,Aniketh Arya,3333
+2015GERA02,Arian Geravandi (آرین گراوندی),3333
+2003HARD01,Chris Hardwick,3333
+2018DONG22,Wei Dong (董唯),3333
+2011REYN02,Alban Reynaud,3333
+2014CABR07,Daniel Guardado Cabral,3333
+2013WUFA03,Fazhen Wu (吴法臻),3333
+2022ZIVA01,Amitai Ziv,3333
+2018ZYNE01,Arkadiusz Żynel,3333
+2022MACC01,Evan Maccagnan,3333
+2017KRON03,Frederiks Rūdolfs Kronbergs,3333
+2011LING02,Rodson Lingad,3333
+2018OPAC01,Kajetan Opach,3333
+2014FIEC01,Jakob Fiechter,3333
+2021DAMM01,Jonathan Dammann,3333
+2018STOI03,Mihail Stoicescu,3367
+2010ESTR01,Adrian Estrada,3367
+2019EGGI02,Charlie Eggins,3367
+2017HUGH04,Lennon Hughes,3367
+2014JOYO01,Yong Hyeon Jo (조용현),3367
+2012KABI01,Shubhayan Kabir,3367
+2015XUXI01,Xiaohu Xu (胥啸虎),3367
+2011LINB01,Brandon Lin (林博浩),3367
+2019WUBO01,Bo-Yan Wu (吳柏彥),3367
+2010POSN02,Jacob Posner,3367
+2017KISL01,Alexey Kislovskiy,3367
+2016BRAU02,Firmin Brault,3367
+2018MACK04,Shaun Mack,3367
+2019RAJK04,Suraj Karthik Lal Rajkumaralal,3367
+2022MEEU02,Jorian Meeuse,3367
+2016CHAN09,Jaemin Chang (장재민),3367
+2014KOVA07,Bence Kovács,3367
+2014BLAY01,Óscar Roldán Blay,3367
+2011ZHAN24,Chunyu Zhang (张春雨),3367
+2015VERD03,Fabien Verdier,3367
+2019BADR01,Osman Badroodin,3367
+2013VAKU01,Edward Vakula,3367
+2015REIC02,Brandon Reichman,3367
+2018WUYU03,Yuheng Wu (吴雨衡),3367
+2008NIIN01,Hideki Niina (新名秀樹),3367
+2011KUOE01,Er-Sheng Kuo (郭爾陞),3367
+2011KOGL01,Jakob Kogler,3367
+2017SUKH02,Ihor Sukhovatenko (Ігор Суховатенко),3367
+2017TRAN21,Kenneth Tran,3367
+2005HSUA01,Anthony Hsu,3367
+2017BOHN01,Jack Bohning,3367
+2016ZATR01,Tomáš Zatroch,3367
+2015LUCI02,Paul Luciw,3367
+2017KRAS05,Lorenzo Escobar Kraskouskaya,3367
+2009BRZE01,Kalina Brzezińska,3367
+2015TERR01,Fabricio Andrés Yañez Terrazas,3367
+2014YUNO01,Lucas Ichiro Yunomae,3367
+2007GUIM01,Pedro Santos Guimarães,3367
+2017BUSC03,Danny Buschert,3367
+2020KARA01,David Karalli (داود قراعلي),3367
+2018CENT02,Giovanni Centili,3367
+2015SPEN01,Sam Spendla,3367
+2016CULF01,Aston Culf,3367
+2015RAME02,Naren Ramesh,3367
+2022HUHA01,Haotian Hu (胡皓天),3367
+2003BRUC01,Ron van Bruchem,3367
+2017PALA08,Harsha Paladugu,3367
+2018DREI02,Roberts Dreijers,3367
+2016MILL07,Pedro Giuseppe Garcia Milla,3367
+2016HUZO01,Zongqiang Hu (胡宗强),3367
+2016MORA24,Sean Moran,3367
+2016GIUL01,Alessio Giuliano,3367
+2019STOU02,Ivo Stoutjesdijk,3367
+2018ROFF01,Kai Roff,3367
+2016FRAG01,Gaëtan Fragnière,3367
+2014MARS04,Ty Marshall,3367
+2012SILV22,Israel Fraga da Silva,3367
+2016HOOV01,Cailyn Hoover,3367
+2010WANG53,Jiayu Wang (王佳宇),3367
+2009KIMA01,Anatoly Kim,3367
+2009INGE01,Anti Ingel,3367
+2012BALS01,Jonas Balsfulland,3367
+2010YAMA04,Yuki Yamamoto (山本祐輝),3400
+2015MEDE01,Felipe Medel,3400
+2014SOKO03,Volodymyr Sokolov (Володимир Соколов),3400
+2016JONE04,Jode Brewster,3400
+2013KOWA04,Igor Kowalczyk,3400
+2011LIME01,Meng-Yi Li (李孟一),3400
+2016STAN05,Tom Stanton-Barnett,3400
+2015SKAC02,Evgeny Skachkov,3400
+2015SANT41,Gleiciano Cosmo Santos,3400
+2016FANG01,Shenghai Fang (方胜海),3400
+2011VARG01,Juan Camilo Vargas,3400
+2017SALA07,Ronald Fernando Remuzgo Salazar,3400
+2015AROR02,Arnav Arora,3400
+2020FRAS02,Daniel Fraser,3400
+2014PAST03,Daniel Ortega Pastor,3400
+2013BORI01,Fyodor Borisov,3400
+2021ITAL02,Manfredi Italiano,3400
+2013MALI03,Szymon Malinowski,3400
+2010KOHL02,Erwan Kohler,3400
+2018MURR03,Jasper Murray,3400
+2011ETTE01,Lucas Etter,3400
+2013GOME02,David Ruscalleda Gómez,3400
+2008JONG03,Jong-Ho Jeong (정종호),3400
+2008CLAR01,Thompson Clarke,3400
+2017YUNG02,Connor Yungbluth,3400
+2016CARD06,Felipe Cardim,3400
+2017KLEI02,Luis Kleinheinz,3400
+2016LIDU01,Duo Li (李铎),3400
+2017MOLI05,Samuel Moliver,3400
+2012JIET01,Carmen Teo Bin Jie (张斌婕),3400
+2019VALD04,Jeann Valdez,3400
+2012ASKJ01,Andreas Askjem,3400
+2019BONN05,Chris Bonnello,3400
+2012SUNL03,Liudi Sun (孙柳笛),3400
+2008TRAN02,Chris Tran,3400
+2010IBAR01,Jerónimo Ibarra Bernal,3400
+2015HAMM01,Billie Hammill,3400
+2016ZHAN45,Yunliang Zhang (张赟量),3400
+2014KORO02,Vladimir Korovin,3400
+2009KONV01,Asia Konvittayayotin (เอเชีย กรวิทยโยธิน),3400
+2014PAUL05,Benjamin Paul,3433
+2016TAYL02,Paul Taylor,3433
+2019MYSL01,Szymon Myśliński,3433
+2015SOLO01,Konstantin Solovev (Константин Соловьёв),3433
+2009SHEE01,Matthew Sheerin,3433
+2022WEIS03,Yoad Yahalom Weiss,3433
+2015SHYS01,Denys Shyshliannykov (Денис Шишлянников),3433
+2016PATT02,Nicholas Patterson,3433
+2015AROR05,Dhruv Arora,3433
+2014CHEN22,Yu Chen (陈宇),3433
+2023KANG37,Sang-Hyeop Kang (강상협),3433
+2022JOKS01,Tino Joksch,3433
+2016LEHE01,Thomas Lehéricy,3433
+2022BERN01,Beatriz Hernandes Bernardes,3433
+2018CAST11,Raúl Cuevas Castillo,3433
+2011MATA01,Jorge Castillo Matas,3433
+2004CHAN01,Alan Chang,3433
+2017HARR08,Charlie Harrison,3433
+2014ESPI01,Richard Espinosa,3433
+2017LEMB02,Mikus Lembergs,3433
+2007GOHO01,Choi Goho (최고호),3433
+2016JARM01,Myles Jarman,3433
+2015MYER02,Isaac Myers,3433
+2018CHHU01,Parth Chhugani,3433
+2017KABE01,Sol Kabeemer,3433
+2015PADG01,Dalton Padgett,3433
+2019MARR04,Joshua Marriott,3433
+2015PEAR02,David Pearce,3433
+2016HUNG08,Lim Hung (林弘),3433
+2015PESC01,Eric Pesci,3433
+2019COST14,Gustavo Vaz Costa,3433
+2018CHEN17,Vincent Chen,3433
+2016SLEZ01,Gábor Slezák,3433
+2011KALM01,Viktor Kalmar,3433
+2018GEOR01,Nikhil George,3433
+2021PIUM01,Fabio Piumatti,3433
+2017MEHM02,Sam Mehmani (سام مهمانی),3433
+2016SANT08,Kyle Santucci,3433
+2021PISK01,Karol Piskorek,3433
+2022DUNN03,Caleb Wolf Dunn,3433
+2015ZHAN13,Zhenyu Zhang (张振宇),3433
+2011ZHUT01,Tong Zhu (朱彤),3433
+2007HESS01,Rowe Hessler,3433
+2017FERR01,Seth Ferry,3433
+2022KLEC01,Jagger Thomas Klecatsky,3433
+2016ARIF05,Aaron Ariff,3433
+2015GOUJ01,Justin Gou,3433
+2021NEWB01,Harrison Jonathan Newbery-Chunn,3433
+2010TERA01,Kotaro Terada (寺田晃太朗),3433
+2020SCHL01,Katharina Schlomberg,3433
+2016COST03,João Pedro dos Santos Costa,3433
+2016CARL02,Jérôme Carlier,3433
+2016PASK01,Aaron Paskow,3433
+2014ISHI01,Toshiaki Ishikura (石倉寿秋),3433
+2014XULI01,Linxiao Xu (徐林霄),3433
+2012SZEL01,Tommy Szeliga,3433
+2017FENG10,Hill Pong Yong Feng,3433
+2022ANDE01,Mitchell Anderson,3433
+2008VIRO01,Philippe Virouleau,3467
+2011YUBE01,Ben Yu,3467
+2023LOUF01,Fengyuan Kelvin Lou (楼丰源),3467
+2017ENGB01,Bryan Eng,3467
+2018HABE02,Jens Haber,3467
+2018SCHO07,Ryan Schock,3467
+2022JOHA08,Leo Johansson,3467
+2015ZHUA01,Glen Goh Wee Zhuan (吴洧全),3467
+2014BUEH01,Manuel Bühler,3467
+2016EVAN06,Daniel Evans,3467
+2017TUMI02,Joel Mamani Tumiri,3467
+2013LEJE03,Kennan LeJeune,3467
+2013ZHAN41,Lanshi Zhang (张岚石),3467
+2018IMAN01,Timur Imanov,3467
+2012ZHAN08,Anyu Zhang (张安宇),3467
+2013BROT01,Chris Brotzman,3467
+2010WUJI01,Jiawen Wu (吴嘉文),3467
+2007JAKU01,Marcin Jakubowski,3467
+2013BRIT01,Gustavo Penaforte Brito,3467
+2015BOLT01,Matej Bolta,3467
+2016KIAC01,Bence Kiácz,3467
+2015KOEN01,Christian König,3467
+2017PETE04,Tripp Peters,3467
+2015KOVA07,Nikita Kovalchuk (Нікіта Ковальчук),3467
+2021LANG01,Galaad Langlois,3467
+2021OTAI01,Zakarya Otair,3467
+2013BOGD04,Tomek Bogdanik,3467
+2016DENN04,Ethan Dennis,3467
+2017PIWA01,Wayne Pi,3467
+2012KALE01,Przemysław Kaleta,3467
+2015VUJA01,David Vujasić,3467
+2019USHA05,Aleksei Ushachev,3467
+2020ZHAN19,Alikhan Zhanybekov,3467
+2013LUOX01,Xin Luo (罗鑫),3467
+2014OTER01,Murillo Gomes Otero,3467
+2018TILL02,Jean-Charles Tillit,3467
+2016MESC01,Brody Meschke,3467
+2019MORR07,Ryan Morrison,3467
+2007OOBA01,Kou Oobatake (大畠功),3467
+2013SOMA01,Vineethsubbu Somasundaram,3467
+2021ELIA01,Niklas Aasen Eliasson,3467
+2012CHOW03,Theodore Chow,3467
+2017TUNG16,Chan Hui Tung (陳許瞳),3467
+2020CHEN34,Yi-Wei Chen (陳奕瑋),3467
+2021RAME01,Saisabari Ramesh,3467
+2021SPIE01,Achim Spies,3467
+2018SUNC02,Chenhao Sun (孙晨皓),3467
+2014MODA01,Shantanu Modak,3467
+2012YUTA01,Tao Yu (喻韬),3467
+2007YOSH01,Takumi Yoshida (吉田匠),3467
+2018SORI06,Alejandro Soriano Compta,3500
+2022CAMP02,Nicolas Campanario,3500
+2021PHIL05,Nathan Phillips,3500
+2018ARNE04,Davide Arnesano,3500
+2017VILJ01,Jami Viljanen,3500
+2009SUPC01,Anukun Supcharoenkun (อนุกูล ทรัพย์เจริญกุล),3500
+2015RAME01,Zach Ramer,3500
+2013KAMI03,Vladislav Kaminskiy,3500
+2017TIBB01,Ben Tibbetts,3500
+2019RIBE11,Bárbara Guerra Ribeiro,3500
+2015WANG83,Zhedong Wang (王哲栋),3500
+2015CONT02,Pablo Contreras,3500
+2016FERN07,Javier López Fernández,3500
+2015KANS01,Magnus Patrick Kanstrup,3500
+2022BECK02,Jacob Beckley,3500
+2014ZHUS01,Shenjie Zhu (朱申杰),3500
+2014MCGA01,Kevin McGaire,3500
+2017DAND01,Pranav Dandgaval,3500
+2018ABRA12,Carl Abrahamsen,3500
+2007MOSE02,Jack Moseley,3500
+2020BORG01,Kasper Warberg Borg,3500
+2017BARU01,Zach Baruch,3500
+2019LANG03,Heinrich de Lange,3500
+2018FRED01,Håkon Fredriksen,3500
+2009FLUG01,Andres Flügel,3500
+2015RAJA03,Emmanuel Rajapandian,3500
+2012POJD01,Piotr Pojda,3500
+2011ULIN01,Joel Ulin,3500
+2012CARL03,Alexandre Carlier,3500
+2015BART01,Luboš Bartík,3500
+2010MARI02,István Márián,3500
+2022SIMN02,Nicky Sim,3500
+2019PERR11,Enzo Perriat,3500
+2017KWAN05,Burno Li Chak Kwan (李澤堃),3500
+2018FORS03,Timo Forsthofer,3500
+2022YUAN07,Franklin Yuan,3500
+2010CORM02,Louis Cormier,3500
+2011CHEN19,Qingbin Chen (陈庆斌),3500
+2012KISH03,Vijay Kishore,3500
+2007LUJI01,Jia-Hong Lu (陸嘉宏),3500
+2010MAJO01,Tim Major,3500
+2010SCHM01,Leon Schmidtchen,3500
+2013MACI01,Adrián Martínez Macías,3500
+2022FAST01,Raphael Fast,3500
+2014MHAT01,Rajesh Mhatre,3500
+2013ZHON04,Tairan Zhong (钟泰然),3500
+2014PAST01,Dan Pastushkov,3500
+2014GUMI01,MinSeo Gu (구민서),3500
+2012LIYA01,Yang Li (李扬),3500
+2013ZIRN01,Jānis Zirnis,3500
+2016DROB01,Jakub Drobný,3500
+2017BASH04,Alexander Bashutkin,3533
+2017FHAK01,Farid Fakhrian (فرید فخریان),3533
+2014HUTF01,Frederik Hutfleß,3533
+2015DELA05,Richard Delacoste,3533
+2014PRID01,Ethan Pride,3533
+2019HAMM04,Kamel Hammouri,3533
+2017HYOJ01,Choi Hyo-Jin (최효진),3533
+2009CHAN15,Juan Juli Andika Chandra,3533
+2014RZEW01,Michał Rzewuski,3533
+2012BILL01,Gregor Billing,3533
+2014USHA01,Uladzislau Ushakov (Владислав Ушаков),3533
+2017FRIS01,Jesper Frisk,3533
+2015CAIT01,Tianwei Cai (蔡天威),3533
+2014TERE03,Ivan Terekh,3533
+2017CHAN47,Vianne Chang,3533
+2014MORE05,Pedro Miranda Moreira,3533
+2014FANG01,Samuel Fang,3533
+2007CHEN07,Yi-Chun Chen (陳奕均),3533
+2022ALOL01,Ahmad Alolaimi,3533
+2012DOBR01,Blaž Dobravec,3533
+2010GRAC02,Fabio Bini Graciose,3533
+2022BHAV01,Darshan Bhavanasi,3533
+2016CUTS01,Sean Cutshaw,3533
+2023OCAR01,Rodrigo Ángeles Montes de Oca,3533
+2018CAMP17,Bella Campbell,3533
+2018RUSH01,Daniel Rush,3533
+2016XIAN01,Ang Chin Xiang,3533
+2010MANE01,Pranav Maneriker,3533
+2017PORT04,Daniel Porter,3533
+2013VIDY01,Ramesh Vidyasagar,3533
+2022LERM01,Oz David Lerman,3533
+2016ARZA01,David Arzamastsev,3533
+2017POLY02,Balázs Polyák,3533
+2018ALFO01,Diego Alfonso,3533
+2018WANG39,Yibo Wang (王奕博),3533
+2013TITO02,Georgiy Titov (Георгій Тітов),3533
+2013KLEI03,Livia Kleiner,3533
+2019MAZZ02,Pietro Mazza,3533
+2016RAZZ01,Nikita Razzamazov (Никита Раззама́зов),3533
+2016ULKU01,Haluk Ulkusal,3533
+2009ZHEN11,Ming Zheng (郑鸣),3533
+2013SING12,Abhimanyu Singhal,3533
+2012RUPE01,Akash Rupela,3533
+2012ROQU01,Pedro Roque,3533
+2021EYLE01,Henry Eyles,3533
+2022LEAV01,Orion Leavitt-Lytle,3533
+2011MORI01,Yusuke Morikawa (森川裕介),3533
+2015HALG01,Tyler Halgren,3533
+2011HUTN01,Caitlin Hutnyk,3533
+2015VANL01,Luke Van Laningham,3533
+2016KURB02,Valeriy Kurbatov,3533
+2013BARK01,Justin Barker,3533
+2012WENI01,Ivan Lew Yi Wen (刘义文),3533
+2014BLAI02,Mayron Blain,3533
+2018NIEU01,Lucas Nieuwland,3533
+2019SREE06,Akash Sreedharan,3533
+2016GASP01,Pietro Gasparetto,3533
+2013SAVO01,Artem Savosik,3533
+2016HORV04,Mihály Horváth,3533
+2016GUTI23,Daniel Gutierrez,3533
+2022TEUN01,Robin Teune,3533
+2008SAJI01,Yu Sajima (佐島優),3533
+2011BILC01,Ihor Bilchenko (Ігор Більченко),3533
+2011HAMI01,Ahsanul Insan Hamid,3533
+2015KUZI01,Mikhail Kuzin,3533
+2021PRAS02,Simon Praschl,3533
+2011HAMS01,Jonathan Hamstad,3567
+2017MCLE03,David McLean,3567
+2016REET01,Tijmen van der Ree,3567
+2011HOFF02,Valentin Hoffmann,3567
+2016ANDE02,Spencer Andersen,3567
+2009TIRA01,Javier Tirado Ortiz,3567
+2008JINX01,Xiaobo Jin (金晓波),3567
+2018ALEX06,Michael Alexander,3567
+2012ZABR01,Ivan Zabrodin,3567
+2016LIPS01,Adriano Matoba Lipski,3567
+2019JAND01,Byegarys Jandaulyet,3567
+2016LIAN17,Xuanwei Liang (梁轩玮),3567
+2021LEBO01,Maxence Leboeuf,3567
+2013BULM01,JP Bulman,3567
+2010CHEN03,Xuesi Chen (陈学思),3567
+2012DANE01,Nicholas Daneshvari,3567
+2013CRON01,Conor Cronin,3567
+2014RAJE03,Anish Rajesh,3567
+2019HAAG01,Sarah Haag,3567
+2012SOLH02,Jonatan Solheim,3567
+2005KOCZ01,István Kocza,3567
+2008CHEN27,Shuang Chen (陈霜),3567
+2022HETT04,Wilson Hettinger,3567
+2014SANC28,Julián García Sánchez,3567
+2008CETI01,Can Çetin,3567
+2013HOLM01,Kristian Holme,3567
+2021OTSU01,Jamie Otsu,3567
+2023KATO03,Takumi Kato (加藤匠),3567
+2012PERK01,Oleh Perkovskyi (Олег Перковський),3567
+2018TANJ05,Jacob Miko Tan (陈在元),3567
+2015WUJI02,Jian Wu (吴建),3567
+2010ARBO01,Morten Arborg,3567
+2013TOKA01,Piotr Tokarski,3567
+2012MAYE01,Theo Mayer,3567
+2013VALL03,Thomas Valles,3567
+2015LUND03,Einar Kvam Lundberg,3567
+2010HONG01,Chi-Lun Hung (洪啟倫),3567
+2021TRIP01,Michael Tripodi,3567
+2011MASS01,Nikolai Masson (Николай Массон),3567
+2019ADAN02,Arnav Adani,3567
+2019CHEQ05,Qihan Chen (陈启晗),3567
+2015KOZH01,Vladislav Kozhin,3567
+2014DETU01,Eddy Deturche,3567
+2017AIPK01,Igor Aipkin,3567
+2011MIRZ01,Ishmam Mirza,3567
+2021WARC01,Dominika Warchoł,3567
+2011PARR02,Jhon Edinson Arias Parra,3567
+2015FELD01,Noah Feld,3567
+2014BONA02,Bautista Bonazzola,3567
+2017KITA01,Akatsuki Kitamura (北村曉),3567
+2015GKOT01,Panos Gkotsis,3567
+2019BIRK01,Asbjørn Brummer Birkelund,3567
+2021EDEN01,Pep Edén,3567
+2015BARH01,Anders Barhaugen,3567
+2017PITK01,Antto Pitkänen,3567
+2017JENS01,Austin Jensen,3567
+2015TAKA06,Taiga Takaoka (高岡汰虎),3567
+2014ZHYH01,Dmytro Zhyhai (Дмитро Жигай),3567
+2014ZARA01,Rodrigo Zarate,3567
+2013RAVI06,Pavan Ravindra,3567
+2019DING02,Yinhao Ding,3567
+2010FRUY01,Nicolas Fruy,3567
+2016SIUM01,Marcus Siu,3567
+2012HERN03,Felipe Rueda Hernández,3567
+2016SHAW02,Sam Shaw,3600
+2008KLUN01,Vidar Norstein Klungre,3600
+2016LAYU01,Lorenzo Layug,3600
+2017BYRN02,Mathias Søndergaard Byrne,3600
+2015TRUJ04,Diego Trujeque,3600
+2015YINC01,Chan Hay Yin (陳希言),3600
+2015VASI02,Nikolay Vasilyev,3600
+2016MAHA07,Shubham Maharana,3600
+2018PANT03,Zamir Pantoja,3600
+2010KRYU01,Dmitry Kryuzban,3600
+2019ARAU07,Luan Gomes de Almeida Araújo,3600
+2010RAHM02,Cendy Cahyo Rahmat,3600
+2011REED01,Austin Reed,3600
+2019CHAU12,Zayd Chaudhry,3600
+2011EDUA01,Eduard Esteban García Domínguez,3600
+2018SHAK02,Sujai Shakthivel,3600
+2015RIZZ02,Luca Rizzi,3600
+2018WROT01,Brayden Wroten,3600
+2018GOME29,Frederico Canal Gomes,3600
+2022AUGU02,Peter Augustine,3600
+2009KOMP01,Andrii Kompaniiets (Андрій Компанієць),3600
+2022ZAFA01,Umidjon Zafarov (Умиджон Зафаров),3600
+2011ZVYA01,Dmitry Zvyagintsev,3600
+2018TANA01,Angelo Christian Dominic Tan,3600
+2017FUHO01,Hongyuan Fu (傅泓源),3600
+2021MARC03,Chiara Marcucci,3600
+2015ALEK01,Grigorii Alekseev,3600
+2016FORS08,Andreas Jensen Forsgren,3600
+2016NIJU01,Chun-Pao Ni (倪君寶),3600
+2015ACHA01,Leon Achata,3600
+2021MAGO02,Quirin Mágori,3600
+2021SKOW01,Maciej Skowroński,3600
+2016YONG02,Tristan Chua Yong,3600
+2022SZCZ03,Johanna Szczesny,3600
+2017TRAN25,Celine Tran,3600
+2013FIDO01,Franciszek Fidos,3600
+2014KMAK01,Dawid Kmak,3600
+2007STRO01,Sarah Strong,3600
+2017PIET01,Kristiāns Pietkuns,3600
+2017WANG24,Pengcheng Wang (王鹏程),3600
+2017MATT06,Sandro Mattenberger,3600
+2012HOLE01,Leung Ka Ho (梁家浩),3600
+2013ZABR01,Ilya Zabrodsky,3600
+2022POUR02,Netanel Pour,3600
+2013VIDA01,Tiago Oliveira Vidal,3600
+2023LALI01,Caleb Lalik,3600
+2017TKAC04,Oliwier Tkaczyk,3600
+2009GARR01,José Garrido,3600
+2018AMSB02,Stone Amsbaugh,3600
+2012CHIN04,Lam Yu Ching (林雨晴),3633
+2007TAMA02,John Tamanas,3633
+2015BELO02,Pedro Henrique Maciel Ceccopieri Belo,3633
+2013LANG03,Mason Langenderfer,3633
+2018LOPE09,Jesús Jorge García López,3633
+2016COUL02,Kevin Coulter,3633
+2014JIME05,Diego Alejandro Casas Jimenez,3633
+2017MART50,Antoine Martini,3633
+2017TEIC01,Cyril Teichmann,3633
+2007POLK01,Adam Polkowski,3633
+2011CHEN16,Wen-Pin Chen (陳文聘),3633
+2016DEMU01,Chloé Demuynck,3633
+2012ACHA01,Carlos Pedro Casado de Achával,3633
+2016DING05,Tianping Ding (丁天平),3633
+2021CHAU01,Joshua Chau,3633
+2014HOUS01,Shaowei Hou (侯少尉),3633
+2009OLSO01,Christopher Olson,3633
+2013MCGR02,Logan McGraw,3633
+2015XUTI01,Tianze Xu (徐天泽),3633
+2014BAND04,Mahith Bandi,3633
+2021DAMT01,Thomas Granhøj Dam,3633
+2014BEGU01,Elian Beguec,3633
+2009BAKK01,Ivo Bakker,3633
+2018JOHN03,Elmer Alexander Johnsen,3633
+2015IVEL01,Torjus Iveland,3633
+2012MARI04,José David Castiblanco Marin,3633
+2017KIRB01,Ben Kirby,3633
+2014MINB01,Leo Min-Bedford,3633
+2016WANT04,Tiannan Wang (王天南),3633
+2016WANQ04,Qikai Wang (王其凯),3633
+2017BERN15,Carlos Damián Suárez Bernal,3633
+2022KAOB01,Benjamin Kao,3633
+2015CRAN01,Eliott Crancée,3633
+2020MOCO01,Conan Mo,3633
+2018WALA01,Max Walaszek,3633
+2015CHIC01,Wong Yuk Chi (黃昱誌),3633
+2013PANT01,Mihnea Andrei Panţu,3633
+2018TRAN09,Tien Tran,3633
+2012PENG05,Jiacheng Peng (彭家诚),3633
+2016SINN01,Eleanor Sinnott,3633
+2009TURI01,Barnabás Turi,3633
+2019GIOR02,Marco Giordano,3633
+2015BEUG01,David Beugnon,3633
+2019WANZ21,Zhe Wang (王哲),3633
+2017WALL02,Arthur Wallem,3633
+2012COST01,Kevin Costello III,3633
+2014NOWI01,Sebastian Nowicki,3633
+2010CHAN20,Nevins Chan Pak Hoong (陈百鸿),3633
+2014MELL03,Gabriel Sargeiro Gomes de Mello,3633
+2014MORE01,Renzo Rodriguez Moreno,3633
+2009LIUJ04,Jici Liu (刘纪赐),3633
+2014MATH02,Carsten Matheus,3633
+2012DANI01,Viktor Danilov,3633
+2020SWAN03,Levente Swanepoel,3633
+2022SUIJ01,Justin Sui,3667
+2014CHUL02,Chisanupong Chulasereekul (ชิษณุพงศ์ จุฬาเสรีกุล),3667
+2014NIET03,Oscar Nieto,3667
+2006SEWE01,Tomasz Seweryn,3667
+2016HINS02,Shek Ho Hin (石灝軒),3667
+2019CHAI04,Carol Chai,3667
+2008BONO01,Lorenzo Bonoan,3667
+2019HALL04,Caleb Hall,3667
+2012SATH01,Abhishek Sathyanarayanan,3667
+2017BYRN01,Magnus Søndergaard Byrne,3667
+2017TUNG13,Antonio Kam (甘浩東),3667
+2009COLO03,Matteo Colombo,3667
+2015TANG04,Calix Tang,3667
+2021OJED01,Federico Ojeda,3667
+2019VALE16,Jack Valencia,3667
+2017NICO01,Alejandro Nicolay,3667
+2016SALA18,Mikołaj Salamon,3667
+2015ANDA01,Daryl Tan Hong An,3667
+2014ZHAR01,Maksym Zharov (Максим Жаров),3667
+2011WALL02,Chris Wall,3667
+2017JOHN09,Tyler Johnson,3667
+2016KANI01,Mannessah Kani,3667
+2013MICH02,Patrycja Michalska,3667
+2013MINT01,Deni Mintsaev,3667
+2017CHEN36,Xinyun Chen (陈新运),3667
+2021PIER01,Thomas Pierroz,3667
+2014GARG01,Parth Garg,3667
+2015VAST01,Kristýna Vaštová,3667
+2009CYRK01,Tomasz Cyrklaff,3667
+2019ECKE02,Ryan Eckersley,3667
+2012NGUY08,David Nguyen,3667
+2018DUKE01,Preston Duke,3667
+2022LOPE01,Hugo Enrique Rosales López,3667
+2009KUTH01,Balázs Kuthi,3667
+2023JENY01,Yen-Lei Jen (任晏磊),3667
+2011LUDW01,Timo Ludwig,3667
+2013CHOI04,Justin Choi,3667
+2017AHMA06,Dhafin Rayhan Ahmad,3667
+2017SHEN01,Desmond Low Kai Sheng,3667
+2014BARB07,Francisco Montañés Barbudo,3667
+2015LIUZ07,Zixuan Liu (刘子瑄),3667
+2015ISAZ01,Alejandro Isaza,3667
+2017KROK01,Bartłomiej Krokos,3667
+2019MACK01,Hunter Mackler,3667
+2015KHAN18,Muhammed Shehzad Khan,3667
+2017BARA05,Grigoriy Barashkin,3667
+2012TYCK01,Luke Tycksen,3667
+2017KISA01,Nipun Kisari,3667
+2012LEWI01,Phillip Lewicki,3667
+2013CONA01,Michael Conard,3667
+2004ROUX01,Gilles Roux,3667
+2016MOBE01,Marcus Moberg,3667
+2014KIMJ02,Jungwoo Kim (김정우),3667
+2014MODI01,Lakshay Modi,3667
+2009JOHN05,Jack Johnston,3667
+2007CINO01,Rafael Werneck Cinoto,3667
+2014ARKH01,Daniil Arkhipov,3700
+2014MILE01,Patryk Milewczyk,3700
+2015WUJI01,Jiankun Wu (吴健坤),3700
+2016JERO01,Charles Jerome,3700
+2018MURA19,Rishikesh Kanakatte Muralimohan,3700
+2016MICH01,Kamil Michalak,3700
+2018IMTI01,Muhammad Saleh Imtiaz,3700
+2015ARJA01,Juho Arjanne,3700
+2009TORO03,Ágoston Török,3700
+2009DENG01,Bowen Deng (邓博文),3700
+2014GROV01,Saransh Grover,3700
+2017COLI04,Vincent Colin,3700
+2014BAAR01,Daan Baartmans,3700
+2018CEPI01,Tomasz Cepil,3700
+2015GREI01,Daniel Greigg,3700
+2014OMIA01,Igor Ośmiałowski,3700
+2008LINH01,Hao-Zheng Lin (林浩正),3700
+2015GENE01,Lemuel Generoso,3700
+2013SZUM01,Grzegorz Szumigaj,3700
+2016WOOD01,Nolan Wood,3700
+2021COUR01,Xavier Courteau-Laing,3700
+2009BOZS01,Hunor Bózsing,3700
+2014BUSZ01,Michał Buszczak,3700
+2014COLL02,Jeremy Collins,3700
+2017BEVA01,Thomas Bevan,3700
+2021BLAK01,Jonah Blakeley,3700
+2019TALA02,Samuel Talacko,3700
+2009ZHAN24,Junhe Zhang (张钧鹤),3700
+2017GUTM01,Manuel Gutman,3700
+2018WANZ50,Zixing Wang (王子兴),3700
+2014BRED02,Birk Bredland,3700
+2012MADA01,Vivek Prasad Mada,3700
+2015SUCK01,Jang Seok Won (장석원),3700
+2010JANG01,Jr-Wei Jang (張智瑋),3700
+2015LINY08,Ying Lin (林颖),3700
+2019MATS07,Reon Matsui (松井玲穏),3700
+2011MAOS01,Shenchuan Mao (毛神川),3700
+2023DORI01,Dorian Chan,3700
+2019CHEY31,Yen-An Chen (陳彥安),3700
+2013LICH01,Chunxiao Li (李春啸),3700
+2022LANT01,Philip Lanthrum,3700
+2013ESTE02,Augusto Rosa Esteves,3700
+2014YELI01,Maksym Yeli (Максим Єлі),3700
+2016FANG12,Chilin Fang (方炽霖),3700
+2011GRAJ01,Virgilio Zúñiga Grajeda,3700
+2016MEND03,Esteban Elías González Méndez,3700
+2013HELM02,Henry Helmuth,3700
+2018MULL07,Hannes Müller,3700
+2016OUJI01,Jianyan Ou (欧鉴言),3700
+2014LOEB01,Benjamin Loeb,3700
+2016COOK02,Matthew Cook,3700
+2017HOON03,Kim Dae Hoon (김대훈),3700
+2022HAIN01,Florian Hainbucher,3700
+2019DARK02,Keenan Darkins,3700
+2009HAMO01,James Hamory,3700
+2012VERS02,Robin Verstraten,3700
+2013GARC08,Jesús Lindo García,3700
+2009GLOP01,Daniel Gloppestad Bajer,3700
+2016ROSV01,Miika Rosvall,3700
+2008RODR01,Alejandro Riveiro Rodríguez,3700
+2019KISH01,Toma Kishimoto (岸本到馬),3733
+2022DUMA01,Travis Dumaran,3733
+2015THEN01,Abner Philip Then Yi Hao (邓奕浩),3733
+2009HERI01,Willy Hericson,3733
+2013PENA05,Nicolás Lasso Peña,3733
+2016LOPE37,Rubén López de Juan,3733
+2010OREL02,Gonzalo Orellana Barrasa,3733
+2012MAUR01,Jonathan Mauroy,3733
+2018WUXI03,Xingyu Wu (伍星宇),3733
+2013SUNY02,Yongtao Sun (孙永涛),3733
+2012MEIL01,Ricky Meiler,3733
+2020KLAU01,David Klausen,3733
+2017KIMM01,Asher Kim-Magierek,3733
+2013RUIX02,Xiaobin Rui (芮晓彬),3733
+2022GORL02,Azaro Gorloo,3733
+2022PENN04,Alex Pennington,3733
+2017BORS02,Maja von Borstel,3733
+2014TROT01,Mykola Trotsenko (Микола Троценко),3733
+2016KIMK01,Ki-beom Kim (김기범),3733
+2017BRUH01,Nicola Bruhin,3733
+2018PARI07,Parist Pariyakanok (พริษฐ์ ปริยกนก),3733
+2017PIET02,Markuss Pietkuns,3733
+2015SMED01,Christian Smedegaard,3733
+2017DELG02,Kevin Antony Tello Delgado,3733
+2013STRE01,Ben Streeter,3733
+2013KRIS02,Rohan Krishna,3733
+2016JOHA01,Kabir Johal,3733
+2008CHOI04,Ilkyoo Choi (최일규),3733
+2014ANDE01,Quinten Andelhofs,3733
+2019PHEL01,Elijah Rain Phelps,3733
+2010BELO01,Marco Belotti,3733
+2016RODR37,Angel Jesus Panebra Rodriguez,3733
+2017ABAR02,Joaquin Abarca,3733
+2019SAMU06,Ayooluwa Samuel Dada,3733
+2018CAST08,Oliver Castledine,3733
+2019KONI03,Flurin König,3733
+2017OLIV26,Carlos Joaquín Sánchez Oliva,3733
+2020CHAN15,Ruei-Jyun Chang (張睿鈞),3733
+2018HUDO01,Matt Hudon,3733
+2014BLOC01,Josh Bloch,3733
+2009CHAR03,Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์),3733
+2012JAME04,Daniel James,3733
+2022LIPP01,Lucas Lippman-Bruno,3733
+2013CHUC01,Chun-Chen Chu (朱峻辰),3733
+2016BOHA01,Dan Boharon,3733
+2022THOM14,Brayden Thompson,3733
+2019LIUW05,Wuouran Liu (刘巫偶然),3767
+2018MORE19,Daniel Alejandro Torres Moreno,3767
+2014LANG02,Isaac Langer,3767
+2015FONS02,Federico da Fonseca,3767
+2015KNOL01,Samuel Knoll,3767
+2022EVAN10,Lukas Evanger,3767
+2017HADE01,Rustin Haderlie,3767
+2018RUST05,Edward Rust,3767
+2022BAJE01,Alex Bajenov,3767
+2018YAOC02,Caleb Yao (姚英華),3767
+2021CAMB01,Arthur Cambon,3767
+2016YANH01,Haoyang Yan (晏浩洋),3767
+2014SHAR05,Dmytro Sharapov (Дмитро Шарапов),3767
+2006HIGO01,Ryosuke Higo (肥後亮佑),3767
+2015NJAM01,Magne Njå,3767
+2007OMUR01,Shuhei Omura (大村周平),3767
+2010WANG07,Yinghao Wang (王鹰豪),3767
+2017SMIR01,Vadzim Smirnou,3767
+2008JEWR01,Ryan Jew,3767
+2011SALG01,Daniel Cano Salgado,3767
+2011SARN01,Dan Sarnelli,3767
+2017OSCA02,Oscar Paul Mamani Oscalla,3767
+2016DIET01,Amelie Dieterich,3767
+2016PARK02,Eli Parker,3767
+2012LAHL01,Fabian Löhle,3767
+2016NAGU02,Christian Angelo Araneta Naguio,3767
+2011WANN01,Daniel Wannamaker,3767
+2017FURE01,Dominik Fürer,3767
+2017BATZ01,Alexander Batz,3767
+2020BELA01,Badr Ait Belaid,3767
+2021SALE01,Sofia Saletnich,3767
+2014IRIA01,Julen Simón Iriarte,3767
+2018SOLN01,Andrei Solntsev,3767
+2008ASIS01,Kristopher De Asis,3767
+2016SOTI01,Jorge Alfageme Sotillos,3767
+2021CHEL01,Ianis Costin Chele,3767
+2022WADH02,Ashwyn Wadhawan,3767
+2015YAKH01,Daniel Yakhkind,3767
+2014SURE11,Anirudh Sureshram,3767
+2022SUSA02,Jovan Susanto,3767
+2011TRON01,Fredrik Abildgaard Trondhjem,3767
+2013KLEM01,Lauren Clement,3767
+2016REYE11,Miguel Reyes,3767
+2014HOWL02,Tyler Howlett,3767
+2015BART05,Aiden Bartlett,3767
+2016KIMD05,DaYeong Kim (김다영),3767
+2016SUBI01,Erik Subirats,3767
+2021RAHN01,Nathan Rahn,3767
+2011WANG52,Xiaowei Wang (王晓伟),3767
+2017MAXW01,Phillip Maxwell,3767
+2014GRAV02,Nathan Graves,3767
+2011FANG02,Shujie Fang (方述杰),3767
+2014ZHAO10,Jiazheng Zhao (赵家正),3767
+2017BRZA01,Szymon Brzana,3767
+2021ZHAN52,Martin Zhang (张镐轩),3767
+2019EKLU01,Samuel Eklund-Hanna,3767
+2010SABA01,Sergi Sabat,3767
+2017LIAN32,Andrés Irías Li,3767
+2021SOKO03,Roman Sokolovskyi,3767
+2016BUST04,Alberto Arturo Ayllón Bustos,3767
+2022MILI01,David B. Militante,3767
+2014CZAP01,Maciej Czapiewski,3767
+2016ABAE01,Fedor Abaev,3800
+2016OMAR01,Amaan Omar,3800
+2017ZERB01,Nicolas Zerbinopoulos,3800
+2016GOHT01,Timothy Goh,3800
+2022TANO02,Taitum Tanouye,3800
+2016RIDL01,Ben Ridley,3800
+2012THIE01,Fin Thiessen,3800
+2016SILV07,Joonas Silvennoinen,3800
+2019PETT01,Canyon Pettitt,3800
+2016SHEN18,Zhaobo Sheng (盛照博),3800
+2007LUCH01,Chia-Wei Lu (呂家維),3800
+2019OONA01,Adrian Oon,3800
+2016OUTH01,Thibaud Ou,3800
+2013GHOD01,Abhijeet Ghodgaonkar,3800
+2019TORO02,Soma Török,3800
+2016KINS01,Sheng Foon Kin,3800
+2016HOUG01,Levin Houghton,3800
+2016THAK01,Ram Thakkar,3800
+2016PARK10,Yeon Kyun Park (박연균),3800
+2003BURT01,Bob Burton,3800
+2011JIAN07,Weijie Jian (简维杰),3800
+2018MUNI02,Eduardo Munive,3800
+2016PUTT01,Arttu Puttonen,3800
+2011LELE01,Gaspard Leleux,3800
+2008WITG01,Guus de Wit,3800
+2018VILB01,Thibault Vilbois,3800
+2019MARA05,Joshua Christian Marais,3800
+2013BALI01,Tanzer Balimtas,3800
+2019ZENN01,Lim Zhe Xi Zenneth,3800
+2010SHIX01,Xin Shi (石欣),3800
+2006NORS01,Bruce Norskog,3800
+2018THOM29,Carter Thomas,3800
+2017MILL07,Zeke Miller,3800
+2018MATY02,Adrien Auvray Matyn,3800
+2016GURN01,Will Gurnett,3800
+2016LYHO01,Theo Lyholm,3800
+2019ZENG10,Wei-Ming Zeng (曾唯銘),3800
+2017PAON01,Roan Paone,3800
+2022MIRA06,Gabriel Alonso Ibáñez Miranda,3800
+2016WEIM01,Josh Weimer,3800
+2017EREZ01,Ethan Erez,3800
+2021ZHUR03,Ronnie Jinxuan Zhu (朱缙轩),3800
+2006GOME01,David Gomes,3800
+2011SATO01,Heron Sato,3800
+2017WEST04,Nicolas Perez,3800
+2014KUBI02,Jakub Kubiak,3800
+2010GREG01,Jure Gregorc,3800
+2008DIEW01,Jens Diewald,3800
+2012CANT02,Simone Cantarelli,3800
+2014ENDO01,Jolo Endona,3800
+2019HELB01,Alexander Helbok,3800
+2017SUNC02,Christopher Sun,3800
+2019LAUB01,Benson Lau,3800
+2014TAOW01,William Tao,3800
+2014BURA01,Ariel Burak,3800
+2012CHEN25,Jingyuan Chen (陈静远),3800
+2009KOBA02,Yuuki Kobayashi (古林祐輝),3800
+2017PYLY01,Bohdan Pylypchak (Богдан Пилипчак),3800
+2022WANG38,Brandon Wang,3833
+2023WUCH01,Chia-En Wu (吳佳恩),3833
+2014YASH01,Artem Yashkov,3833
+2018DAIN02,Peri Le Dain,3833
+2017VANG02,Tyler VanGompel,3833
+2010OMUL01,Jernej Omulec,3833
+2017MILL04,Zachary Miller,3833
+2018SONG20,Yuxuan Song (宋宇轩),3833
+2017MOOR03,Clay Moore,3833
+2014TYTA02,Mykyta Tytar (Микита Титарь),3833
+2011LIMA01,Allyson Dias de Lima,3833
+2008PLAC01,Niki Placskó,3833
+2018BULK02,Yurii Bulko (Юрій Булко),3833
+2022VISH01,Yoav Vishne,3833
+2011CHEN54,Yuxuan Chen,3833
+2013LIAO03,Ziyue Liao (廖梓跃),3833
+2018KURY02,Dmytro Kuryltsiv (Дмитро Курильців),3833
+2008YUNS02,Yunsu Nam (남윤수),3833
+2017BURK01,June Burkhardt,3833
+2016TANN01,Ana Beatriz M. Tannenbaum,3833
+2011SOAR01,Israel Machado Soares,3833
+2016TUTO01,Clyde Dencer Tutor,3833
+2022SILV37,David F. Andron-Silva,3833
+2021REYE02,Kevin Reyes-Velazquez,3833
+2022CUIA01,Auric Cui,3833
+2018BECK05,Cade Beck,3833
+2011SUNG01,Sungho Hong (홍성호),3833
+2022HOTE01,Maor Hoter,3833
+2016VERD03,Sébastien Verdier,3833
+2015WEIL01,Lee Zhen Wei,3833
+2013SHIM01,Tyler Shimada,3833
+2018LIPE01,Pengji Li (李棚吉),3833
+2017PRES02,Peter Preston,3833
+2013MADA01,Vikram Mada,3833
+2017TANM01,Michael (謝富亦),3833
+2015NEWH01,Will Newhoff,3833
+2022CENT02,Tim Cents,3833
+2018CRUZ11,Leonardo Ezequiel Cruz,3833
+2014GULA02,Abdullah Gulab,3833
+2022GAJW01,Mehul Gajwani,3833
+2022ZHAO08,Lawrence Zhao,3833
+2022CLAR25,Alexis Clarke,3833
+2014AMAD01,André Rodrigo César Pinheiro Monte Amado,3833
+2010ZHOU17,Zhihao Zhou (周志豪),3833
+2016HOBB01,Emmet Hobbs,3833
+2016HOLZ01,Laura Holzhauer,3833
+2013CHAN09,Yu-Hsuan Chang (張祐瑄),3833
+2016MAIT02,Joey Mait,3833
+2014BENT02,Roberto Bentivoglio,3833
+2017OUTH01,Sebastian Outh-Aut,3833
+2009SALA01,Jorge Leonardo Sánchez Salazar,3833
+2013BRYC01,Christine Brychcy,3833
+2014LOWE01,Matthew Lowe,3833
+2018EYOU02,Elyas Eyou,3833
+2017HEYU03,Bae Chan Heyung (배찬형),3833
+2021LAUR01,Marcus Laurantzon,3833
+2017HAGN02,Robin Hagner,3833
+2013ANIR01,Hari Anirudh,3833
+2013ANAN03,Adithyaa Anand,3833
+2018JIME14,Emilio Alberto Rodríguez Jiménez,3833
+2014KWAS01,Hubert Kwasigroch,3833
+2018FOLD01,Lars Johan Folde,3833
+2014SONG08,Zian Song (宋子安),3833
+2014KRAV01,Phillip Kravtsov,3833
+2015MILL01,Dylan Miller,3833
+2015MATT09,Luis Miguel Ávila Mattos,3833
+2018SAMK01,Max Kwok U Sam (郭愉琛),3833
+2019GONZ39,Gustavo Ignacio Pineda Gonzalez,3833
+2017HERN11,Joaquin Ruenes Hernández,3867
+2016PAOL01,Damiano Di Paola,3867
+2018MADR02,Maxime Madrzyk,3867
+2014PEAR02,Maverick Pearson,3867
+2017YANG62,Marco Yang,3867
+2014ESCO02,Daniel Escobar,3867
+2017HUAN34,Jinzhou Huang (黄金洲),3867
+2021YAMA01,Kai Yamamoto (山本快),3867
+2015TRAN07,Dan Tran,3867
+2014KIMD06,Doyul Kim (김도율),3867
+2016KOLA02,Tymon Kolasiński,3867
+2017RAGA02,Yusuf Ragab,3867
+2022SHAR36,Panashe Sharma,3867
+2017PISK01,Maksymilian Piskorowski,3867
+2016CORV01,Alejandro Daniel Salceda Corvera,3867
+2022POYE01,Pablito Poye,3867
+2019KOBE03,Elliott Kobelansky,3867
+2006SUGA01,Kei Suga (須賀慶),3867
+2011CAOS01,Sheng Cao (曹晟),3867
+2023GAOJ02,Joshua Gao,3867
+2014JIAN10,Leia Jiang,3867
+2011GUCU01,Can Gücüyener,3867
+2021CALT01,Jay Calter,3867
+2016AMIN02,Aidar Aminev,3867
+2022BATE01,Evan Bateman,3867
+2017ZHUH05,Hongyu Zhu (朱泓宇),3867
+2019GEAA01,Albert Garriga Gea,3867
+2016GORE02,Neel Gore,3867
+2019WACH01,Adam Wachtel,3867
+2015ZHOU07,Qi Zhou (周祺),3867
+2014GRAY03,Brendan James Gray,3867
+2019GASN01,Allan Gasnier,3867
+2021OCHO01,Juan Esteban Posada Ochoa,3867
+2012ICKL01,Finn Ickler,3867
+2017SASA03,Akifumi Sasaki (佐々木彰史),3867
+2018LIUL05,Lichao Liu (刘立超),3867
+2015WYSS01,Dimitri Wyss,3867
+2018CHOW04,Rafael Chowindra,3867
+2017VASK01,Dylan Vaskevicius,3867
+2021MARI04,Paolo Marino,3867
+2016HOCE02,James Hocevar,3867
+2015WINT02,Steven Wintringham,3867
+2020TOMA01,Fabian Tomasovic,3867
+2016ZHOU13,Xinwei Zhou (周欣伟),3867
+2017COST04,Joshua David Costello,3867
+2016WIEB01,Adriel Wiebe,3867
+2018CARR07,Bashy Carrillo,3867
+2017WILL05,Tyler Williams,3867
+2012KRIS11,Michael Kristel,3867
+2018BLOC01,Jonathan Blöcher,3867
+2018HOVO01,Yelysei Hovorun (Єлисей Говорун),3867
+2015RIBI01,Vilius Ribinskas,3867
+2014BURI01,Billy Burier,3867
+2022YANG19,Kai Wen Yang,3867
+2015LIZH02,Zhijun Li (李芷筠),3867
+2017ALLE05,Koen van Aller,3867
+2018CHAM01,Tucker Chamberlain,3867
+2016TRAS01,Finn Trass,3867
+2022YAGI03,Aiki Yaginuma (柳沼愛輝),3867
+2021BRUD01,Enzo Bruder-Jeannot,3900
+2019HEIK02,Veikko Heikkinen,3900
+2014ZUPA01,Staš Zupanc,3900
+2016ACUN04,Brian Acuña,3900
+2016IVRO01,Robert Mapp IV,3900
+2022KAGA01,Rotem Kagan,3900
+2022JONE01,Cooper Jones,3900
+2008LIMS01,Simon Lim (林少秋),3900
+2013KRAV01,Ivan Kravchenko (Іван Кравченко),3900
+2015ZHEN17,Michael Zheng,3900
+2017YEEA01,Lee Jun Yee Allen (李俊毅),3900
+2009PROV01,Matteo Provasi,3900
+2022FRYE01,Mayson Frye,3900
+2021SOTO01,Juan Miguel Saboya Soto,3900
+2018LOCA01,Valerio Locatelli,3900
+2018FISK01,Oliver Fisk,3900
+2015BUAT01,Witali Bułatow,3900
+2022SAMA01,Preetham Samala,3900
+2017CIRA01,Thaddeus Ciras,3900
+2010COOK01,Tessa Cookmeyer,3900
+2016JOHN30,Keenan Johnson,3900
+2015JOLL02,Acchyut Jolly,3900
+2010WENS01,Siew Hann Wen (蕭漢文),3900
+2022YUHU01,Huisu Yu (유희수),3900
+2017HOCK01,Leo Hock-Morris,3900
+2012FUJI01,Hiroto Fujita (藤田浩斗),3900
+2010VALO01,Clément Valot,3900
+2018MEHM02,Esra Mehmedova,3900
+2017REDO02,Raúl Martínez Redondo,3900
+2013FUKA01,Kazuhiro Fukada (深田和宏),3900
+2016YUHA04,Hang Yu (禹杭),3900
+2009ALFA01,Jay Benedict Alfaras,3900
+2012ATAM01,Andrii Atamaniuk (Андрій Атаманюк),3900
+2017FENG09,Yu Feng (冯煜),3900
+2018SAND21,Albert Sandru,3900
+2012DIAZ03,Kevin Vanegas Diaz,3900
+2013GILM01,Mateusz Gil,3900
+2014WILD03,Damian Wilding,3900
+2022FUSE01,Daniele Fusella,3900
+2015NICH04,AJ Nicholls,3900
+2016GROS07,Maxime Grosfillier,3900
+2016CHUR03,Sergey Churilov,3900
+2018YITA01,Taiji Yi (易泰基),3900
+2017ELEF02,Michael Eleftheriades,3900
+2014AMAY01,Ramses Amaya,3900
+2016PRAJ02,Avishek Prajapati,3900
+2022STOI02,Victor Anton Stoica,3900
+2013CHIC01,Josué Esteban Bacilio Chicoma,3900
+2014JITT01,Itthikorn Jittaveeroj (อิทธิกร จิตทวีโรจน์),3900
+2012BOGD01,Michał Bogdan,3900
+2012BEAH01,Ciarán Beahan,3900
+2015WILS05,Ryland Wilson,3900
+2007COHE01,Dan Cohen,3900
+2015VERE01,Kristóf Veres,3900
+2018HANU02,Oskar Hanuszkiewicz,3900
+2022SALA09,Aarni Salakari,3900
+2017LUHA03,Haoguang Lyu (吕浩光),3900
+2021HEIS01,Jindřich Heissiger,3900
+2015VOON01,Liew Yee Voon (劉倚文),3900
+2016LIJE01,Jeffrey Li,3900
+2021WELC01,Alexander Welch,3900
+2015VEER01,Pranav Veera,3900
+2011HUXI01,Xiao Hu (胡霄),3900
+2014MRSK01,Dalibor Mrška,3900
+2019LAWR02,Brady Lawrence,3900
+2007LIME01,Eric Limeback,3900
+2017CHEZ05,Ziyue Chen (陈子悦),3900
+2013POLA02,Juraj Polaček,3900
+2011JIAN15,Xiaojie Jiang (蒋孝杰),3900
+2006KASP02,Sander Kaspers,3900
+2021HIES01,Simon Hiesl,3900
+2012BRUN02,Ken Brunet,3933
+2003VAND01,Lars Vandenbergh,3933
+2017LIZH13,Zhichun Li (李志纯),3933
+2020BURN06,Luke Burns,3933
+2008ZHOU01,Kevin Zhou,3933
+2016BESP01,Nikita Bespalov,3933
+2012ADLO01,Aramayis Adloyan (Արամայիս Ադլոյան),3933
+2009JUNW01,Wang Junwen (王俊文),3933
+2018JEHA01,Samuel Jehanno,3933
+2017LIXI03,Xinyu Li (李欣宇),3933
+2016STEP05,Dale Palmares,3933
+2014WUBA01,Baocheng Wu (吴宝城),3933
+2019DUMS01,Adam Dums,3933
+2022CHEA05,James Chea,3933
+2013CONT01,Oscar Alberto Ceballos Contreras,3933
+2014KARN01,Subash Karnan,3933
+2014ZHAN01,Angelo Zhang,3933
+2022BUKK01,Kaustubh Bukkapatnam,3933
+2015KAWI01,Maciej Kawiński,3933
+2014REDD04,Akash Reddy,3933
+2008YUDA01,Yu Da-Hyun (유다현),3933
+2017STEW08,Jack Stewart,3933
+2013GUYU01,Yu Gu (谷雨),3933
+2014KAEM01,Kieran Kaempen,3933
+2018DEVE02,Adam Devere,3933
+2012DERG01,Dmitry Dergunov,3933
+2018AGAB03,Asset Agabekov,3933
+2016GRAS01,Peter Grassard,3933
+2022OZSV01,Eliana Ozsvath,3933
+2012BERG04,Nathaniel Berg,3933
+2011AMOR01,David Remolina Amórtegui,3933
+2017BHAT02,Atharva R. Bhat,3933
+2014AMUN01,Jonah Amundsen,3933
+2015CLAR03,Andrés Claros,3933
+2020DREH01,Wilhelm Drehling,3933
+2023KOBB01,Jonathan Kobbe,3933
+2018SILV19,Marcos Antonio Maximo da Silva,3933
+2013GLIN01,Rok Glinšek,3933
+2014LANG04,Henry Lange,3933
+2015GOSL01,Cari Goslow,3933
+2012KASS01,Daniël Kassab,3933
+2008WUKU01,Kuo-Hau Wu (吳國豪),3933
+2020GUAR01,Marco Guarasci,3933
+2019TRAN11,Leon Tran,3933
+2022MART06,Viggo Martinsson,3933
+2022MICH13,Michael (陈佳伟),3933
+2013REBA01,Prashanth Rebala,3933
+2014FURE01,Corentin Furet,3933
+2012PINT01,Jorge Augusto Siqueira Pinto,3933
+2017LEIX02,Xujia Lei (雷旭嘉),3933
+2014GRIG01,Stephen Griggs,3933
+2015CAMP01,Rafael Carreiro Campos,3933
+2009XIAN01,Teo Kai Xiang,3933
+2017KULK10,Pranav Kulkarni,3933
+2021KANT01,Karol Kantor,3933
+2017OSTD02,Jason Ostdiek,3933
+2016FIOR01,Giovane Rubin Fioravanti,3933
+2009AZIZ02,Muhammad Hariz Bin Azizan,3933
+2022LIUJ03,Jui-Hung Liu (劉睿紘),3933
+2017SOLT01,Lincoln Solt,3933
+2015LASS03,Brody Lassner,3933
+2017YANX01,Xiaohan Yan (闫小晗),3933
+2022HOBB01,Jai Hobbs,3933
+2014LUEV01,Fernando Matadamas Luévanos,3933
+2011LIMR01,Ryan Lim,3933
+2016HOWE03,Lee Hoween,3933
+2014PHIL05,Eduardo Henrique Philippsen,3933
+2016OBRE01,Piero Alessandro Laguna Obregon,3933
+2019MAKU02,Grzegorz Makuch,3933
+2017GONZ21,Miguel Gonzaga,3933
+2017SIER01,Sam Sieracki,3933
+2018BOHA01,Alex Bohac,3933
+2009DANG01,Sen Dang (党森),3933
+2022GILB05,Sophie Gilbert,3933
+2016IQBA01,Hussain Iqbal,3933
+2008KURO01,Shari Kuroyama (黒山理科),3933
+2008MORE01,Marcos Ameijeiras Moreno,3933
+2016MUZI01,Zihan Mu (穆子晗),3933
+2020REDD01,Siddharth Reddy,3967
+2022ALAN02,Leo Alanen,3967
+2018SATO02,Naoto Sato (佐藤尚人),3967
+2010TANE01,Gaurav Taneja,3967
+2015MANN02,Marco Manno,3967
+2018CAOM02,Min Cao (曹敏),3967
+2016DICK03,Eng Dickson (黄迪胜),3967
+2017SCHW03,Nils Schweizer,3967
+2003LIDO01,Doug Li,3967
+2012DROZ02,Radosław Drozdowicz,3967
+2017RAND06,Ari Randers-Pehrson,3967
+2020MALI02,Numair Malik,3967
+2012STRA01,Ivar Strangstadstuen,3967
+2016NOVO01,Gergely Novotni,3967
+2009PUNG01,Andreas Pung,3967
+2012ZAKE01,Darko Zakelšek,3967
+2015HIDA02,David Angel Gonzalez Hidalgo,3967
+2016ELNI01,Timothy Elnitiarta,3967
+2014JIAN14,Jerry Jiang,3967
+2010SYAH03,Muhammad Syahmi,3967
+2016WENT01,Teh Zhe Wen (郑哲文),3967
+2021CHOU01,Yu Chou (周禹),3967
+2017WADE01,Liam Wadek,3967
+2007SUGA01,Nobuaki Suga (菅信昭),3967
+2018SPIL01,Aaron Spiller,3967
+2013BIEN01,Piotr Bienias,3967
+2017MEAD01,Alison Meador,3967
+2023STEL02,Filip Štelbaský,3967
+2016MAGU01,Juan Dilan Nina Magueño,3967
+2017PERE26,Angel Torres Perez,3967
+2016VELE01,Jose Carlos García Vélez,3967
+2011HAPA01,Revaldo Abedram Hapaa,3967
+2019PASQ01,Mattia Pasquini,3967
+2013MAOY01,Yongzhe Mao (毛勇喆),3967
+2023LIUK02,Kevin Liu,3967
+2019HIRS01,Ezra Hirschi,3967
+2015FENG12,Junqi Feng (冯骏骐),3967
+2011TANG04,Hongyuan Tang (唐鸿远),3967
+2009CHRI03,Nora Akkersdijk,3967
+2014LOPE04,Antonio López,3967
+2019COLL13,Samuel Collett,3967
+2017SUUT01,Juuso Suutari,3967
+2016LUOH02,Huan Luo (罗桓),3967
+2005TOLE01,Alexandre Toledo Guillén,3967
+2011DUHA01,Haichuan Du (杜海川),3967
+2017SUTT01,Titus Sutterfield,3967
+2014IBAR01,Sergio Andres Guillen Ibarra,3967
+2015CHIR01,Sergey Chirin,3967
+2007CHAN06,Daniel Chan,3967
+2010POTT01,Ryan Potts,3967
+2018JUNT01,Tan Jun (陈俊),3967
+2011DELG01,Elisabet Delgado Mas,3967
+2018PIER02,Brandon Pierel,3967
+2023FROH01,Martin Fröhlich,3967
+2013KAPL01,Yulian Kaplyuk (Юліан Каплюк),3967
+2015JACK04,Sam Jacklin,3967
+2016HONG03,Yoochan Hong (홍유찬),3967
+2010ARRO01,Carolina Arroyo Cervantes,3967
+2022MANG07,Jacob Vincent Vicente Mangosing,3967
+2023XUZI01,Ziyi Xu (徐梓翼),3967
+2016LIJI01,Jingbin Li (李晶斌),4000
+2017TIKK01,Hargun Singh Tikku,4000
+2016KLAS01,Jake Klassen,4000
+2022TOMA05,Majk Tomas,4000
+2010YANG16,Muyi Yang (杨慕屹),4000
+2017AHME03,Eisa Ahmed,4000
+2017PINT05,Josias Milan Sirpa Pinto,4000
+2011LINY05,Yan-Jou Lin (林彥州),4000
+2007KRIS01,Tomas Kristiansson,4000
+2022IDZE01,Renske Idzenga,4000
+2020CHEN31,Kai-Lun Cheng (鄭凱倫),4000
+2022GORD03,Bryn Gordon,4000
+2018PALM13,Wes Palmer,4000
+2017ABDU02,Abror Abduazizov,4000
+2016HAND04,Rasmus Händén,4000
+2016JRAC01,Ace Djun T. Aguirre Jr.,4000
+2022DEGE01,Camilo DeGeest,4000
+2022TOPO03,Konstantinos Topouzidis,4000
+2015GUPT01,Abhay Gupta,4000
+2022KHAN67,Shumit Khan,4000
+2017MISI01,Maksymilian Misiak,4000
+2019DREW01,Oliver Drew,4000
+2021PIET01,Tomasz Pietruszka,4000
+2013TRUC01,Florian Truckenthanner,4000
+2015HUSH02,Shao-Yu Hu (胡紹宇),4000
+2019KOSA01,Yusuke Kosaka (髙阪優輔),4000
+2022PELE02,Andriy Peleshchyshyn,4000
+2011SELZ01,Dan Selzer,4000
+2015ZHYD01,Vladyslav Zhydkov (Владислав Жидков),4000
+2018CHAN31,Aiden Chan,4000
+2022HAIN04,Cillian Hainbach,4000
+2016SHIX02,Xinjie Shi (施鑫杰),4000
+2023GOUD01,Hugo Goudriaan,4000
+2008BUCS01,Gabriel Bucsan,4000
+2013MONR01,Nicolás Shwkyng Monroy,4000
+2011KUMA01,Akula Pavan Kumar,4000
+2006LINC01,Chia-Leo Lin (林珈樂),4000
+2018TING05,Ming Dao Ting,4000
+2019NORD06,Elias Nordlund,4000
+2011SHAH01,Dharmesh Shahu,4000
+2010POPE01,Mircea Popescu,4000
+2019TUDO01,George Tudor,4000
+2018VASY01,Andrii Vasyliev,4000
+2003DENN01,Ton Dennenbroek,4000
+2019NOBL01,Tom Noble,4000
+2013PING01,Anant Pingle,4000
+2018VISA02,Calum Visagie,4000
+2017BORG02,Gabriel Bergue,4000
+2015RODR01,Andres Rodriguez,4000
+2016CHAI03,Michael Chai (柴天方),4000
+2016WASE01,Yannic Waser,4000
+2022ALEU01,Ot Caminals Aleu,4000
+2019ENGE02,Achia Engel,4000
+2022HUAN55,Po-Hao Huang (黃博晧),4000
+2019BOJA02,Jakub Bojanowski,4000
+2019FARD01,Håvard Færden,4000
+2017KITI02,Islam Kitiev,4000
+2017RAUH01,Veikko Rauhala,4000
+2023CHAI02,Anawin Chaichana (อนาวิล ชัยชนะ),4000
+2017NOKE01,Jacob Nokes,4033
+2016DUBY01,Oleh Dubynskyi (Олег Дубинський),4033
+2019FUYU01,Yu Fu (付煜),4033
+2018YUSH04,Shun-Yu Yu (游舜宇),4033
+2014OUSH01,Shihao Ou (欧世浩),4033
+2012LINZ02,Zhiwei Lin (林智玮),4033
+2022GOWM01,Gabriel Gowman,4033
+2015RISC01,Álex Domingo Risco,4033
+2016VOSO01,Olivier Vos,4033
+2012MAZZ02,Matteo Mazzini,4033
+2017MAKA06,Stepan Makarenko,4033
+2008CABA03,Jakub Cabaj,4033
+2021LONG02,Samuel Long,4033
+2013SUCH02,Chengming Su (苏成明),4033
+2019CAST13,Cody Caston,4033
+2015SILV55,Antonio Gabriel Freitas da Silva,4033
+2019HUIL01,Dilan Huillca,4033
+2015DENG04,Chuhaolun Deng (邓储浩伦),4033
+2013AMEE01,Muhammed Ameen,4033
+2019MORE28,Tommy Moreno,4033
+2019WILL30,Madeline Willoughby-Khan,4033
+2022PERE07,Banura Perera,4033
+2018CAST17,Isaac Vergara Castillo,4033
+2016KOTW01,Mateusz Kotwica,4033
+2006GUNJ01,Mitsuki Gunji (郡司光貴),4033
+2015HUAN24,Zhengfen Huang (黄政奋),4033
+2016OZOR01,Isaac Adair Nava Ozorio,4033
+2018FOST03,Ashley Foster,4033
+2014SACH05,Dan Sachs,4033
+2017OSUD01,Peter Osudar,4033
+2013SANT13,Sergio Torrijos Santano,4033
+2018REIN01,Martin Reinisch,4033
+2011ZHAN03,Lijiaqi Zhang (张李佳琦),4033
+2016REDD10,Raghav Reddy,4033
+2017MINA04,Hannah Minas,4033
+2023KUMA09,Sukruth Sateesh Kumar,4033
+2014POWE01,Bowen Powers,4033
+2023PEIY01,Yifeng Pei (裴一丰),4033
+2017SODO01,Oleksii Sodoma (Олексій Содома),4033
+2018PANY07,Yuxuan Pan (潘宇轩),4033
+2015PARD02,Marvin Orlando Salguero Pardo,4033
+2017HUMM01,Mitchell Hum,4033
+2022KILG02,Christopher Kilgallon,4033
+2019LUCA01,Kaidyn De Luca-Mazza,4033
+2020TANJ01,Joshua David Tan,4033
+2009SIEW03,Manfred Siew Ee Sheng (蕭奕晟),4033
+2014CAIJ02,Jack Cai,4033
+2016MCLA02,Connor McLaughlin,4033
+2013KEJR01,Aryan Kejriwal,4033
+2014THUV01,Johan Thuvesen,4033
+2013CETI01,Ömer Çetinkaya,4033
+2011ANIS01,Dmitry Aniskin,4033
+2013WALT01,Zak Walters,4033
+2016IKHW02,Ahmad Kamil Ihsan Bin Ikhwan,4033
+2016MANZ01,Jack Manzo,4033
+2022VIGH01,Botond Vigh,4033
+2021PIOR01,Wojciech Piórczyński,4033
+2017SUZI02,Anton Suzin,4033
+2008CUST01,John Paul Custodio,4033
+2015LIND05,Donghong Lin (林东泓),4033
+2008CASA01,Jaume Casado Ruiz,4033
+2018HEAT01,Luke Heath-Edwards,4067
+2017HOJE01,Jerry Chung (鍾養浩),4067
+2016MURI01,Marcos Meibel Corral Murillo,4067
+2017BATB01,Zayabaatar Batbayr,4067
+2016LIZE03,Zesheng Li (李泽生),4067
+2017ZHAD01,Damir Zhanataev,4067
+2016TRAG01,Parker Trager,4067
+2016POHS01,Shawn Poh,4067
+2017HOLM01,Theodor Alexander Holme,4067
+2022PREC01,Dennis Preciado,4067
+2018MORO01,Ronny Morocho,4067
+2021FOST01,Jaxon Foster,4067
+2017LIJI37,Jiankang Li (李建康),4067
+2017BASS02,Lucas Fauci Bassarsky,4067
+2009GARC04,Pau Vela García,4067
+2009WANG21,Guanghua Wang (王光华),4067
+2016TYBE01,Andrew Tyberg,4067
+2009SANT01,Simone Santarsiero,4067
+2016SING27,Madhav Singh,4067
+2018MONA01,Boris Monakhov,4067
+2016REGO01,Sheldon Rego,4067
+2018FLUC01,Sarah Fluck,4067
+2016XING03,Yiyi Xing (邢祎祎),4067
+2022HAVI01,Kfir Havivi,4067
+2023DEUS01,Lukas Deuschl,4067
+2016GREE04,Steve Greer,4067
+2013IVAN03,Yaroslav Ivanashev,4067
+2019POUL02,Brandon Poulton,4067
+2013LAVR03,Dmitry Lavrov,4067
+2009KNOP01,Nathaniel Knopf,4067
+2011CHAN10,Zhiyang Chen (陈至扬),4067
+2019PAGH01,Frederik Perto Pagh,4067
+2013SAYP01,Pablo Say,4067
+2013WAGN01,Andreas Wagner,4067
+2014AYAL02,Victor Ayala,4067
+2014BABE02,Anastasia Babenkova,4067
+2016BENI05,Jeremy Benik,4067
+2014BILG01,Jason Bilgrei,4067
+2016AOKI02,Ryota Aoki (青木涼太),4067
+2018PROV01,Arthur Provot,4067
+2014NAUM02,Vladislav Naumenko,4067
+2014OUYO01,Yonghui Ou (区永辉),4067
+2019ZHEL01,Lee Yu Zhe,4067
+2023JINJ03,Junhao Jin (金俊昊),4067
+2017TIZI01,Juan Cruz Oriti Tizio,4067
+2022KARO02,Toby Karon,4067
+2019FONG04,Ryan Fong,4067
+2014VENK02,Rahul Venkatesan,4067
+2015POTT02,Safvan Kadannam Potta,4067
+2008GANC02,Kam Chor Kin (甘楚健),4067
+2006MERT01,Jim Mertens,4067
+2015MICH01,Petr Michovský,4067
+2015LEON08,Aldo José Gramajo de León,4067
+2019BANG01,Andrew Tan Jing Bang,4067
+2023BECV01,Kryštof Bečvář,4067
+2014NUNE05,Rodrigo Pueblas Núñez,4067
+2022TEER02,Naphan Teerabruranapong (นภันต์ ตีระบูรณะพงษ์),4067
+2021VELL01,Nathaniel Velly,4067
+2013DAVA01,Alex Davani,4067
+2017VASQ06,Josue Abhayan Jiménez Vasquez,4067
+2022ECHE01,Tiago Eche,4067
+2017VILL30,Carlos Villanueva,4067
+2015URIE01,Even Uri,4100
+2022GIAV01,Julian Giæver-Engesmo,4100
+2010SAAR01,Juho Saarimaa,4100
+2017TJAN03,Michael Tjandra (锺梓翔),4100
+2018NGUY14,Dan Nguyen,4100
+2012EHYA01,Sepehr Ehyaee (سپهر احیایی),4100
+2014HOUG01,Christian Houghton,4100
+2022MILL05,Evan Millsap,4100
+2022CERN03,Michal Černý,4100
+2018SONG04,Yilin Song (宋翊麟),4100
+2013DOMI03,Anthony Dominquez,4100
+2021JIAN09,Ji-Siang Jian (簡季湘),4100
+2013ZHUY01,Yinghao Zhu (朱英豪),4100
+2021JOHN06,Bruno Di Renzo John,4100
+2018SHAH38,Aayush Shah,4100
+2022COWA02,Luke Cowan,4100
+2018BUDH01,Yash Budhiraja,4100
+2016SONG04,Chengyang Song (宋成阳),4100
+2009CHEN35,Weifeng Cheng (程维锋),4100
+2013HALI01,Timothy Halim,4100
+2022FETH01,Miles Fetherston,4100
+2019AUBI01,Lucas Aubin,4100
+2016LIXI04,Xiangjie Li (李祥杰),4100
+2018JONE05,Sandy Aaron Jones,4100
+2019CANE02,Juan Ignacio Caneppa,4100
+2015DASA02,Aniket Das,4100
+2021YASA01,Olga Yasakova,4100
+2018GONZ30,Julian Alejandro Forero Gonzalez,4100
+2016WANQ03,Qiyue Wang (王启越),4100
+2006CUDZ01,Karol Cudzich,4100
+2015RAML01,Alvin Liantoro Ramli,4100
+2021ZHUR04,Diasbek Zhuraev (Диасбек Жураев),4100
+2019WAWR01,Igor Wojciech Wawrzynski,4100
+2015SERO02,Ernest Seroczyński,4100
+2018KUZM02,Olaf Kuźmiński,4100
+2019GALV05,Gerardo Emmanuel Gutierrez Galvez,4100
+2016SZYS02,Stanisław Szyszka,4100
+2019GARR09,Néstor Garrido,4100
+2010PANP01,Pei Pan (潘霈),4100
+2015BERN02,Agustín Bernasconi,4100
+2018BOHN02,Sean Bohne,4100
+2010PRAJ01,Brillian Prajudistisia,4100
+2022GADO01,Ilay Gadot,4100
+2017XIAN12,David Chong Kai Xiang (张凯祥),4100
+2013GENG01,Liuyuan Geng (耿留远),4100
+2013HORI01,Denys Horiachev (Денис Горячев),4100
+2022PAIN01,Noah Paine,4100
+2018ADAM06,Brayden Adams,4100
+2016WUHE01,Heng Wu (吴桁),4133
+2015WANG87,James Wang,4133
+2019KOZL05,Illia Kozlov (Ілля Козлов),4133
+2019HLAV02,Adam Hlavín,4133
+2009LIJI03,Jiajun Li (李嘉俊),4133
+2021STAW01,Tomasz Stawowy,4133
+2015WRIG07,William Wright,4133
+2010VERE01,Manu Vereecken,4133
+2017MART94,Víctor Adán Solis Martinez,4133
+2013LINZ04,Zihang Lin (林子杭),4133
+2012CORO01,Giovanny Coronado,4133
+2007COMP01,Emile Compion,4133
+2011LIMA03,Henrique Fonsêca Coelho Lima,4133
+2022RANN02,Otso Rannikko,4133
+2016WORK02,Riley Workman,4133
+2020KASP01,Szymon Kasprzycki,4133
+2015ZHAO13,Alan Zhao,4133
+2016NIMI01,Mingxuan Ni (倪铭轩),4133
+2015CHHA03,Aryan Chhabra,4133
+2022PURS01,Maxim Pürstinger,4133
+2019SHUH01,Muhammad Shahir Bin Shuhaidi,4133
+2022SZUB01,Oliwier Szubert,4133
+2018WILL24,Jai Willink,4133
+2007BODO01,Bertalan Bodor,4133
+2017SCHA06,Friedrun Schauer,4133
+2019WILL22,Quintin Willette,4133
+2015SALA03,Taha Ben Salah,4133
+2008DONG02,Kim Dong-Young (김동영),4133
+2013LINK01,Kaijun Lin (林恺俊),4133
+2021CLAU01,Aura Clausen,4133
+2014SARK01,Hemang Sarkar,4133
+2021DLUZ01,Jakub Dłużak,4133
+2009SEIM02,Vegard Seim Karstang,4133
+2016NGAN02,Michael Ngan (顏律言),4133
+2018TRUD02,Zachary Trudell,4133
+2010GRAB01,Daniel Grabski,4133
+2012CAPA01,Mihai Căpăţinescu,4133
+2010XIAO01,Yen-Pin Xiao (蕭彥平),4133
+2022MAXA01,Václav Maxa,4133
+2015CHNG01,Jonathan Chng,4133
+2016TORO03,Leonardo Sanchez Del Toro,4133
+2019LUMP01,Max Lumpkin,4133
+2016PRES04,Matthew Prestwich,4133
+2014AVIL05,Mauricio Ademar Carlos Avila,4133
+2023OSIC01,Tristan Osica,4133
+2015JAIN21,Saiyam Jain,4133
+2010ZAKY01,Ahmad Zaky,4133
+2019OCHA01,Piotr Ochal,4133
+2007FUBO01,Fubo Wang (王富博),4133
+2017KOCH06,Sam Koch,4133
+2010ATAK01,Deniz Atak,4133
+2016LIUX15,Xuan Liu (刘璇),4133
+2019ALLC01,Giordano Limber Aguilar Allcca,4133
+2011SIDA01,Mantas Sidabras,4133
+2013SAVU01,Anton Savushkin,4133
+2022KSZY01,Brandon Michael Kszywonos,4133
+2018HUAP02,Prosper Huang,4133
+2010SHID01,Naufal Shidqi,4133
+2022PIER02,Dulina Harshitha Pieris,4133
+2010JUNL02,Leow Yi Jun (廖艺畯),4133
+2022PIKE02,Carter Pike,4133
+2017KEKK01,Alex Kekkonen,4133
+2009YONG02,Lee Jia Yong (李伽榮),4133
+2015DHIR02,Jay Dhiru,4133
+2016YANW01,Wenqiang Yan (严文强),4133
+2011SIMO02,Fabian Simon,4133
+2010ZHAO19,Eric Zhao,4133
+2015SANT16,Andrei dos Santos,4167
+2018QIUT02,Tian Qiu (邱天),4167
+2017SRIV11,Lakshmi Sai Srivatsa,4167
+2015CAMP03,Damián Jail Campos,4167
+2016GILL09,Karenjit Singh Gill (卡仁基),4167
+2017PIME01,Sergio Minaya Pimentel,4167
+2015KORO02,Volodymyr Korol (Володимир Король),4167
+2014VORL01,Marco Vorländer,4167
+2016ZHON01,Kenny Zhong,4167
+2015SANG03,Peiyun Sang (桑培耘),4167
+2018GERA07,Yauheni Herasimchyk (Евгений Герасимчик),4167
+2021DENK01,Michał Denkiewicz,4167
+2019XUEL02,Elvin Xu,4167
+2018XIEB01,Bowen Xie,4167
+2016GROS06,Christophe Grosjean,4167
+2017CARA04,Kirby Jay Caragan,4167
+2017RIOS06,Miguel Alejandro Blanco Ríos,4167
+2017BRAS01,Luca Brasini,4167
+2016LIZI09,Ziqi Li (李子祺),4167
+2022RUDA02,Roman Rudakov,4167
+2016YIUN01,Nolan Yiu,4167
+2016LANG12,Fred Lang,4167
+2015CHAN28,Kim Chan-Hyo (김찬효),4167
+2017CHUF01,Fuwei Chu (褚福崴),4167
+2018ZHAV02,Andrii Zhavoronkov (Андрій Жаворонков),4167
+2008TAIC01,Chia-Liang Tai (戴嘉良),4167
+2018QIAO09,Zheng Qiao (乔政),4167
+2015FEIL02,Rainier Feiler,4167
+2022YUSU01,Bekzodjon Yusupov,4167
+2015GIME02,Laura Tarrés Gimeno,4167
+2022JOHN06,Timothy Johnston,4167
+2015HUGH04,Hazel Hughes,4167
+2017MORA08,Olander Rafael Hernández Morales,4167
+2015IACO01,Davi de Andrade Iácono,4167
+2016YURK01,Cory Yurkovic,4167
+2013RAAG01,Pranav Raaghav,4167
+2012HINO01,Takeshi Hino (日野健志),4167
+2016GASI04,Mateusz Gąsiorkiewicz,4167
+2018RIDA01,Zach Ridall,4167
+2014LIDO01,Dongzhe Li (李东哲),4167
+2015ZHAO08,Xuan Zhao (赵轩),4167
+2021ITAL01,Giovanni Italiano,4167
+2016FLOR18,Diego Isai Mijangos Flores,4167
+2021SEUF01,Toby Seufert,4167
+2017NOBA01,Kazuya Nobata (野畑知哉),4167
+2023KOLO02,Nikos Kolovos,4167
+2005BOUC01,Craig Bouchard,4167
+2022DISD01,Gaspard Disdet,4167
+2021LIMM01,Moses Limmer,4167
+2018STEP04,Łukasz Stępień,4167
+2017SANC31,Pol Juny Sánchez,4167
+2018CHEN15,Junliang Chen (陈俊良),4167
+2010XION04,Yongyi Xiong (熊永一),4167
+2022GRAF01,Ian Graff,4167
+2014CAIS01,Shengliang Cai (蔡盛梁),4167
+2019MAIE01,Felipe Maierowicz,4167
+2013MIKH01,Alexey Mikhailov,4167
+2012LAET01,Thijs De Laet,4167
+2013OLIV14,Wendel Rocha de Oliveira,4167
+2013RONQ01,Cyrez Ronquillo,4167
+2022CHAN39,Basile Chandon,4167
+2008MHLS01,Joris Mühlsteff,4167
+2014JOHN04,Alex Johnson,4167
+2022LAUR07,Ryan Lau,4167
+2014TEJA05,Pamulapati Sai Teja,4167
+2017YOUN10,Kaius Young,4167
+2018MING07,MinGwan Yeo (여민관),4167
+2021RIUK01,Danielius Riuka,4167
+2009LIUY03,Yiming Liu (刘一鸣),4167
+2021GASP01,Elisa Gasperotti,4167
+2009MARK03,James Markey Jr.,4167
+2012CAMP03,Gabriel Pereira Campanha,4167
+2012ROTH01,Philipp Roth,4167
+2023YERM01,Oleg Yermolov (Олег Єрмолов),4167
+2017GLOD01,Carlo Glod,4167
+2019VISH08,Raghav Vishwanath,4167
+2019MALV01,Manuel Malvárez,4200
+2014SIME01,Edbert Sim,4200
+2017ORME01,Isaac Ormesher,4200
+2017MINJ03,Minjun Kim (김민준),4200
+2022CIEP01,Szymon Ciepiela,4200
+2013MONT06,Simon Montrose,4200
+2013MOOR02,Philip Moore,4200
+2014RENS03,Sizhe Ren (任思哲),4200
+2019BART16,McEwan Barton-Johnson,4200
+2019MATU03,Savion Romeo Matula,4200
+2018GREE09,Oscar Coleman Green,4200
+2017POIN01,Elise Pointurier,4200
+2022DAYJ01,Joey Day,4200
+2013RIAB01,Yevhen Riabokon (Євген Рябоконь),4200
+2014BENA03,Sebastiano Benato,4200
+2020LONG05,Shain Papalotl Longbehn,4200
+2018ANIS08,Stepan Anisimov (Степан Анисимов),4200
+2013DICK01,Matthew Dickman,4200
+2019TIES01,Samuel Tie,4200
+2022SAHA03,Jagannath Saha,4200
+2022RIND03,Love Rindsjö,4200
+2012SAMP03,Sudarshan Sampathkumar,4200
+2018GONZ09,Lorenzo Gonzalez,4200
+2017PHAM07,Phoenix Pham,4200
+2017MCGO02,Scott McGowan,4200
+2019CUTT01,Elizabeth Cutting,4200
+2014MALE02,Michal Málek,4200
+2014DATT01,Dattatreya Chodavarapu,4200
+2017MERI01,Eduardo Arturo Palacios Merino,4200
+2019VALL10,Valerio Raimondi Vallesi,4200
+2012KOST02,Vladimir Kostin,4200
+2017ZHUJ02,Jitao Zhu (朱继涛),4200
+2011WIJA03,Angeline Wijaya (黃千儀),4200
+2013KUMA16,Kailash Kumar,4200
+2010WONG01,Benjamin Wong,4200
+2016BRIJ01,Abner Brijesh,4200
+2018ZEMT01,Maksim Zemtšihhin,4200
+2015MURA05,Paweł Murawski,4200
+2022LAIP01,Po-Hsien Lai (賴柏憲),4200
+2018KJOL01,Malte Oliver Bøgh Kjøller,4200
+2016SCHO08,Jakob Schöley,4200
+2016SOON01,Jareth Soong Ying Rui (宋颖锐),4200
+2011LEER01,Roy Lee,4200
+2016VINC01,Marie Vincent,4200
+2010MOND01,Pablo Nicolás Oshiro Mondoñedo,4200
+2011KANG05,Chen Kang (亢晨),4200
+2016CHRE01,Rémi Chrétien,4200
+2011KALE01,Oleksii Kalentiev (Олексій Калентьєв),4200
+2011JOSH02,Aakash Josh,4200
+2015YONG02,Gang Yong-Jin,4200
+2015SHAR21,Lakshay Sharma,4200
+2011CHAN13,Swaminathan Chandrasekaran,4200
+2018MINK01,Nate Minkevich,4200
+2016FARR02,Kilian Farrell,4200
+2016OJED01,Daniel Orozco Ojeda,4200
+2016STRA05,Yoni Strassberg,4200
+2015VACA01,Rodrigo Paz Vaca,4200
+2018RIMI01,Flavio Rimi,4200
+2016PARE03,Noah Paredes,4200
+2016LUYO01,You-Hsiang Lu (呂祐翔),4200
+2018MANK03,Aliaksei Mankouski,4200
+2018LAUR04,Ezra Lauritzson,4200
+2018ZHER01,Pavel Zherebtsov (Павел Жеребцов),4200
+2016KRAE01,Anton Kraev,4200
+2017YARY01,Alexey Yarygin,4200
+2016LIUZ10,Zhiyong Liu (柳智勇),4200
+2015LIAN01,Zhuowen Liang (梁卓文),4200
+2011FREI01,Felipe Baldívio Freires,4200
+2016LAIL01,Lin Lai (赖林),4200
+2015SABI01,Mohammad Ibnu Sabilillah,4233
+2014MART06,Kelvin Marte,4233
+2022DHAR03,Rajveer Dharmane,4233
+2018BERE01,János Bereczki,4233
+2018PICK01,Caleb Picken,4233
+2019CORA01,Malo Coraboeuf,4233
+2013HUAN07,Andy Huang,4233
+2013ZHEN02,Jinhao Zheng (郑金昊),4233
+2011GJER02,Ole Nikolai Gjerset,4233
+2022MENG01,Serena Meng,4233
+2004CHAN04,Shelley Chang,4233
+2019JEDR01,Kacper Jędrzejuk,4233
+2011KUTY01,Maksymilian Kutyła,4233
+2013HOMM02,Ankush Hommerich-Dutt,4233
+2016PUTR02,Aji Surya Putra,4233
+2019GALV10,Víctor Gálvez,4233
+2022HAVS01,Emil Engberg Havsteen,4233
+2016TUCH02,Cheung-Hao Tu,4233
+2014SZEP01,István Szepesi-Nagy,4233
+2011FANG03,Tianji Fang (方天骥),4233
+2015YUAN05,Yiling Yuan (袁艺凌),4233
+2023THEO01,Konstantinos Theodoropoulos,4233
+2012SALG01,Glenn Mark Salgado,4233
+2008DANG01,Bobby D'Angelo,4233
+2016RAVE02,Alexandre Ravel,4233
+2019MALL01,Rami El Mallah,4233
+2013AWAL01,Shantanu Awale,4233
+2015THEI01,Alexandre Theisen,4233
+2012SANG02,Rishabh Sanghavi,4233
+2018TANA03,Giovanni Tanaka (陈华安),4233
+2017DONG13,Wuxiao Dong (董毋小),4233
+2017STAL02,Luca Stalpers,4233
+2013PARE01,Kunaal Parekh,4233
+2016ZHAZ01,Zhiyuan Zhang (张智渊),4233
+2016MEUN01,Louis Meunier,4233
+2022VERK02,Agata Verkovskaja,4233
+2019MONT03,Théo Monteau,4233
+2018CHIE01,Tom Chiesura,4233
+2022HONG01,Jinsol Hong,4233
+2014DHAN01,Chetan Roger Dhanjal,4233
+2021WORL01,Austin Worley,4233
+2016PHUN02,Lauren Phung,4233
+2010VILL03,Robbie Villarica,4233
+2012TERS02,Semyon Terskov,4233
+2022KOPE01,Atilla Kopecky,4233
+2012JONE03,Ryan Jones,4233
+2017WRIG03,Evan Wright,4233
+2014BARR02,Gabriel Barrios,4233
+2016CHIL02,Akshaansh Chilakapati,4233
+2010WUYU02,Yulun Wu (吴宇伦),4233
+2015DURU01,Adinath Durugkar,4233
+2012MAHV01,Paul Mahvi,4233
+2017ROSK02,Erik Červek Roškarič,4233
+2019LEFE02,Maxime Lefebvre,4233
+2015MULO01,Athanasios Iasonas Mulonas,4233
+2016HYTT01,Kari Hyttinen,4233
+2016CAST31,Samuel Hernandez Castro,4233
+2022NGDA01,Daniel Ng,4233
+2014HSIE01,Cheng-Yu Hsieh (謝承諭),4233
+2019SMIT36,Amy Smith,4233
+2013LIZO01,Zongyang Li (李宗阳),4233
+2023JAGT01,Dhruva Nikhil Jagtap,4233
+2018PANT04,Pantos Pantos,4233
+2016YANG83,Bryan Gan Tze Yang (顏子洋),4233
+2019ZIKO01,Nikolaos Zikos,4233
+2010SCHI01,Reinier Schippers,4233
+2019ARIF05,Mohamed Arif,4233
+2017GULO01,Feruz Gulomov,4233
+2011SOBR01,Alrimar Dias Rocha Sobrinho,4233
+2009SHOU01,Jiawei Shou (寿佳伟),4233
+2022RYLA01,Vincent Rylander,4233
+2016SANC08,Joseph Daniel Blas Sanchez,4233
+2020ADAM05,James W. Adams,4233
+2014SANC19,Rafael Antonio Sanchez,4233
+2018MAZH01,Evgeniy Mazhara,4267
+2019HUAN43,Xuyan Huang (黄绪琂),4267
+2019MALL06,Valentin Mallavia,4267
+2018LOPE25,Gregory Lopez,4267
+2022CHIS01,Alex Chisăliță-Ignat,4267
+2016CAST43,Roberto Blanco Castro,4267
+2018LORE01,Jakub Lorens,4267
+2018CHAN39,Oh Chang-Min (오창민),4267
+2014BROD03,Tyler Brodzinski,4267
+2018SOUT01,Ian Southa,4267
+2016RYAN06,Nieh Zee Ernn Ryan (聶資恩),4267
+2016ALVA09,Juan Sebastián Silva Alvarez,4267
+2013STOI01,Alexandru Constantin Stoica,4267
+2016PERE44,Iván Brigidano Pérez,4267
+2013SANJ02,Suraj Sanjay,4267
+2016DABR03,Stanisław Dąbrowski,4267
+2022BORG04,Anette Warberg Borg,4267
+2012NOWA01,Joe Nowak,4267
+2011CHAU05,Peter Chau,4267
+2013MORR03,Christopher Morris,4267
+2022BENS01,Nathan Benson,4267
+2022HOTO01,Zeki Hotoğlu,4267
+2018WALD04,Zachary Walden,4267
+2016STAN04,Lee Stanton-Barnett,4267
+2015CERN01,Will Cerne,4267
+2015PARK08,Jeff Park,4267
+2013GAOZ01,Zixiong Gao (高子雄),4267
+2014OROV01,Liam Orovec,4267
+2015OAKK01,Kunal Oak,4267
+2013GAND02,Roland Gandini,4267
+2015CHEN52,Weisheng Chen (陈伟胜),4267
+2017CAST08,Clancy Caster,4267
+2015NATH01,Spondon Nath,4267
+2015CURM01,Nejc Ian Čurman,4267
+2016YEDA01,Daoming Ye (叶道明),4267
+2016MADN01,Sahil Madnani,4267
+2018KHAN27,Ibrahim Khanani,4267
+2017PANS02,Shengqi Pan (潘盛琪),4267
+2012VAID02,Rakesh M. Vaideeswaran,4267
+2016ZENK01,Viktor Zenk,4267
+2015GODO01,Diego Iglesias Godoy,4267
+2015GONS01,James Gonsalves,4267
+2015GOVI01,Dylan Govic,4267
+2019YAOJ01,Jerry Yao,4267
+2012WANG07,Zhihao Wang (王志豪),4267
+2016KWAS01,Owen Kwasniewski,4267
+2017ARAM01,Sever Verdín Arambula,4267
+2016ZHAZ07,Zishuo Zhang (张子硕),4267
+2024SILV03,Italo Oliveira da Silva,4267
+2013GOYA01,Henry Hideki Goya,4267
+2016WETZ01,Leonard Wetzel,4267
+2022WIEC01,Krzysztof Więcław,4267
+2014TIPT01,Jesse Tipton,4267
+2016MURP06,Kieran Murphy,4267
+2013KATT02,Kim Kattelans,4267
+2021KIMJ03,Joel Kim,4267
+2015TANG15,Zhaoyu Tang,4267
+2018MENG06,Xinyue Meng (孟心悦),4267
+2017FLOR20,Axel Hernández Flores,4267
+2014TILA01,Jonathan Tilahun,4267
+2014SAID02,Alfred Saidlo,4267
+2023GADG01,Jay Nikhil Gadgil,4267
+2022ROSE07,Tyler Rose,4267
+2012ROBO02,Andrey Robota,4267
+2015SARD02,Luis Javier Sanz Sardina,4267
+2017CORD09,Samuel Crisan Córdoba,4267
+2019HAGG01,David Hägglund,4267
+2013LINC01,Chaohui Lin (林朝辉),4267
+2014RAJA02,Sandeep Rajaram,4267
+2011KOWO01,Paweł Kowol,4267
+2017MCNE01,Dallas McNeil,4267
+2016GRAF01,Lina Graf,4267
+2013BOND02,Yevhenii Bondarenko (Євгеній Бондаренко),4300
+2017VEED01,Ralf Marcus Veedler,4300
+2022STON03,Tuval Stone,4300
+2019SETT02,Mitchell Setter,4300
+2013CHEN61,Bo-Jun Chen (陳柏鈞),4300
+2012XIEG01,Geng Xie (谢耿),4300
+2016GARC52,Jaime Botello García,4300
+2021MAHA02,Hayden Ma,4300
+2023YANR02,Xie Yanrui (谢延睿),4300
+2013VICE01,Mar Gallego Vicente,4300
+2021LAMP01,Elias Lampert,4300
+2013HRNK01,Filip Hrnko,4300
+2010WANG11,Jiaxi Wang (王嘉熙),4300
+2010ZHAO10,Guang Zhao (赵广),4300
+2016DABR02,Marek Dąbrowski,4300
+2009SIEW02,Eason Siew Ee Son (蕭奕晨),4300
+2022TUBI01,Chrisgel G. Tubianosa,4300
+2018REIN04,Thomas Reinke,4300
+2009FEAN01,Aldo Feandri,4300
+2016HUKK01,Luna Artemis Hukkelberg,4300
+2013FILI01,Jurgens Filiaggi,4300
+2023POSA01,Álvaro Pérez Posas,4300
+2017ONDE01,Alexandre Ondet,4300
+2010YUTA01,Tao Yu (余涛),4300
+2022KORI01,Adam Kořínek,4300
+2008TOMI01,Takahiro Tomisawa (富沢隆広),4300
+2022THRE02,Samuel Threlkeld,4300
+2022CRIB01,Zachary Cribb,4300
+2015KIEH01,Juliane Kiehn,4300
+2017WANY19,Yiran Wang (王毅然),4300
+2019JUNL01,Leong Ming Jun,4300
+2022ROZE04,Joseph Rozelle,4300
+2018LOCH01,Frederik Løchte,4300
+2012FAHM02,Muhammad Yunan Fahmi,4300
+2022GOME12,Marco Criado Gómez,4300
+2014MAGA02,Benjamin Sanchez Magaña,4300
+2015CHAV08,Omkar Chavan,4300
+2015SOLT03,Witold Sołtysik,4300
+2020NAKA01,Taiyo Nakai (仲井太洋),4300
+2016LICH02,Ching-Hsiang Li (李清翔),4300
+2023LEES15,Samuel Lee,4300
+2012IONE01,Andrei Răzvan Ionel,4300
+2015DENG08,Chris Deng,4300
+2017SOLE01,Aaron Soley,4300
+2018DRAN01,Platon Dranchuk (Платон Дранчук),4300
+2022SOLI03,Junior Solis,4300
+2011MIKE01,Brandon Mikel,4300
+2015LEEJ12,Jason Lee,4300
+2019BASS03,Tom Bassa,4300
+2015WUHA05,Han-Lin Wu (吳翰霖),4300
+2015LITV01,Rostyslav Litvinov (Ростислав Літвінов),4300
+2014SAMO02,Petr Samodelkin,4300
+2014NEKR01,Alexander Nekrasov,4300
+2019BELL10,Jack Bellomy,4300
+2023CHEB04,Bo-Yan Chen (陳柏諺),4300
+2016ARRO05,Milko Sebastián Gutiérrez Arroyo,4300
+2008WUHA01,Han Wu (吳翰),4300
+2018STRE01,Oliver Stremmelaar,4300
+2022VUCE02,Toms Edvards Vucens,4333
+2018MITC03,Jayden Mitchell,4333
+2014SANT31,Bernardo Zakur Corrêa Santos,4333
+2012BARA03,Vladislavs Baranovs,4333
+2011KIRU01,Kesava Kirupa,4333
+2010FANY01,Yiqun Fan (樊轶群),4333
+2014YINZ02,Zhibo Yin (阴智博),4333
+2009LOHU01,Hung Lo (羅鴻),4333
+2015TAKE03,Gustavo Kenzo Araki Takechi,4333
+2010MAOC01,Can Mao (毛灿),4333
+2015BALL04,Bryce Ballam,4333
+2021WALC02,Miles Walcott,4333
+2017PHON04,Hemara-Ussadorn Phonthaklang (เหมราอัสดร พลทะกลาง),4333
+2015HARR01,Ryan Pin Harry,4333
+2015FAUG01,Marike Faught,4333
+2015DYNT01,Richard Dyntera,4333
+2015DJAN01,Govend Avgerinos Djangoi,4333
+2016YEAG01,Chris Yeager,4333
+2019CRIP01,Jordan Crippa,4333
+2020PANC01,Chen-Jyun Pan (潘辰寯),4333
+2022HERN21,León Fernández Hernández,4333
+2021COOK03,Lachlan Cooke,4333
+2015ORTE02,Nathaniel Ortega,4333
+2015TSAI06,Min-Yan Tsai (蔡旻諺),4333
+2017CHEN14,Joshua Chen,4333
+2018YANG92,Chih-Chuan Yang (楊智全),4333
+2017SIGI01,Sigi Wijaya,4333
+2017ZHUT01,Tiancai Zhu (朱田才),4333
+2018FAIR01,Max Fairbanks,4333
+2011JHAN01,Shun-Hsin Chang (張舜欣),4333
+2014LIAL01,Allison Li,4333
+2019KUMA59,Sujan Irosha Kumarapperuma,4333
+2023KOLE03,Oleksandr Kulyna (Олександр Кулина),4333
+2009ORTI01,Daniel Gracia Ortiz,4333
+2016COEL04,Suzane Coelho,4333
+2015ZHEN02,Fangze Zheng (郑方泽),4333
+2022DAVI06,Dean David,4333
+2019LIMM01,Marc Lim,4333
+2017HONG17,Jinseo Hong,4333
+2012DVOA01,Vojtěch Dvořák,4333
+2008NGOW01,Ranphoa Ngowa,4333
+2022PART01,Eitan Partush,4333
+2021MORA01,Mikołaj Morawski,4333
+2017KIPP01,Erik Kippus,4333
+2016DURE02,PX Durel,4333
+2019MCCA09,James McCambridge,4333
+2017GUSE03,Alexander Gusev,4333
+2014MAKU02,Darja Makurina,4333
+2012LIRO01,Roger Li,4333
+2016FISC02,Patrick Fischer,4333
+2019PAHL02,Michael Willow Pahl,4333
+2015YANL02,Ling Yan (严铃),4333
+2014LOEB02,Jonathan Loeb,4333
+2016FARR01,Cormac Farrell,4333
+2010KRAU02,Martin Kraut,4367
+2014GOME07,António Gomes,4367
+2015DIEN01,Martin Dieny,4367
+2018MURI03,Michail Murin (Михаил Мурин),4367
+2015KAZA01,Andrey Kazakov,4367
+2015MILE01,Ivan Miletić,4367
+2018MACI02,Logan Maciejewski,4367
+2022HAMP02,Ben Long,4367
+2018CALI04,Zach Calin,4367
+2015MAJE01,Marek Majerik,4367
+2016ZHAJ09,Jihao Zhang (张纪豪),4367
+2007MING01,Ming Gao (高鸣),4367
+2013CHAY01,Ruslan Chayka,4367
+2013ZHAN29,Fengkai Zhang (张丰凯),4367
+2014BERE01,Máté Berecz,4367
+2016BALA15,Jared Balassaitis,4367
+2022MUTS01,Pelle Mutsaers,4367
+2023LIYA01,Pinindu Liyanage,4367
+2021PINH01,Benicio Lins Pinheiro,4367
+2015IVAN03,Oleksandr Ivanchak (Олександр Іванчак),4367
+2022KEIC01,Charlize Tam Shi Kei (谭旭淇),4367
+2010TIAN03,Hongfei Tian (田洪飞),4367
+2012GAOK01,Kaiyang Gao (高凯阳),4367
+2012TERE01,Ilya Tsiareshka,4367
+2011BRZE01,Jonas Brzenczek,4367
+2016ELOE01,Eino Elo,4367
+2015SUIL01,Lianghai Sui (眭亮海),4367
+2013KHAN04,Abhishrut Khanna,4367
+2017THUL01,Andrea Thull,4367
+2009XUEZ01,Xiaoxue Zhou (周晓学),4367
+2011JONA01,Andre Febriato Jonathan,4367
+2017DOWI01,Will Do,4367
+2012XULI01,Liaoyi Xu (徐了一),4367
+2015ROME03,Alberto Romero,4367
+2015RAMI14,Samuel Cuellar Ramirez,4367
+2015ZHOU05,Yudong Zhou (周煜东),4367
+2015CARD01,Jaime Tadeo Perez Cardona,4367
+2019NOBI01,Jacob Nobili,4367
+2011SVEN02,Johan Svensson,4367
+2012SORI01,Nathan Soria,4367
+2014JOHN05,Neil Johnson,4367
+2017WUJI08,Jiajun Wu (吴佳骏),4367
+2015OHSA01,Sae-ouk Oh,4367
+2015CHEN49,Yucheng Chen (陈裕铖),4367
+2015WRON01,Michał Wroński,4367
+2019CHAP06,Hamish Chapple,4367
+2017BURN05,Alex Burns,4367
+2019CHAN78,Yu-Kuan Chang (張宇寬),4367
+2013POBR01,Kaidrich Keolo Pobre,4367
+2022SPAH01,Hermes Spahi,4367
+2022MUNG01,Oscar Isaac Corona Munguía,4400
+2015WOLZ01,Patrick Wolz,4400
+2018TANG01,Darren Tang,4400
+2010WANG58,Yu-Chen Wang (王于宸),4400
+2016LIUB01,Binwei Liu (刘玢炜),4400
+2016JAIN04,Naman Jain,4400
+2022TAWE01,Pittinun Taweewattanasophon (พิตตินันท์ ทวีวัฒนโสภณ),4400
+2016HERN08,Hector Alejandro Avalos Hernandez,4400
+2018RIVE09,Caleb Salcedo Rivera,4400
+2018WEST05,Jonas Westgård,4400
+2015PABL01,Jashan Pabla,4400
+2018ZHEN42,Weikang Zheng (郑炜康),4400
+2015KORE01,Miha Korenjak,4400
+2015JUNV01,Victor Tang Yao Jun (湯曜駿),4400
+2015FALD01,Tadeáš Faldus,4400
+2015CUIC01,Chengxiang Cui (崔程翔),4400
+2016MADH02,Aadarsh Madhavan,4400
+2015CANO04,Luis Vivancos Cano,4400
+2006KRUE01,Chris Krueger,4400
+2019GUAM01,Andrés Camilo Molina Guamán,4400
+2014NICH03,Alex Nichol,4400
+2014BALA07,Mohan Balaji,4400
+2013YERE01,Yana Yeresko (Яна Єресько),4400
+2022CSON01,Janos Csontos,4400
+2007VUNI01,Nick Vu,4400
+2013LIHU01,Hua-Ting Lee (李華庭),4400
+2013GUER03,Leo Guernion,4400
+2013GREN01,Timothy Edegran Gren,4400
+2013GALL06,Lars Galliker,4400
+2013CHEN46,Zhihuang Chen (陈志煌),4400
+2019TENG03,Yangshuo Teng (滕仰硕),4400
+2022ABDU18,Dali Mahmoud Abdullah,4400
+2021JOSH01,Jacob Joshi,4400
+2017VIAN01,Matheus Casassa Viana,4400
+2017BOLO01,Nima Bolourchian,4400
+2017ZHUX01,Xiaoliang Zhu (朱校良),4400
+2010JINY02,Yan Jin (金岩),4400
+2017ESCO07,César Mora Escobar,4400
+2017BACH09,Gaurav Bachani,4400
+2017NGAK01,Salon Ngakhushi,4400
+2017JANS05,Samuel Janssen,4400
+2022ROSE31,Hans Christian Rosendal Overgaard,4400
+2021GROH01,Vojtěch Grohmann,4400
+2018LASI01,Oleksii Lasiichuk (Олексій Ласійчук),4400
+2010SENG01,Yong Rong Seng (杨荣盛),4433
+2022LODI01,Riccardo Lodi,4433
+2014SALV02,Ricardo Bayona Salvador,4433
+2019EVAN10,Isaac Evans,4433
+2014LLOY01,Andrew Lloyd,4433
+2018GONZ25,Luka Arce González,4433
+2014WUMI01,Mingtao Wu (吴铭涛),4433
+2011VERS03,Georgy Vershinin,4433
+2021YEXA01,Xavier Ye,4433
+2014SCHL02,Simon Schleicher,4433
+2014GREC01,Grant Grech,4433
+2012LIAO03,Zi-Xian Liao (廖子賢),4433
+2014BERK02,Maximilian Berkmann,4433
+2010DONA01,James Donahue,4433
+2018CUTH01,Philip Cuthbertson,4433
+2013VIDA03,Dominik Vidaković,4433
+2023TIMO01,Víctor Tretyakov Timofeyeva,4433
+2022PHAN03,Nigel Phang,4433
+2017KORH01,Lauri Korhonen,4433
+2012RONG01,Rong Fan (樊榕),4433
+2018ANAS01,Anass Doublal,4433
+2017VILL42,Claudio Andre Gomez Villca,4433
+2017NGOC03,Casey Ngo,4433
+2022HENS02,Fergus Henstridge,4433
+2017ZUNI05,Axel Uriel Sánchez Zúñiga,4433
+2013AZNA01,İskender Aznavur,4433
+2019LEEM04,Michael Lee,4433
+2019BUCK02,Isaac Buck,4433
+2018HENN02,Baptiste Hennuy,4433
+2015GOEL03,Palaash Goel,4433
+2018LASS02,Silas Kampp Richter Lassen,4433
+2016KENN01,Zak Kenny,4433
+2017SHIP04,Peixuan Shi (时培轩),4433
+2016SERA04,Nuno Ricardo Cordeiro Serafim,4433
+2016IBAR06,Ryouichi Ibaraki (茨木亮一),4433
+2008ZHON01,Qirun Zhong (钟奇润),4433
+2011CAHY03,Hendry Cahyadi,4433
+2016ZHAO53,Zichen Zhao (赵子辰),4433
+2008WAIM01,Mok Mun Wai (莫滿懷),4433
+2022VILL11,Pablo Corral Villa,4433
+2015XIAJ01,Jun Xia (夏骏),4433
+2022MICH12,Aggelos Michaelidis,4433
+2016LOPE34,Douglas Marco Tulio Pereira López,4433
+2011HUNG02,Shao-Heng Hung (洪紹恆),4433
+2016PARI08,Théo Paris,4433
+2021SKOV01,Clara Bjerre Skov,4433
+2015RAJA10,Lakshimi Rajaram,4433
+2017AGUI08,Rodrigo Aguilar,4433
+2018YINZ03,Zhuoxi Yin (尹卓曦),4433
+2017REYE27,Jose Smith Caldas Reyes,4433
+2015KIND01,Ryan Kindt,4433
+2018HORN05,John Hornacek,4433
+2023BUEN02,Ayden Kainalu A. Bueno,4433
+2015GUTI07,James Gutiérrez,4433
+2008HANG02,Kwok Chi Hang (郭志亨),4433
+2016SHRE05,Surav Krishna Shrestha,4433
+2022HELL03,Håvard Elias Helland,4467
+2018MART75,David Rendón Martínez,4467
+2018MORG08,Camden Morgan,4467
+2018SATO01,Sora Sato,4467
+2018SAIT06,Darren Saito,4467
+2022MIGU02,David Miguel-Santiago,4467
+2018TUFT01,Andreas Gudahl Tufte,4467
+2018JIME01,Julen Insausti Jiménez,4467
+2019FRED03,Erlend Ektvedt Fredriksen,4467
+2017XIAO09,Bowen Xiao (肖博文),4467
+2017ZHAZ16,Zixiang Zhang (张子翔),4467
+2016SUJI02,Jiantao Su (苏剑涛),4467
+2017LIUJ21,Joy Liou Liu (刘丽欧),4467
+2017SANJ03,Ankit Sanjel,4467
+2017HANS09,Jake M. Hanson,4467
+2017HANS17,Lucas Hansen,4467
+2017HARB01,Danylo Harbar (Данило Гарбар),4467
+2016GOYA02,Bhavya Goyal,4467
+2016MART91,Diego Serrano Martínez,4467
+2010PIMP01,Bannawit Pimpanuwat (บรรณวิชญ์ พิมพานุวัตร),4467
+2016KAMA05,Ameya Anand Kamat,4467
+2017KLAU01,William Klauer,4467
+2017KNIT01,Lars Knittler,4467
+2011JARD01,Felipe Gregorio De Araujo Jardim,4467
+2016ZHOU02,Ke Zhou (周科),4467
+2015RIVE05,Mark Rivers,4467
+2016FORS05,Anton Forsell,4467
+2021BLAN02,Jared Blanco,4467
+2014WENG01,Zicong Weng (翁子聪),4467
+2016HOLD04,Joanna Hołdakowska,4467
+2016WUYI02,Yi-Fan Wu (吳一凡),4467
+2010ALWA01,Jundi Ahmad Alwan,4467
+2017MRUD01,Sai Mrudhun,4467
+2012JEFF01,Billy Jeffs,4467
+2015SIAM01,Rithvik Siam,4467
+2017LIZI03,Zizheng Li (李子铮),4467
+2017SANT34,Marlom Messias dos Santos,4467
+2012STAN04,Simon Stannek,4467
+2021WEGR01,Krystian Węgrzyn,4467
+2014SAMP01,Eduardo Ramalho Sampaio,4467
+2017VELA04,Arcadio Soriano Velázquez,4467
+2015JORG01,Mikela Elleby Jørgensen,4467
+2016PEIR01,Alberto Ludeña Peirado,4467
+2017CHIS02,Suen Ming Chi (孫銘志),4467
+2014SANT16,Gabriel Silva dos Santos,4467
+2013BRAT01,Martin Brath,4467
+2016PATR03,Tristan Patrick,4467
+2016OLIV01,Yuri de Oliveira,4467
+2023IKMA01,Maksym Voitsekhivskyi (Максим Войцехівський),4467
+2023JAKO04,Jakub Jakoubek,4467
+2014PYAT01,Vladislav Pyatnitsa (Владислав Пятница),4467
+2016GUDI01,Varun Gudibanda,4467
+2012TRZA01,Piotr Trząski,4467
+2017BARR34,Luis Angel Huerta Barrales,4467
+2014PUGH01,Benjamin Pugh,4467
+2017BURA01,Jamaal Burah,4467
+2014MARK02,Nikolas Márkus,4500
+2022BENM02,Hallel Ben-Meir,4500
+2005ANGO01,Carlos Angosto Hernández,4500
+2015MCKE02,Nicholas McKee,4500
+2021ALBI01,Damiano Albini,4500
+2017CHEL02,Liang Chen (陈樑),4500
+2020ZHAN16,Kun Er Zhang,4500
+2018PERK01,Elliott Perkins,4500
+2014CAIL01,Lincheng Cai (蔡林成),4500
+2021BUTE03,Alex Butera,4500
+2010ZHAO12,Raymond Zhao,4500
+2019DORO03,Niv Doron,4500
+2014DHAN03,Sohan Dhanak,4500
+2017LARA02,Néstor Mayor Lara,4500
+2017CLAR02,Nicolas Cardenas Claros,4500
+2014SANT18,Jean Carlos Santana,4500
+2014PINZ01,Antonio Saíd Maldonado Pinzón,4500
+2009FACI01,Radu Făciu,4500
+2023GREG02,Anton Henning von Gregory,4500
+2023BMOH01,Mohith B,4500
+2011LINJ04,Ting-Xian Lin (林廷縣),4500
+2022KUBA02,Jáchym Kubata,4500
+2022BALD01,Leonardo Baldo,4500
+2018ZHEG01,Dzmitry Zhehlou (Дмитрий Жеглов),4500
+2015MURN01,Diana Murnik,4500
+2022IOND01,David-Mihail Ion,4500
+2018ISAK06,Damir Issakov,4500
+2011RAHA02,Ade Yusuf Rahardian,4500
+2008CARA01,Gilberto Caracciolo Morelli,4500
+2022RATT01,Aaron Rattanachaipipat,4500
+2022TALE01,Ramy Ștefan Taleb,4500
+2015WILD01,Noah Wilde,4500
+2009GORY01,Anton Goryachikh,4500
+2013NIEL02,Steffen Nielsen,4500
+2018TSAI02,Chia-Yu Tsai (蔡家瑜),4500
+2022NORM03,Elijah Norman,4500
+2021HIGH01,Garrett High,4500
+2017RAMS02,Daniel Ramsden,4500
+2019BURK05,Rían Burke,4500
+2017RYAB02,Danila Ryabinin,4500
+2018KOLS02,Alejandro Kolster Passos,4500
+2015CHIA05,Chung-Yao Chiang (江仲堯),4500
+2011HOLL04,Edward Hollingdale,4500
+2017SZYS01,Tomáš Szyszkowicz,4500
+2017WEIN03,Nicholas Tan Jun Wei,4500
+2016ALVA06,Samuel Ignacio Rozo Alvarez,4500
+2017WANX08,Xinyu Wang (王欣宇),4500
+2019CHAU06,Steven Chau,4500
+2013BARC03,Wojciech Barciaga,4500
+2012ZHUK02,Kun Zhu (朱锟),4500
+2012SHAV01,Vladislav Shavelskiy,4500
+2015GOWT01,Saravanan Gowthaman,4500
+2017CHEH07,Huang Chen (陈煌),4500
+2019NIED02,Marcel Niedl,4500
+2014ZHEN02,Xuran Zheng (郑旭然),4500
+2022WILL06,Gabriel Williams V,4500
+2016GOHN01,RJ Gohn,4500
+2016SCHU02,Adrien Schumacker,4500
+2017MARC23,Kevin Marcalian (کوین مارکالیان),4500
+2007BARR01,Kian Barry,4500
+2017NASI01,Sherkhan-Mukhammad Nasirov,4500
+2013RANG05,Javier Rangel,4500
+2017FOOY01,Yee Wen Foo,4533
+2005KOSE01,Fumiki Koseki (古関章記),4533
+2012TYVO01,Oksana Tyvodar,4533
+2023JARO01,Khonthee Jaroensiriphan,4533
+2016CHEJ04,Jianxu Chen (陈建旭),4533
+2013ENGL01,Jack Engledow,4533
+2016DEIB01,Carson Deibert,4533
+2023HAMI08,Jack Hamilton,4533
+2023ZAGL01,Konstantinos Zaglanis,4533
+2012JIAN07,Shikai Jiang (江侍锴),4533
+2016AHNJ01,Jaden Ahn,4533
+2017TECU01,Adolfo Ortega Tecuapacho,4533
+2016MURP05,Max Murphy,4533
+2015LAIJ02,Jia-He Lai (賴佳禾),4533
+2010LINZ03,Ziyuan Lin (林子源),4533
+2018LANG04,Christian Manuel de Lange,4533
+2018MART18,Laura Freitas Martín,4533
+2016BROW06,Edoardo Brown,4533
+2009KIJV01,Prin Kijviwattanakarn (ปริญ กิจวิวัฒนการ),4533
+2015CLAU02,Carson Claud,4533
+2016ZHAN61,Haoliang Zhang (张皓喨),4533
+2022VUTH02,Thang Vinh Vu,4533
+2016PERS01,Ordway Persyn,4533
+2014YUWE01,Wesley Weishen Yu,4533
+2015HOLD01,James Holdsworth,4533
+2018WANH28,Huiyuan Wang (王汇元),4533
+2017HARV02,Luc Harvey,4533
+2015BAIL04,Léo Bailly,4533
+2023SRAM01,Jameson R. Sramek,4533
+2012OCTA01,Christophorus Kevin Octavio,4533
+2018PALO05,Erick Aguilar Palomeque,4533
+2008LIZH02,Zheng Li (李政),4533
+2006OOKU02,Tatsuya Ookubo (大久保達也),4533
+2022PERR01,Valentin Perrez,4533
+2013NEPE01,Aaron Neperud,4533
+2022DRAG01,George Eugen Drăgan,4533
+2022TSYP01,Daniel Tsyporin (Даніель Ципорін),4533
+2022LIME04,Edward Lim,4533
+2016MACH03,Chao Ma (马超),4533
+2022PUHO01,Oliver Puhov,4533
+2016SHIK02,Kanting Shi (史勘霆),4533
+2014KRYV02,Roman Kryvsun (Роман Кривсун),4533
+2017HICK03,Tyler Hicks,4533
+2022NIEP01,Tomas Nieponice,4533
+2019FARN01,Isaac M. Farnsworth,4533
+2016RALS01,Jack Ralsten,4533
+2014MONG01,Shlok Mongia,4533
+2019FANK01,Ke Fan (樊柯),4533
+2016XIEY03,Yikang Xie (谢轶康),4533
+2014KUMA42,Priyanshu Kumar,4533
+2022VENK07,Jayadharshan Venkatesan,4533
+2016MESZ01,Luke Meszar,4533
+2017AMBE01,Mahir Ambelal,4567
+2015GUOY07,Yanrui Guo (郭延瑞),4567
+2018LEZE01,Tristan Lezeau,4567
+2019BOZE01,Dylan Le Bozec,4567
+2022SAVI04,Mihai Savin,4567
+2021WRIG03,Oliver Wright,4567
+2015HITC01,Jack Hitchman,4567
+2014WUJI01,Jiawei Wu (伍嘉维),4567
+2018LAMO02,Alex Lamont,4567
+2018HEAL03,Mitchell Healy,4567
+2022SEAT02,Dominic Seaton,4567
+2015CUTT01,Fletcher Cutting,4567
+2019AZMU01,Lenar Azmukhanov,4567
+2014BHUT01,Aman Bhutani,4567
+2015SUCL01,Pedro Luis Mamani Suclla,4567
+2013TANG07,Feilong Tang (唐飞龙),4567
+2013SIZO01,Vyacheslav Sizov,4567
+2017MORE09,Alonso Moreno,4567
+2019MEAD03,Kyle Meade,4567
+2022MELE01,Angelo Melera,4567
+2015TAKA04,Katsuki Takahashi (高橋勝紀),4567
+2018WANY44,Yizhou Wang (王翼洲),4567
+2013PAPA01,Ioannis Papadopoulos,4567
+2017PIRE01,Pedro Luiz Ferreira Pires,4567
+2015WEIB02,Julien Weibel,4567
+2022NAYS01,Zohar Nayshtut,4567
+2016DELA03,Télian Delannoy,4567
+2017SIMU01,Timotej Šimurka,4567
+2022HAYL02,Kyle Kayden Hayles,4567
+2011HAID01,Denys Haidaichuk,4567
+2012WANG54,Haochen Wang (王皓辰),4567
+2016ELLI03,Patrick Ellis,4567
+2019LABA02,Joe Labas,4567
+2018WANH02,Hao Wang (王浩),4567
+2012CHEN14,Yanhong Chen (陈燕宏),4567
+2016HOFF03,Caleb Hoffman,4567
+2020GENN01,Daniele Gennara,4567
+2023KALL05,Vasilis Kallianiotis,4567
+2004KRIG02,Kåre Krig,4567
+2018DECH01,Harish Dechiraju,4567
+2017HONG09,Seungmin Hong,4567
+2012HJIN01,Jarvis Jin,4567
+2014SANC05,Gregorio Missael Lopez Sanchez,4567
+2016HONG24,Qiaowei Hong (洪翘伟),4567
+2017CHEN16,Li Chengyu,4567
+2012JAMR01,Daniel Jamrużka,4567
+2016MULL05,Dartagnan Mullins,4567
+2018STOL02,Nikita Stolnikov (Никита Стольников),4600
+2022SUHC01,Caleb Suh,4600
+2016DENN01,Dimitri Dennis,4600
+2011HAOY01,Yifan Hao (郝逸凡),4600
+2016HONG07,Junxiang Hong (洪骏翔),4600
+2018LUND01,Natanael Lundberg,4600
+2016GALA04,Andrés Rodríguez Galán,4600
+2018VASC04,Bruno Dias de Vasconcelos,4600
+2015OLIV20,Henrique Luiz Souza de Oliveira,4600
+2008LIDS01,Stefan Lidström,4600
+2019ZHAN21,Jason Zhang,4600
+2021STAB01,Tim Staberg,4600
+2023BELT03,Miguel Angel Zamorano Beltran,4600
+2021STRA04,Jude Stradtner,4600
+2016MAXE01,Ricardo Maxera,4600
+2016BECK06,Veronika Becková,4600
+2017NORT02,Joe Norton,4600
+2017OTOO03,Seán O'Toole,4600
+2013CHEN13,Linqi Chen (陈林奇),4600
+2014SCRU01,Pilan Scruggs,4600
+2017CUES02,Luis Fernando Aldás Cuestas,4600
+2014ESWA01,Karthikeyan Eswaran,4600
+2017SOAR01,Ilie-Laurenţiu Soare,4600
+2013PASS01,Piyush Passi,4600
+2012PLAC01,Gianluca Placenti,4600
+2016SOKH01,Nestor Sokhan,4600
+2017GAYN01,John Gaynor,4600
+2017GUID01,Carolina Guidetti,4600
+2010CAUD01,Raphaël Cauderlier,4600
+2017KONG08,Derek Kong,4600
+2018COOK04,John Cook,4600
+2017KORO01,Ivan Korochkin,4600
+2017BALS01,Yannick Balsiger,4600
+2017ZHAZ09,Zaiyang Zhang (张在旸),4600
+2013KUMA15,Shubham Kumar,4600
+2019SULE01,Daniyal Suleimen,4600
+2005SIMO01,Antoine Simon-Chautemps,4600
+2017MARC19,Rach Mena Marcos,4600
+2015CAMP04,Marcela Bertoldi Trujillo Campiteli,4600
+2022CHIA12,Ismaele Chiarella,4600
+2013VASI02,Vasile Dan,4600
+2013SHIE01,Eleanor Shiels,4600
+2017UNIJ01,Dominik Unijewski,4600
+2016ZHUY04,Yunzhou Zhu (朱云舟),4600
+2012KRAM01,Daryna Kramskykh (Дарина Крамських),4600
+2018KUMA01,Nitin Kumar,4600
+2015ALAN02,Sebastian Alanen,4600
+2017KIMJ02,Junseop Kim (김준섭),4633
+2018NUTT01,Edward Nutter,4633
+2012PUTR01,Bintang Kurnia Putra,4633
+2013SAND03,Arvid Sandström,4633
+2017KELL10,TJ Kelly,4633
+2015OMOR01,Nicolas Jashchenko Omori,4633
+2022CHIA11,Giosuele Chiarella,4633
+2016HOSE01,Mohammad Soroush Hoseini (محمد سروش حسینی),4633
+2018CANO06,Simone Canova,4633
+2018CAIC01,Jhonatan Caicedo,4633
+2014BENT01,Claudio Bentivoglio,4633
+2018BROW12,Theodore Brown,4633
+2016LAZA03,Fernando Sáez Lázaro,4633
+2018WANH17,Han Wang (汪涵),4633
+2018BATJ02,Bilguun Batjargal,4633
+2019LEON01,Pablo Osvaldo Cruz León,4633
+2014GANE04,Rithvik Ganesh,4633
+2010ZHAN17,Hao Zhang (张昊),4633
+2017KONG09,Yitong Kong (孔艺潼),4633
+2016MADD01,Jake Maddox,4633
+2011GANE01,Fandy Ramadhan Ganefianto,4633
+2010MATH01,Kelly Mathesius,4633
+2016YING02,Haoxiang Ying (应浩祥),4633
+2022LEVI06,Jacob Levie,4633
+2019WEIS10,Raphaël Weis,4633
+2023GARR03,Franco Enrique Garcia Garrido,4633
+2017ASKA02,Aral Askarov,4633
+2017BADI03,Anish Sanjay Badithe,4633
+2009KELL01,Felipe Keller Ariza,4633
+2012VASH01,Ustsin Vashchanka,4633
+2018MAGG01,Valerio Maggi,4633
+2016CHAV18,José Chávez,4633
+2009CASA01,Leovigildo Sánchez Casado,4633
+2022HANA01,Gilad Hanania,4633
+2022GOOD11,Todd Goodwin,4633
+2015XIET01,Tim Xie,4633
+2013ITOW01,William Yudi Matunoshita Ito,4633
+2019NAIR04,Nathan Nairn,4633
+2017HOIC01,Dominik Hoić,4633
+2013GADI01,Krishnam Raju Gadiraju,4633
+2017GUZM05,Camilo Guzmán,4633
+2015MAPP01,Bobby Mapp,4633
+2015MANS04,Ronald Mansveld,4633
+2016DANI08,Justus Danielsen,4633
+2017EMME01,Matěj Emmer,4633
+2012SEET01,Nathan Seeto,4633
+2018SCHE12,Trevor Schepanski,4667
+2013GOVI02,Sriram Govind,4667
+2017TOYS01,Azael Toysehua,4667
+2022KHAN53,Yoel Khanin,4667
+2022NIEL06,Marius Bergo Nielsen,4667
+2011HUAN08,Minjie Huang (黄敏杰),4667
+2015UREN01,Darío Montalvo Ureña,4667
+2017REZH01,Dmytro Rezhko (Дмитро Режко),4667
+2017CEGI01,Robert Cegiel,4667
+2021SAMB01,Chris Sambrooks,4667
+2008KOVA01,Endre Kovács,4667
+2019GRAB01,Benjamin Graber,4667
+2017CAGA02,Joseph Manuel A. Cagape,4667
+2017GARC48,Haiver Lenin Reyes Garcia,4667
+2014OKEN01,Vladimir Okenchits,4667
+2014MOHI01,Shankar Velu Mohit,4667
+2022STEE07,Luke Steele,4667
+2023GRIF07,Jeriyah Griffin,4667
+2014KANN02,Arun Kannan,4667
+2019XOLA01,Cuauhtémoc Velasco Xolalpa,4667
+2015PLOW02,Luke Plowman,4667
+2017KRAW02,Matthew Krawczyk,4667
+2015RYAN05,Jack Ryan,4667
+2017ASMU01,Thor Muto Asmund,4667
+2017DRAK01,Ian Drake,4667
+2012WALD01,Daniel Waldo,4700
+2011ZENG02,Jia Zeng (曾嘉),4700
+2015BALZ01,Calvin Balzer,4700
+2019CHEN13,Jolina Chen,4700
+2014REYE05,Oscar Fernando Hernandez Reyes,4700
+2015LONG01,Siah Yee Long,4700
+2018VANS03,Layne VanSiegel,4700
+2019KARC02,Petr Karčmař,4700
+2008CASI01,Gabriel Alejandro Orozco Casillas,4700
+2023KOLA01,Satvik Kolathaya,4700
+2015ORRI01,Jorge Orrite De Alba,4700
+2022DUBE03,Maxim Dubernat,4700
+2008MATS04,Takayuki Matsumoto (松本孝之),4700
+2019LAWS01,Quinn Lawson,4700
+2016ANDR12,Vadim Andreev,4700
+2015DZHU01,Stepan Dzhurylo (Степан Джурило),4700
+2017VERA03,Nuriel Vera-Degraff,4700
+2016CIRG01,Vilius Čirgelis,4700
+2022TICK01,Pierce Tickle,4700
+2020IMAI01,Hisashi Imai,4700
+2017MORO02,Ruslan Morozov,4700
+2017FONS04,Jan Fonš,4700
+2010KUSU02,Didiet Aditya Bayu Kusuma,4700
+2017PRIN01,Richard-Mattias Prints,4700
+2017GOLD02,James Golding,4700
+2016GRIG02,Giannis Grigoropoulos,4700
+2018GONZ21,Saúl Emmanuel Ramírez González,4700
+2016BART08,Gabriel Henrique Cabral Barthasson,4700
+2022RONY01,Yair Ron,4700
+2021HUGO01,Peter Hugosson-Miller,4700
+2021NARA03,Eshiel Benzion Narayanan,4700
+2018GAOA01,Anderson Gao,4700
+2018PERE05,Shalem Birzavit Meneses Pérez,4700
+2010YIMI01,Yiming Liu (刘一明),4700
+2016CHEH02,Haoyang Chen (陈浩杨),4700
+2016SUAM01,Maverick Sua,4700
+2017PAOL01,Christian De Paola,4700
+2017NOEL03,Lukas Noel,4700
+2018ARUT01,Nerses Arutunian,4700
+2016CHEY12,Yikang Chen (陈毅康),4700
+2016TARJ01,Jean-Baptiste Tar,4700
+2017LEHT01,Miko Lehtikuusi,4700
+2017NYMD01,Sergelenbat Nymdorj,4700
+2014SALG01,Manuel Alejandro Roman Salgado,4733
+2015LAGU01,Anton Lagunov,4733
+2015LIJI07,Jiuwei Li (李九威),4733
+2018MCAR01,Callum McArthur-Mortell,4733
+2009SZEP01,Nóra Szepes,4733
+2009GUIL01,Kevin Guillaumond,4733
+2021THOM05,Dorian Thomas,4733
+2020TONG02,Draco Tong,4733
+2011METZ01,Slater Metz,4733
+2015JIAN21,Jinlin Jiang (江锦林),4733
+2018MARC18,Ignas Marčiukaitis,4733
+2015CHEN30,Xuan Chen (陈炫),4733
+2013POMI01,Kamil Pomietło,4733
+2022OUZI01,Ziyi Ou (欧子宜),4733
+2022ORDO01,Josué Ordóñez,4733
+2018LINB02,Bo-Yu Lin (林柏佑),4733
+2023CREM01,Lucian Mihai Cremeneanu,4733
+2013MELN01,Maksim Melnik,4733
+2013MAZU02,Eduardo Mazuera,4733
+2017MURA05,Meenakshi Muralidharan,4733
+2022GALA01,Maksymilian Gala,4733
+2017PHEU01,Suraj Pheudin,4733
+2010SHEF01,Amit Sheffer,4733
+2016RENH02,Hongzhuang Ren (任洪壮),4733
+2015HUAN43,Yuchen Huang (黄禹尘),4733
+2023GEOR01,Rares Petru Georgescu,4733
+2010SVEN01,Kenneth Svendson,4733
+2016ZHIT01,Maria Zhits,4733
+2018GRZE01,Benjamin Grzesiak,4733
+2022KRIS16,Lokesh Krishnan,4733
+2022LIUJ09,Jacob Liu,4733
+2008ZAFR01,Michael Angelo Zafra,4733
+2014CICH02,Jan Cichowlas,4733
+2013CHAP02,Sam Chaplin,4733
+2015TISS01,Renzo Tissoni,4733
+2017SURE11,Renjie Su (苏仁杰),4733
+2022KIRS02,Antonín Kirschner,4733
+2014DILG01,Carter Dilger,4733
+2018BEKN02,Jasur Beknazov (Джасур Бекназов),4733
+2017SING06,Samrath Singh,4733
+2005LODA01,Daniel Lo,4733
+2014PASC03,Zachary Pascalar,4733
+2018BHAR02,Aayush Sriram Bharadwaj,4733
+2022WATT09,Yindee Wattanawong (ยินดี วัฒนวงศ์),4733
+2016AGUI06,Sean Karl Tyrese Aguilar,4733
+2017TOWN02,Timothy Townley,4767
+2014RAJE05,Shreyas Rajeshwar,4767
+2019NASC01,André Pereira do Nascimento,4767
+2019SVEZ01,Vadim Svezhentsev,4767
+2017KANA04,Mateusz Kanarski,4767
+2016DOYL02,Jack Doyle,4767
+2017OPRE02,Mara Oprea,4767
+2022DOBR03,Danylo Dobrogorskyi (Данило Доброгорський),4767
+2016ADHI01,Anup Adhikari,4767
+2015VISE01,Carolina Visentin,4767
+2017LIHA12,Hao Li (李昊),4767
+2018CHIA05,Loic Chiang,4767
+2016CARD01,Jesús Tadeo Perez Cardona,4767
+2011CHEN01,Hongzhi Chen (陈泓知),4767
+2013RASM02,Matias Rasmussen,4767
+2017VEUR01,Timon Veurink,4767
+2015EFRE01,Alexandros Efremidis,4767
+2022FELE01,Alessandro Feletto,4767
+2016SLIM01,Slimane Siroukane,4767
+2009ALLE01,Leandro Vasconcellos Alleoni,4767
+2022BRKI02,Matej Brkić,4767
+2016HEWE02,Wenhao He (贺文浩),4767
+2018MAMA08,Maxim Mamakov (Максим Мамаков),4767
+2018WILL27,Joseph Williams,4767
+2016JIEN01,Ng Jun Jie,4767
+2011JIAN10,Haozhen Jiang (江皓臻),4767
+2017GINS03,Jaden Ginsburg,4767
+2012CALD03,Daniel Coy Calderón,4767
+2017NASC02,Gabriel Ayres Bezerra do Nascimento,4767
+2021CHWA02,Marta Chwarścianek,4767
+2013KOST04,Yuliia Kostenko (Юлія Костенко),4767
+2023PALU01,Stanislav Palúch,4767
+2022KURA01,Cooper Kurata,4767
+2021KIMJ04,Jeong Hyeok Kim,4767
+2016NAGR01,Ilie Nagrineac,4767
+2022ESKE01,Niilo Eskelinen,4767
+2019ROOI02,Ronan de Rooij,4767
+2016OLZI01,Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж),4767
+2014CHON01,Bryan Chong,4767
+2013CHOI02,Noa Choi,4767
+2016GOME10,Jesús Fernando Castelán Gómez,4767
+2022NACM01,Omer Nacmani,4767
+2016PARI07,Paolo Miguel Parian,4767
+2018KALA09,Vivashdheeran Kalatharan,4800
+2017LAIS02,Judith Laister,4800
+2022RAJE06,Kavin Rajendran,4800
+2022GHET01,Teodor Ghețu,4800
+2017GARC63,Kevin Carrillo García,4800
+2015ALES01,Tadej Aleš,4800
+2022RAYY01,Muhammad Rayyan,4800
+2017LIXI13,Xiang Li (李响),4800
+2016ZHAX09,Xuzhi Zhang,4800
+2022ROUS04,Stefanos Roussos,4800
+2011WEIW01,Wei Wei (韦薇),4800
+2022HILA02,Gabriel Angelo V. Hilado,4800
+2023HANG02,Chow Lok Hang (周樂恒),4800
+2016ZHAN82,Youqian Zhang (张友前),4800
+2022ARME01,Ian Leonardo Acevedo Armenta,4800
+2023FADL01,Martin Fádlik,4800
+2014DRES01,Andrew Dressman,4800
+2017DAMA01,Bruno Nascimento Damacena,4800
+2012DUPL01,Quentin Duplessis,4800
+2016ROBL05,Christofer Alejandro Aguirre Robledo,4800
+2022WILL40,Hayden Thomas Willard,4800
+2022ESPI07,Aaron Espiritu,4800
+2016KAUT01,Muchammad Daniyal Kautsar,4800
+2016KARV01,Titas Karvelis,4800
+2016GARC08,Carl Joshua Garcia,4800
+2016GUOS04,Shujian Guo (郭书暕),4800
+2012STAI01,Ciprian Ștefan Staicu,4800
+2022KAWA02,Takumi Kawazoe (川添匠),4800
+2015PAUS01,Robert Paus,4800
+2006SUZU03,Yohei Suzuki (鈴木洋平),4800
+2022JOSH12,Andrew Joshua,4800
+2017RIEN01,Raphael Riener,4800
+2015WANG65,Yilin Wang (王艺霖),4800
+2015JESU01,Francisco Cabral de Jesus,4800
+2017ZHAJ02,Jiaqing Zhang (章家卿),4800
+2017KUNA01,Linus Kunath,4800
+2015HIDA03,Rodrigo Noe Gonzalez Hidalgo,4800
+2017WANH15,Haoran Wang (汪浩然),4800
+2022MORA09,Adrián Morales Morales,4800
+2005FUNG01,Michael Fung,4800
+2023ZHEL03,Lee Rui Zhe,4800
+2012PABL01,Amaia de Pablo,4800
+2023CROO02,Garrett Crook,4800
+2018PATT04,Phoenix Patterson,4800
+2008KASP01,Dominik Kasprzak,4800
+2016MELN01,Yevheniia Melnykova (Євгенія Мельникова),4800
+2016HAGN01,Rasmus Hagnäs,4833
+2018WANZ34,Zhaohe Wang (王昭赫),4833
+2022KARL02,Simon Carl Pi Karlsson,4833
+2016TIDS01,Daniel Tidsey,4833
+2012KHUR01,Philip Khursevich,4833
+2014NISH04,Shintaro Nishijo,4833
+2022WELL04,Kieran Wells,4833
+2019ZHAN89,Ray Zhang (张灏睿),4833
+2015VASE01,Denis Vasev,4833
+2017KAIT01,Troy Tan Hong Kai,4833
+2017TOLM01,Marc Tol,4833
+2022WANG39,John Wanger II,4833
+2017VEGE01,Francis Daniels Veğeris,4833
+2008SIMO02,Nicolò Simone,4833
+2012COMM01,Fabian Common,4833
+2018YASG01,Andy Yasger,4833
+2017KRAV01,Danil Kravchenko,4833
+2016RAJA06,Jonas Rajagopal,4833
+2018HUSS07,Mohammad Ahmad Abu Hussein,4833
+2010LAND01,Angel Arrioja Landa,4833
+2017AUKS01,Eduardas Aukščionis,4833
+2018FOUS02,Richard Fousek,4833
+2023BANS03,Ishaan Bansal,4833
+2022GARC19,Jose Sánchez García,4833
+2017CAPU01,Emanuel Capule,4833
+2023BEAS01,Lucas Beasley,4833
+2015KRZY01,Cody Krzyzaniak,4833
+2013ROCA01,Francisco José Campos Rocamora,4833
+2021TIMM01,Hedi Liis Timmusk,4833
+2022KUMA02,Sanjay Kumar,4833
+2019POTI01,Ethan Potinsky,4833
+2022SZMA01,Patryk Szmaglinski,4833
+2015PARK26,Sanghoo Park (박상후),4833
+2017NASO01,Artem Nasonov,4833
+2015FERA01,Rachel Feran,4833
+2017MOHA05,Vishal Mohanraju,4833
+2013MANO03,Alessandro Manopulo,4867
+2022HEXT01,Oliver Hexter,4867
+2017SHAT01,Andrew Shattuck,4867
+2017SUNC03,Chen-Pin Sun (孫振斌),4867
+2018BOFF01,Jacopo Antonio Boffa,4867
+2017SOUZ14,Thales Araújo de Souza,4867
+2013LIPK01,Gus Lipkin,4867
+2017SANT12,Renan da Cunha Santos,4867
+2009JORG02,Ronan Felipe Jorge,4867
+2019SHAW04,Damian Peter Shaw,4867
+2014SPEE01,Bradley Speed,4867
+2022PILC01,Manuela Pilch,4867
+2015ANDR06,Diego Arche Andradas,4867
+2018LIXI12,Xinyang Li (李昕洋),4867
+2010MACA01,Tamara Macadam,4867
+2018LOOR01,Alex Loor,4867
+2014STRI01,Marko Striyeshyn,4867
+2018ZIEL01,Gavin Zielke,4867
+2016MUNO13,Lucía Pascual Muñoz,4867
+2006WLOS01,Paweł Włoszek,4867
+2019CHEK01,Kuiping Che (车馗平),4867
+2011ANNE01,Edoardo Annesi,4867
+2010BOUV01,Pierre Bouvier,4867
+2014MORA10,Diego Moraes,4867
+2008LUYI01,Yiliang Lu (路义亮),4867
+2017JABL01,Maciej Jabłoński,4867
+2021PHIL04,Emma Phillips,4867
+2014LIND04,Nikolaus Lindinger,4867
+2017JEBE01,Ardavan Jebelli (اردوان جبلی),4867
+2017JINJ02,Jintao Jin (金锦涛),4867
+2022SILV12,Mateescu Silvia,4867
+2016FAZA01,Kalim Fazalurrohman,4867
+2015ULAN01,Georel Ulangkaya,4867
+2016SWAN03,Shane Swanepoel,4900
+2015DIEH02,Jared Diehl,4900
+2015FERN14,Ricardo Garcia Fernandes,4900
+2016BERG05,Felix Berglund,4900
+2017VILL41,Sean Patrick Villanueva,4900
+2015TAKA05,Yusuke Takada (高田祐介),4900
+2015HENN02,Mary Hennessy,4900
+2022HEWI01,Steven Hewitt,4900
+2018SUNM09,Max Sun,4900
+2016RIVE01,Gustavo Riveiro,4900
+2018PORT06,Sam Porter,4900
+2016NANK01,Chris Nankervis,4900
+2013CHEU01,Steven Cheung,4900
+2022DULL01,Marc Dullemond,4900
+2015MOIS01,Andrii Moisol (Андрій Мойсол),4900
+2023XIUY01,Yang Pin Xiu (楊品修),4900
+2017SCHM09,Francesco Schmitt,4900
+2017XUYO01,Yonghao Xu (徐永浩),4900
+2016GEHR01,Liam Gehrsitz,4900
+2022NAUF01,Alejandro Mejia Nauffal,4900
+2019SKER01,Lauren Skerton,4900
+2018SAND22,Einar Martin Sandvik,4900
+2022LEAR03,Megan Lear,4900
+2011GREE03,Adam Greenwood,4900
+2012KRIS04,Velidi Venkata Jagan Mohana Murali Krishna,4900
+2017ISSL01,Beni Issler,4900
+2022PANC06,Rithish Subramanian Panchi,4900
+2018HORD01,Vlad Hordiienko,4900
+2018BARK03,Sutton Barkley,4900
+2019ELSE02,Maximilian Elsener,4900
+2021DEAN02,Luke Deane-Freeman,4900
+2014XIEM01,Mingyang Xie (谢铭扬),4900
+2014KOLE03,Viktor Kolesnichenko (Віктор Колесніченко),4900
+2017JOUB01,Sonam Joubert,4900
+2014BIDA01,Leonardo Bobrowski Bidart,4900
+2008BALA01,Szabolcs Balázsi,4900
+2011VERS04,Pavel Vershinin,4900
+2014KAKH01,Timur Kakhanovich,4900
+2014PAGE02,Simon Page,4933
+2015SYFR01,Marco Syfrig,4933
+2018WAIT02,Ryan Waite,4933
+2017KUPI01,Marcin Kupis,4933
+2017LIXU06,Xulang Li (黎旭朗),4933
+2015UCHI01,Yuki Uchida (内田佑毅),4933
+2016BRIS01,Axel Brisse,4933
+2015WANG61,Hongxi Wang (王洪熙),4933
+2014ESPA01,Alyssa Esparaz,4933
+2018TURE01,Anatolii Turenko (Анатолий Туренко),4933
+2019JEDY01,Maksymilian Jedynak,4933
+2015WAKE01,Ben Wakelin,4933
+2017KARG01,Vaishakh Kargudri,4933
+2017VANS02,Nicolas Vansteen,4933
+2018SUNK01,Kailin Sun (孙凯霖),4933
+2016FLOR24,Axel Flordal,4933
+2014CRUZ20,Romhel A. Dela Cruz,4933
+2018KRAS07,Levi Krassenstein,4933
+2015ROTH01,Justin Roth,4933
+2017ODOR01,Francesco Odorizzi,4933
+2018KOLO06,Igor Kolosov (Игорь Колосов),4933
+2015COOP02,Benji Cooper,4933
+2019KRAL01,Barbara Kralj,4933
+2015DEMP01,Hayden Dempsey,4933
+2023SMAV01,Napat Smavatkul,4933
+2016XIZH01,Zhifang Xi (席之枋),4933
+2022ABDU07,Sohiba Abdumalikova,4933
+2009YANG31,Chung Tze Yang (鍾志扬),4933
+2022PALM02,Francesco Palma,4933
+2019BERA01,Emma Beranová,4933
+2012ANDR05,Dávid Andrási,4933
+2016MEYE02,Christian Meyer,4933
+2018GRYN01,Jakub Grynia,4933
+2021CARB01,Pau Carbonell,4933
+2016IEZZ01,Francesco Iezzi,4933
+2017FLOR18,Luis Flores,4933
+2021ZEMA01,Jan Zeman,4933
+2017YUZH03,Yu Zhou (周煜),4933
+2013GONG01,Li Gong (龚莉),4933
+2022GARZ03,Gabriel de León Garza,4967
+2021PAND01,Alessio Pandin,4967
+2022CHAN83,Mikul Chanakya,4967
+2022HANF01,Justus Hanf,4967
+2012YIND01,Dongyun Yin (殷冬昀),4967
+2023LIUD02,David Liu,4967
+2012QUIA01,Albert Quiñones,4967
+2014ITOT01,Takeshi Ito (伊藤健),4967
+2018WALD03,Eric Waldbillig,4967
+2011DION02,Jorge Adrian Hernández Dionicio,4967
+2013LIUC02,Chun-Ting Liu (劉淳庭),4967
+2016UMET02,Satoru Umetsu (梅津諭),4967
+2016GUOL01,LianCheng Guo,4967
+2010NATA01,Gerson Natanael,4967
+2015KIMH04,Hyunjo Kim (김현조),4967
+2022MAGI05,Iraklis Magioglou,4967
+2016WANG81,Zihan Wang (王子涵),4967
+2012KONG01,Qingwei Kong (孔庆玮),4967
+2017YINW01,Weichen Yin (殷维晨),4967
+2013TEIX02,Jhonatan Martins Teixeira,4967
+2016BELO01,Lev Beloretskii,4967
+2017RAKS01,Aris Raksamani (อริศม์ รักษมณี),4967
+2013WANK01,Key Yu Wan,4967
+2014CHIS01,Nikita Chistyakov,4967
+2017LUND04,Karla Struer Lund,4967
+2014ALON05,Francisco Alonso,4967
+2015VANE01,Ivan Vanek,4967
+2018ZHEN08,Jason Zheng,4967
+2013KALI05,Dmitriy Kalinovskiy,4967
+2017DAOU01,Daniel Daoust,4967
+2019GOSW01,Aditya Goswami,4967
+2019BILA03,Mohamed Bilal,4967
+2012SILV07,Marcos Vinícius Vieira Takahashi da Silva,4967
+2022SREE05,VP Ajin Sreekumar,4967
+2014WANG55,Heng Wang (王衡),4967
+2016SEOL01,Sean Seol,4967
+2014YAMA02,Takeshi Yamamoto (山本武士),4967
+2014SZCZ05,Bartosz Szczepaniak,5000
+2015SAWA05,Rathin Sawant,5000
+2022TAUM01,Ido Tauman,5000
+2012SHAL01,Kirill Shalashov,5000
+2018ABRA11,Igor Abramov (Игорь Абрамов),5000
+2023KUOK01,Meng Chon Kuok (郭明臻),5000
+2016BULB01,Xavier Escalante Bulbarela,5000
+2014SALA15,Luis Sinhue Medina Salas,5000
+2016XUWE02,Sora Wenjie Xu (徐文杰),5000
+2015FEIX01,Xiang Fei (费翔),5000
+2018SOSA08,Jair Sosa,5000
+2017FAIZ01,Mohamad Adrian Syahirin Bin Mohd Faizal,5000
+2012STRA02,Roman Strakhov,5000
+2017HIES01,Esdras Rodolfo Toc Hi,5000
+2021HANS01,Arthur Hansford,5000
+2016DAVI05,Joe Davis,5000
+2018PARA15,Richard Anthony Parada,5000
+2022ALIM01,Muhammad Ali,5033
+2019PERE14,Lucas Tomas Pérez,5033
+2022RIPP01,Luke Ripperger,5033
+2023OLIV26,Henrique Pietro Muraro de Oliveira,5033
+2015ZHUJ05,Jiahui Zhu (朱嘉辉),5033
+2022PARK38,GoonWoo Park (박근우),5033
+2013BROG02,Martin Emilio Concha Brogle,5033
+2022WEIJ01,Olaf Weijters,5033
+2017LIUS06,Shuo Liu (刘硕),5033
+2011HAKI02,Ahmad Naufal Hakim,5033
+2010FUGU01,Guanda Fu (符冠达),5033
+2017CONN03,Thomas Connor,5033
+2010YINF01,Fung Hoi Yin (馮凱賢),5033
+2019BEHZ01,Zain Ali Behzaad,5033
+2013SUDA03,Alexey Sudar,5033
+2023ERRA01,Edoardo Erra,5033
+2022ARVI03,Nick Arvin,5033
+2022KATZ01,Noam Katz,5033
+2015CHAN37,Max Chan,5033
+2016PRIG01,Nathan Prigent,5033
+2016FOME02,Oleg Fomenkov,5033
+2023HAND09,Jack Stephen Handrich,5033
+2022SYGU01,Franciszek Syguła,5033
+2011ZHAN56,Congjian Zhang (张丛健),5033
+2019GUNG01,Muhammed Volkan Güngör,5033
+2009COGH01,Andrew Coghill,5033
+2013RODR11,Mateo Rodríguez,5033
+2015MINJ01,Jazmine Kong Kit Min,5033
+2014VEDP01,Prem Ved,5033
+2019LAPT01,Aleksandr Laptev (Александр Лаптев),5033
+2013SING09,Shrey Singhal,5033
+2015KARB02,Andrew Karbusicky,5033
+2022MERZ01,Hussain Merza,5033
+2014LIMA09,Francisco Alberto Castañeda Lima,5067
+2022VOSU01,Sunny Vo,5067
+2017CONN04,CC Connolly,5067
+2016WOOA01,Aldric Woo,5067
+2022SILV38,Pettagan Rashane Pankaja De Silva,5067
+2022HANG02,Julie Hang,5067
+2017GUPT19,Vinayak Gupta,5067
+2019RATS05,Mike Vidrik Rätsep,5067
+2019PINH01,Edgar Nogueira Garcia Pinho,5067
+2007YULH01,Yul-Hok Sung (성열학),5067
+2013DIAS03,Wesley Oliveira Dias,5067
+2019WEAT01,Sean Weatherley,5067
+2012TANG05,Xiaohe Tang (唐霄鹤),5067
+2016LUDI01,Di Lu (卢迪),5067
+2016LUKU01,Kun Lu (陆堃),5067
+2018SOMA01,Sujith Somayaji,5067
+2018SAYS01,Josiah Samuel Saysombath,5067
+2018NIFA01,Nikita Nifatov (Никита Нифатов),5067
+2011STAI01,Micah Stairs,5067
+2015HUAN29,Boxuan Huang (黄博暄),5067
+2012MEHT01,Neel Mehta,5067
+2015MINK03,Kim Min (김민),5067
+2011KWEE01,Teh Keng Kwee,5067
+2017TARS01,Vincentiu Tarsoaga,5067
+2014GARB01,Zachary Garber,5067
+2014MOSA01,Jordan Mosakowski,5067
+2017LIUS18,Simeng Liu (刘思萌),5067
+2014MORE03,Eliezer Alejandro Martínez Moreno,5067
+2011JESU01,Samuel Antônio Araújo de Jesus,5067
+2016MORA10,Jose Antonio Campero Morales,5067
+2017FIGU06,Javier Alejandro Contreras Figueroa,5067
+2022GOUR01,Neil Gour,5067
+2022GODO01,León Godoy,5100
+2016DONO02,Orion Donovan,5100
+2016CHAL03,Kevin Edu Zarate Challapa,5100
+2022BOTI02,Farrux Botirov,5100
+2015VIRA02,Azhar Virani,5100
+2014MITT02,Tarandeep Mittal,5100
+2023JATH02,Soham Jathar,5100
+2015PHOM01,William Phommaha,5100
+2015CITT01,Marco Edoardo Cittar,5100
+2015CHAN33,Hao Chang (常皓),5100
+2023EAGA01,Sumeet Eaga,5100
+2022AGUA01,Alex Aguayo,5100
+2011CHEC01,Maxim Chechnev,5100
+2016HASS04,Taariq Hassim,5100
+2016SUNY08,Yifan Sun (孙逸凡),5100
+2018FRAN26,Filip Barbirič Frank,5100
+2017FASA02,Riccardo Fasan,5100
+2017KING01,Anton King,5100
+2016PERE25,Emmanuel Moreno Perez,5100
+2018MOMB01,Jaco Momberg,5100
+2016ZHAX06,Xinghua Zhang (张兴华),5100
+2018ALEX20,Nikita Alexandrov (Никита Александров),5100
+2017YOON01,Jiwon Yoon (윤지원),5100
+2013MART03,Chris Martin,5100
+2013VEER01,Sanjeet Veerabhaktula,5100
+2019CARE02,William Carey,5100
+2016WALI01,Gustav Wälivaara,5100
+2009ZHAO05,Xu Zhao (赵旭),5100
+2008KUCS01,Tamás Kucsera,5133
+2015BABB01,Timothy Babb,5133
+2010VOGR01,Petra Kobal Vogrinec,5133
+2014PANA01,Shaya Panahi (شایا پناهی),5133
+2017PORA02,Yuval Porat,5133
+2015PECK01,Nathan Peck,5133
+2018BAUE04,Jochen Bauer,5133
+2013RENN01,Tarik Rennan Assef Ayoub,5133
+2011NGUY03,Andrew Nguyen,5133
+2023SANA04,Juan David Blanco Sanabria,5133
+2015CARV04,José Eduardo Gaboardi de Carvalho,5133
+2016IINA01,Jani Iinatti,5133
+2018DUOZ01,Duo Zheng (郑铎),5133
+2017CAST48,Egdar Castillo,5133
+2021LUMK01,Kalvin Lum,5133
+2016GAUL02,Reilly Gault,5133
+2022TSAI02,Sheng-Fan Tsai (蔡勝帆),5133
+2016SHIY03,Yufei Shi (史宇斐),5133
+2019SCHW02,Cedric Schweitzer,5133
+2014SULL02,Matt Sullivan,5133
+2021GRON01,Byron Gronning,5133
+2012FARA01,Ali Farahani (علی فراهانی),5133
+2021OONA01,Aprilia Oon,5133
+2015ZHAN47,Sai Zhang (张赛),5133
+2010PENG08,Bali Catur Pengembara,5133
+2019LIUZ03,Zongqi Liu (刘宗奇),5133
+2023KLIN02,Sebastian Kling,5133
+2014BACC01,Gabriele Bacchieri,5133
+2021PEVE01,Amaru Aloys Ancasi Pevec,5133
+2014KHAR01,Prabal Khare,5133
+2022WALT09,Jacob Walton,5133
+2017ANDE05,Quinn Anderson,5133
+2019GUOY04,Yutao Guo (郭宇韬),5133
+2018TEMP01,Valentin Tempere,5167
+2022KALA04,Manija Kalansooriya,5167
+2008BRAN01,Filippo Brancaleoni,5167
+2018NASH04,Dmytro Nashchochych (Дмитро Нащочич),5167
+2019JIAN19,Jieyu Jiang (蒋捷宇),5167
+2015IVAS01,Andrey Ivashchuk,5167
+2018TYLE03,Suzanne Tyler,5167
+2019DWYE01,Patrick Drew Dwyer,5167
+2015RAZZ01,Andrey Razzhivin,5167
+2015LAPI01,Vladimir Lapin,5167
+2016SPRU03,Kalvis Spruga,5167
+2016SUBI02,Xènia Subirats,5167
+2014ARUM01,PK Arumugam,5167
+2022CHUN08,Leean Chun (천리안),5167
+2022WEBE06,Richard Hyrum Weber,5167
+2006HIRO03,Tadayoshi Hirota (廣田忠宣),5167
+2017KUDE02,Mars Daniel Kudemus,5167
+2023BARB09,Alex J. Barbecho,5167
+2017MEND12,José María Hernández Mendieta,5167
+2014ALEJ01,John Lexel Alejandrino,5167
+2022BECK14,Ben Becker,5167
+2012MEES01,Tiemen De Meester,5167
+2021SUSL01,Natan Suslowicz,5167
+2015LOTA01,Tejas Lotankar,5167
+2021TODD01,Ethan Todd,5167
+2014SIMF01,Filbert Sim,5167
+2022COST19,Adrian Costello,5200
+2014RODR30,José Daniel Rodríguez,5200
+2022GOME03,Almudena Gómez-Sancha López-Barajas,5200
+2013PARK06,Peter Park,5200
+2012KOTT01,Daniel Kottenstette,5200
+2014SHIE03,Cady Shields,5200
+2013BUEH01,Noah Bühlmann,5200
+2014PESN01,Sergey Pesnyakevich,5200
+2016CLIP01,Andrew Clippinger,5200
+2022FINN02,Anthony Finnigan,5200
+2017SHIR03,Bogdan Shirokov,5200
+2022NARA14,Anirudh Narasimhan,5200
+2017SZIG01,András Szigeti,5200
+2017TOST01,Alexander Tosting,5200
+2016NYIK01,Dániel Nyikos,5200
+2016MALI02,Shiraz Malik,5200
+2021OTSU02,Lucas Otsu,5200
+2018ZHUH05,Hongtong Zhu (朱泓同),5200
+2021ROBS01,Adam Robson,5200
+2022WILL13,Connor Williams,5200
+2015SILV62,Pedro Victor Ferreira Silva,5200
+2017MORT02,Dominic Morton,5200
+2019BOUB01,Athanasios Bouboulis,5200
+2019PONK01,Harish Raj Ponkumar,5200
+2015SANT34,Dayana Laís Oliveira dos Santos,5200
+2022ISKA02,Anthony Iskander,5200
+2019MIYA05,Pedro Lobeto Miyamoto,5200
+2021TURP01,Paúl Alexis Urrutia Turpo,5200
+2019HEMM03,Meghan Hemmer,5200
+2015MAZE01,Mariia Mazel (Марія Мазел),5200
+2019APPA01,Ruslan Appazov,5200
+2015RAMI07,Emilio Eleodoro Ramírez Lahsen,5200
+2013BULL01,Blake Bullwinkel,5233
+2017YIIC01,Chloe Lee Synn Yii,5233
+2022MAIC01,Iñigo Escolar Maícas,5233
+2018HAUC01,Daniel Hauck,5233
+2018KULA01,Yaroslav Kulayev (Ярослав Кулаев),5233
+2013MIHA01,Andrey Mihaevich,5233
+2018RODR59,André Felipe Silva Rodrigues,5233
+2013LOTF01,Soheil Lotfi (سهیل لطفی),5233
+2017PETC01,Stefania Petcu,5233
+2019DAVI08,Andrew Davidge,5233
+2018DESA05,Sebastian Desaulniers,5233
+2023WALL05,Hayden Wallace,5233
+2014SHAH08,Shresth Shah,5233
+2017KUMA30,Sukesh Kumar,5233
+2016AVIL06,John Edward Pardo Avila,5233
+2023KATA05,Trishan Reddy Katamreddy,5233
+2014OLSE02,Nikolaj Olsen,5233
+2014HERV01,Bence Hervay,5233
+2023HIMM02,Dylan Himmelfarb,5233
+2016RIBA01,Barna Őri,5233
+2016MEND24,Edward Mendez,5233
+2016VAUG03,Coleman Vaughn,5233
+2015DAIS01,Shifei Dai (代时飞),5233
+2015CHEN18,Jinyao Chen (陈今尧),5233
+2017DAYR01,Logan Day-Richter,5233
+2016TRUI01,Rio Truija,5233
+2013CHUS01,Sergey Chushkin,5267
+2018ZHAN37,Zhengyang Zhang (张正阳),5267
+2015ROYC01,Ben Royce,5267
+2011JOVI01,Vincent Jovian,5267
+2015SEHG01,Aryan Sehgal,5267
+2011YOSH01,Ryohei Yoshioka (吉岡亮平),5267
+2016ANSE02,Ilona Ansel,5267
+2022ALMA01,Abdallah Almaharmeh,5267
+2022DOTT02,Maxime Dotto,5267
+2022GRAV05,Carmela Gravano,5267
+2019SHOG01,Stevie Shogren,5267
+2016DEVI02,Sandra Devi,5267
+2016ESCR01,Miguel Sánchez Escribano,5267
+2018DANS02,Craig Dansie,5267
+2012MICK01,Willi Mickein,5267
+2012MCMI01,Matthew McMillan,5267
+2016ZHUB01,Bodun Zhu (朱博楯),5267
+2017BARR25,Juan Camilo González Barragán,5267
+2009LIXI02,Xiaojian Li (李晓健),5267
+2018SMIT40,Nathan Smith,5267
+2016BEVE01,Noah Beveridge,5267
+2024ZHAO07,Hong-Jun Zhao (趙浤鈞),5300
+2018BRAD06,Max Bradley-McFawn,5300
+2016KAIS03,Michael Kaiser,5300
+2014YANG22,Shengjun Yang (杨胜军),5300
+2016RAIN02,Wade Rainey,5300
+2010SEON02,Javier Teo Han Seong,5300
+2007SHIR01,Takuma Shirahase (白波瀬拓磨),5300
+2018MALA02,Dmitriy Malahov (Дмитрий Малахов),5300
+2014USHA02,Konstantin Ushakov,5300
+2019FABR01,Nicolas Fabre,5300
+2013GAWA01,Abhi Gawande,5300
+2016GARE01,Adam Hama Gareb,5300
+2017LOPE31,Catalina Herrera López,5300
+2018STAR01,Nikita Starostin,5300
+2018ISAG01,Alisher Isagaliev,5300
+2014GIAN01,Michael Giang,5300
+2019BARD03,Charles Barden,5300
+2017DURE01,Ryan Durette,5300
+2021ARUN01,Aditya Arunkumar,5300
+2019SANT84,Gabriel Dias Souza dos Santos,5333
+2012MAND01,Nestor Alberto Ruiz Méndez,5333
+2016BARA08,Federico Baravalle,5333
+2016ARAU03,Marcos Vinícius Santos Araújo,5333
+2017GATE01,Cooper Gates,5333
+2014HARR01,Matthew Harris,5333
+2014HALL02,Zachary Hall,5333
+2019HOIN01,Preston Hoing,5333
+2011CARP01,George Carpenter,5333
+2016AMOT01,Joel Åmot,5333
+2015SRIN02,Swami Srinivasan,5333
+2013RAMI03,Jefferson Ramírez,5333
+2015DANC02,Smrz Dancel,5333
+2022BENJ02,Evan Benjamin,5333
+2023YANG10,Lucas Tan Ding Yang (陈鼎洋),5333
+2017ALVA25,Ronald Josué Sicá Alvarado,5333
+2015CHAL01,Helar Gomez Chalco,5333
+2013KIMB01,Beom-Jun Kim (김범준),5333
+2022XIAO03,Ryan Xiao,5333
+2023CHAN31,Declan Chan,5333
+2022WONG03,Mason Wong,5333
+2010SILI01,Erik Silingi,5333
+2017LAIN01,Santeri Laine,5333
+2019WARE01,Faiz Wareh,5333
+2015SARM03,Kaushik Sarma,5333
+2015HENR02,Luis Alonso Inestroza Henriquez,5333
+2017MUHA06,Mahathir Muhammad,5367
+2015KOIL01,Daniel Koilpillai,5367
+2017DAIF01,Fengqi Dai (代凤奇),5367
+2017ZHAO09,Jinlai Zhao (赵锦来),5367
+2017KOCH08,Tyler Kochy,5367
+2017ZIMA01,Benedek Zimányi,5367
+2018PANO01,Andrey Panov (Андрей Панов),5367
+2014ZERM01,Daniel Zerman,5367
+2018CLAR06,Levi Clarke,5367
+2022KUMA48,Raghunandhan Kumaran,5367
+2018DILW02,Lacey Dilworth,5367
+2016CRES01,Diego Brizuela Crespo,5367
+2018WANG40,Zhenyu Wang (王振宇),5367
+2017DUNN01,Brenton Dunn,5367
+2017QUIS11,Dan Axel Gonzales Quispe,5367
+2013LRAF01,Rafael Felipe Cordoba,5367
+2016SENN01,Fabian Senn,5367
+2016MOOR09,Orion Moore,5367
+2023SABB02,Aggelos Sabbopoulos,5367
+2013ARVI02,Sachin Arvind,5367
+2023MATS01,Jaden Matsunaka,5367
+2013CAST14,Franny Luna Castro,5367
+2022COWI01,Harrison Cowie,5400
+2015SLIP01,Vladyslav Slipchenko (Владислав Сліпченко),5400
+2014ROCK01,Ben Rockman,5400
+2021BROW05,Terence Brown,5400
+2023ASTR01,Filip Åström,5400
+2014VENA01,Christo du Venage,5400
+2014WELL04,Dawson Wellman,5400
+2016LINP04,Penghe Lin (林鹏河),5400
+2019SOAR03,Mihai Soare,5400
+2016LUYI02,Yimin Lü (吕怡敏),5400
+2022MIES01,Kai Miesing,5400
+2022COVE02,Liv Coverdale,5400
+2021KOVA01,Ivan Kovach (Іван Ковач),5400
+2022ABRA08,Smijo P. Abraham,5400
+2019ZAVA01,Ronaldo Zavala,5400
+2011MARA01,Martin Maréchal,5400
+2016SHTY01,Semyon Shtykov,5400
+2017STAR04,Silas Starling,5433
+2022STRE03,Jáchym Střelec,5433
+2013ZHOU03,Qianshu Zhou (周千舒),5433
+2022WALS03,Annalena Walser,5433
+2014HEOG01,Keunsoo Heo (허근수),5433
+2016GAOY02,Yuan Gao (高原),5433
+2017UEDA02,Shoji Ueda (植田昌司),5433
+2023UUSI01,Niilo Walter Uusimäki,5433
+2011QUEJ01,Jianyu Que (阙剑宇),5433
+2022FORS07,David Forsell,5433
+2018SMIT42,Dan Smith,5433
+2017SPON01,Mia Sponseller,5433
+2010JIAO01,Yang Jiao (焦阳),5433
+2019KUTC01,Lynn Kutcher,5433
+2023STEM03,Daniel Stempin,5433
+2015OLLI01,Ethan Ollins,5433
+2023SPEN04,Paul Spencer,5433
+2017KIRA01,Kalyani H. Kiran,5433
+2018LAZA01,Christos Lazarakis,5433
+2019MELC02,Piotr Melczewski,5433
+2012ZAVA01,Michael Zavalza,5433
+2017QILO01,Louis Chan Zhi Qi,5467
+2017DOHU02,Hughie Do,5467
+2023CALI02,Andrea Caliaro,5467
+2013DENG06,Guolang Deng (邓果琅),5467
+2017KEKO01,Amanda Gutic Kekonius,5467
+2016FEIJ02,Jun Fei (费俊),5467
+2017LOME01,Jesús Mauricio Sanchez Lomeli,5467
+2017ZHAO15,Shuo Zhao (赵硕),5467
+2018MAJU03,Abhi Majumdar,5467
+2010XIAY01,Yan Xia (夏焱),5467
+2014MANC03,Siddharth Manchkanti,5467
+2017LAKK01,Jude Lakkis,5467
+2016JUAR02,Iván Guerrero Juárez,5467
+2023GRAN07,Cayden Grant,5467
+2017KONG01,Eugene Kong (江昊杨),5467
+2019TERP01,Angelo Terpening,5467
+2015TALB01,Seth Talbot,5467
+2016GUBA01,Anastasia Gubanova,5500
+2016SUHA02,Haonan Su (苏浩楠),5500
+2016GORA01,Viacheslav Gorash,5500
+2016BORG02,Aaikham Borgohain,5500
+2016TAMU01,Teruki Tamura (田村旭輝),5500
+2014GONI01,Christian Goñi,5500
+2017URBA01,Mantas Urbanavičius,5500
+2019KAPU01,Artem Kapustinskiy (Артем Капустинский),5500
+2019KRUU01,Anett Kruus,5500
+2023MALI06,Alexander Malinin,5500
+2018ZWIE01,Kylie Zwiers,5500
+2018MORA03,Paulo Henrique Matos de Moraes,5500
+2018SILV30,Everaldo Leandro Baracho da Silva,5500
+2013HORV02,Robert Horvath,5500
+2019PAVA01,Gabriel Pavanato,5533
+2018WORK01,Lydia Workman,5533
+2014RAMA06,Kalyana Raman,5533
+2018KEAR02,Caleb Kearney,5533
+2014PAUL07,Joshua Paulus-Rosenow,5533
+2023PACK01,Ryan Allen Packer,5533
+2015PERE29,Manuel Aleandro Chang Pérez,5533
+2019KHVO01,Pavel Khvostyuk (Павел Хвостюк),5533
+2017MILL12,Alistair Miller,5533
+2022HOLT03,Maria Holton,5533
+2014CHIN04,Juan Pablo Rojas Chinchilla,5533
+2013HOOK03,Andrew C. Hooke,5533
+2008WIAC01,Karolina Wiącek,5567
+2012QUIB01,Louie Jay Quibote,5567
+2022CAST33,Pedro Vitor Sant Anna Castro,5567
+2015SOUS05,Murillo Álvaro Borges de Sousa,5567
+2022HORV01,Tajda Horvat,5567
+2018MORG09,Joshua Morgan,5567
+2018PASA02,Kasper Pasanen,5567
+2016MONC05,Eden Madero Moncada,5567
+2018SAIS01,Kittatam Saisaard,5567
+2019BUCK06,Benjamin Bucksmith,5600
+2017BELK01,Vilmos Tibor Belkovics,5600
+2022SHAI01,Amaanah Shaibu,5600
+2020JOHA02,Morten Raknes Johansen,5600
+2022SCAR01,Gabe Scarborough,5600
+2019DAWI02,Laura Dawidiak,5600
+2017GUOJ04,Junrong Guo (郭峻荣),5600
+2016SHAR05,Sachin Kumar Sharma,5600
+2017MIRA11,Eduardo Daniel Perez Miramontes,5600
+2015RODR37,José Libardo Moreno Rodríguez,5600
+2015HATT01,Megumi Hattori (服部恵美),5600
+2014USER01,Rocío Fernández Usero,5600
+2012GONZ10,Eder Olivencia González,5600
+2014SPAG02,Luca Spagnolo,5633
+2014SAVI02,Leonardo Savi,5633
+2016TSAP01,Aleksei Tsapkov,5633
+2008MALI01,Emmanuel Maligalig,5633
+2009MCWI01,Zachary McWilliams,5633
+2015XULI01,Liwen Xu (许力文),5633
+2023WANG35,Shang-Wen Wang (王聖文),5633
+2016DUEH02,Jeremy Duehring,5633
+2018SAIN04,Nilesh Saini,5633
+2016CARA04,Kristian Gil Caragan,5633
+2018SILV28,Pedro Henrique de Jesus Silva,5633
+2022PIPE02,Aidan Piper,5633
+2014PATA01,Matija Patajac,5633
+2019SHAH40,Yug Hiren Shah,5667
+2016MACI06,Louis MacIver,5667
+2017SHIR02,Tanmay Shirodkar,5667
+2019CHOO02,Jayden Choo,5667
+2019CHEN10,Wan-Ying Chen (陳婉瑩),5667
+2016DERO04,Fabio De'Rose,5667
+2016DENN05,Chris Dennis,5667
+2012CHAK01,Hariprasad CM,5667
+2015STEV04,Isaac Stevens,5667
+2017YANR03,Rongxuan Yang (杨镕漩),5667
+2017WILS09,Kevin Wilson,5667
+2013ZHUY02,Yanfeng Zhu (朱艳枫),5667
+2022TZOR01,Michael Tzor,5700
+2014REDK01,Raunak Redkar,5700
+2022YINB02,Brian Yin,5700
+2016MAMI02,Mike Ma,5700
+2017DIKY01,Yinte Dik,5700
+2017VIVI01,Loïck Vivier,5700
+2017RAVA04,Morteza Maghsoudi Ravari (مرتضی مقصودی راوری),5700
+2017VASU01,Kaustubh Vasudevan,5700
+2017CHEG01,Gong Chen (陈功),5700
+2022KOTR01,Klára Kotrsová,5733
+2019NOWA03,Szymon Nowak,5733
+2017KELL08,Simon Kelly,5733
+2019TANJ03,Joshua Tan,5733
+2009LIDO01,Donglei Li (李冬雷),5733
+2017FINO01,Ruben Fino,5733
+2014GUIT01,Helmuth William Figueroa Guitz,5733
+2023LYRE01,Reajnithdra Thesis Ly,5733
+2016WILE01,Kristin Wiley,5733
+2014STOP01,Renato Stopic,5733
+2017QUER02,Aria Querubin,5733
+2019BRUS01,Lev Bruskov (Лев Брусков),5733
+2018PANG03,Chitipat Pangma (ชิติพัทธ์ แพงมา),5767
+2015RAVI02,Aditya Ravindran,5767
+2018LEEE03,Evgeniy Lee,5767
+2018GAOY04,Yuanxing Gao (高元兴),5767
+2013RIVA01,Cristian Alberto Rivas Rivas,5767
+2018BRUB01,John Brubaker,5767
+2013SYRI01,Viktor Syriatskyi (Віктор Сирятський),5767
+2023YUFA01,Fang-Ru Yu (余芳儒),5767
+2012MIGL01,Noémi Miglinski,5767
+2017GAMO01,Nikita Gamolin,5767
+2018ZHAN34,Shukun Zhang (张树坤),5767
+2016SAND04,Salvador Martinez Sandoval,5767
+2015CHAK01,Snehashish Chakravarti,5767
+2015HANH01,Hongyu Han (韩鸿宇),5767
+2023HILP01,Julian Hilpisch,5800
+2023MALA01,Carlo Malagar,5800
+2014SCHO01,Brody Schoon,5800
+2009ZBIE01,Heike Zbierski,5800
+2014VARK03,Roman Varkuta (Роман Варкута),5800
+2017CASA05,João Francisco Stolle Paixão e Casarões,5800
+2014ALVA10,Rafael Alvarez,5800
+2022SHAP06,Oscar Shapiama,5800
+2012MURA05,Gokul Murali,5800
+2017FAST01,Andrew Fast,5833
+2018PESY01,Anton Pesykov (Антон Песиков),5833
+2014CABR05,Ernesto Cabrera,5833
+2013VENK01,Praveen Venkatesh,5867
+2017JIHA01,Jihaobutao (冀好布套),5867
+2016DIAZ14,David Arturo Díaz,5867
+2013SANC05,Jacob Sanchez,5867
+2012HOFL01,Julian Höfler,5867
+2017YANG36,Guohui Yan (闫国惠),5867
+2018AHAT01,Ali Ahat (Али Ахат),5867
+2015DIAC01,Tiana Diachenko,5867
+2022KEPP01,Samath Keppitiyagama,5867
+2023BEKX01,Xavier Bek,5900
+2014PILE02,Sergey Pileev,5900
+2018ALAG01,Bedirhan Alagöz,5900
+2013ZHAN39,Jiexing Zhang (张杰星),5900
+2017DYRI01,Oleksandr Dyrin (Олександр Дирін),5900
+2017MART40,Dmitriy Martyshev (Дмитрий Ма́ртышев),5900
+2022CLEM08,Sam Clements,5900
+2017KAZI01,Ruslan Kazin (Руслан Казин),5900
+2022BAHN01,Seojin Bahng (방서진),5933
+2022BENN11,Annye Bennett,5933
+2021COLW01,Ben Colwell,5933
+2011CECC01,Miriana Cecchi,5933
+2014PRAM01,Vikram Pramod,5933
+2022NARA04,Abhiram Narasimha,5933
+2022DIAZ01,Rodrigo Díaz,5933
+2018LAMB08,Hailey Lambert,5933
+2017KOJA01,Jandell Ryan Ko,5933
+2018HONC04,Illia Honcharuk (Ілля Гончарук),5933
+2015TOMA04,Teodor Toma,5967
+2022DELI01,Matei Deliu,5967
+2015RUIZ08,Benito Benítez Ruiz,5967
+2016PROI01,Aidan Proietto,5967
+2014MELN01,Sergey Melnik,5967
+2024YENP01,Pao-Cheng-Bobby Yen (焉保誠),6000
+2015NANA01,Atharva Nanavate,6000
+2014BHAT03,Achintya Bhatt,6000
+2018KRIZ01,Jan Křížka,6000
+2022KUBI04,Łukasz Kubica,6000
+2014HANJ02,Jiachi Han (韩佳池),6000
+2019TSAI11,Jia-Bow Tsai (蔡家堡),6000
+2016DUPL01,Thomas Duplessis,6000
+2022PETR14,Mykolas Petruševičius,6000
+2022BARN21,August Barnard,6033
+2018VILK01,Manu Viktors Vilks,6033
+2017KAMI03,Paweł Kamiński,6033
+2015KOKL01,Yulia Koklyugina (Юлия Коклюгина),6033
+2018GODI01,Ivan Ros Godia,6067
+2022SUDD01,Ratchanon Suddee (รัชชานนท์ สุดดี),6100
+2018DATE01,Yuto Date (伊達優人),6100
+2017MAGA05,Adrim Thapa Magar,6100
+2011MILA02,João Gabriel de Aguiar Milani,6100
+2013LING03,Jing-Heng Ling (凌敬恒),6133
+2017PATT06,Tyler Patten,6133
+2023BALA17,Martin Baláž,6133
+2016TAVA03,Amirparsa Tavazo (امیرپارسا تواضع),6167
+2016BRAV04,Gerardo Alor Bravo,6167
+2016CHAL01,Jakub Chaloupka,6167
+2022SAND02,Declan Sander,6167
+2023PAWA06,Rugved Pawar,6167
+2011SHIY03,Ying Shi (石瑛),6167
+2022CYMB01,Piotr Cymbała,6167
+2018VANH04,Hannu Vanhatalo,6200
+2016IRIZ02,Ant Irizarry,6200
+2021JACK01,Ben Jackson,6200
+2018GRAH08,David Graham,6200
+2017KIDA01,Vladislav Kidakov,6200
+2014KEER01,Sathya Keerthi,6233
+2019DELL01,Lily Dell-Rennie,6233
+2018CHEK05,Kaimu Chen (陈楷沐),6233
+2020MOOR04,Elijah Moore,6233
+2014SILV33,Huérllen Vicente Lemos e Silva,6267
+2014KOPE01,Pei-Yu Ko (柯沛羽),6267
+2023ALLE01,Harry Allen,6267
+2015KIER03,Felix Kiera,6267
+2015VALY02,Yaroslav Valyavskyi (Ярослав Валявский),6300
+2014TONO01,Aharon Campoli Tono,6300
+2015RAMO08,Raúl Ramos,6300
+2013PRAT02,Pulgurti Prateek,6300
+2016MAOY01,Yingmin Mao (毛英民),6300
+2019RICC02,Lorenzo Giulio Ricci,6333
+2022MENE01,Lorenzo Meneguz,6333
+2022ZANG01,Logan Zangaro,6367
+2016CRUZ16,Luis Alejandro Carvajal Cruz,6367
+2013LIZH01,Zhuo Li (李卓),6367
+2022RUBI10,Zack Rubio,6433
+2019STAR03,Johnathan Starkey,6433
+2010SOHT01,Tiffany Soh (蘇明珠),6433
+2018BELY01,Sergey Belyakov,6467
+2019IGNA02,Alexandru Ignat,6467
+2016BUAN01,Axel Jotham Miranda Buan,6467
+2018SCHU17,Thomas Schukraft,6467
+2017PAST08,Timofey Pastrevich,6533
+2018ALBR03,David Albright,6533
+2018DROB01,David Drobner,6533
+2022NECU01,Anais Isabelle Necula,6533
+2016HASA01,Shayan Hasanzade (شايان حسن زاده),6533
+2016ROTH01,Stanley Roth,6533
+2017HERN41,Abraham Moro Hernández,6567
+2021LEON03,Mateo de León,6600
+2016SZUL02,Piotr Szulc,6633
+2017JAMS01,Aysha Jamsheer,6633
+2021UTLE01,Joshua Utley,6633
+2022MOZZ01,Vitória Silveira Mozzini,6667
+2015KABE01,Nicolas Kaberian,6700
+2015MAST01,Hossein Mastan (حسین مستان),6700
+2016LENG01,Josh Lengel,6700
+2017KAPK01,Timur Kapkin,6700
+2014RIET01,Serena Rietbergen,6733
+2017COEL01,Caique Urtado Coelho,6767
+2022EYLE01,Julia Eyles,6767
+2016TORN02,Emil Van Ilmari Nguyen Tornudd,6867
+2015WHIT12,Athos Whittington,6933
+2013SOUZ04,Tiago João de Souza,6967
+2022TICK02,Emú Ticknor Byrd,6967
+2014HALE01,Donovan Hale,7067
+2010STAS01,Vasily Stasyev,7233
+2022FARQ01,Jeannie Farquharson-Wood,7333
+2022KIMS12,Siwoo Kim,7400
+2019KUCA01,Lisa Kucala,7700
+2012COHE01,Aaron Cohen,8000

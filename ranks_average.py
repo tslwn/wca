@@ -1,3 +1,5 @@
+"""Save the best average result for each person in each event since a given year."""
+
 import pandas
 
 
@@ -6,9 +8,8 @@ def filepath(table: str) -> str:
     return f"data/WCA_export_{table}.tsv"
 
 
-def save_best_averages():
-    """Save the best average result for each person in each event since 2014."""
-    min_year = 2014
+def save_best_averages(min_year: int):
+    """Save the best average result for each person in each event since a given year."""
 
     competitions = pandas.read_csv(filepath("Competitions"), delimiter="\t")
     competitions = competitions[competitions["year"] >= min_year]
@@ -34,4 +35,4 @@ def save_best_averages():
 
 
 if __name__ == "__main__":
-    save_best_averages()
+    save_best_averages(2014)
