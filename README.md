@@ -20,3 +20,11 @@ pip install -r requirements.txt
 Note that the default interpreter path in [settings.json](./.vscode/settings.json)
 assumes you are using [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
 and the environment is named `wca`.
+
+### Usage
+
+Run the script:
+
+```bash
+python ranks.py
+```
